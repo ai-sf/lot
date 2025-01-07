@@ -1,3 +1,6 @@
+<div
+  style="background-image:url('{{site.url}}/img/wave.png'); background-size:contain; background-repeat:yes-repeat; width: 100%; height: 0; padding-top:30%;">
+</div>
 <footer class="page-footer custom1">
   <div class="container">
     <div class="row">
@@ -8,26 +11,27 @@
       <div class="col l3 m6 s6">
         <h5 class="white-text">Contact</h5>
         <ul>
-          {% for item in site.data.footer.contact %}
-          <li>{{ item.name }}</li>
-          <li><a class="white-text" href="mailto:{{ item.mail }}">{{ item.mail }}</a></li>
-          {% endfor %}
+        {% for item in site.data.footer.contact %}
+      	  <li><a class="white-text" href="mailto:{{ item.mail }}">{{ item.name }}</a></li>
+        {% endfor %}
         </ul>
       </div>
       <div class="col l3 m6 s6">
         <h5 class="white-text">Connect</h5>
         <ul>
           {% for item in site.data.footer.connect %}
-          <li>
+	  <li>
             {% if item.facebook %}
-            <a class="white-text" href="{{item.url}}" target="_blank"><img src="{{site.url}}/img/fb_logo.png"></a>
+            <a class="white-text" href="{{item.url}}" target="_blank"><img src="{{site.url}}/img/fb_logo.png"> {{ item.name }}</a>
             {% elsif item.instagram %}
-            <a class="white-text" href="{{item.url}}" target="_blank"><img src="{{site.url}}/img/insta_logo.png"></a>
+            <a class="white-text" href="{{item.url}}" target="_blank"><img src="{{site.url}}/img/insta_logo.png"> {{ item.name }}</a>
             {% elsif item.twitter %}
-            <a class="white-text" href="{{item.url}}" target="_blank"><img src="{{site.url}}/img/tw_logo.png"></a>
+            <a class="white-text" href="{{item.url}}" target="_blank"><img src="{{site.url}}/img/tw_logo.png"> {{ item.name }}</a>
+			{% else %}
+			<a class="white-text" target="_blank" href="{{ item.url }}">{{ item.name }}</a>
             {% endif %}
           </li>
-          {% endfor %}
+	  {% endfor %}
         </ul>
       </div>
     </div>
@@ -36,8 +40,10 @@
     <div class="container">
       Built with Jekyll and materializecss by
       {% for item in site.data.footer.creator%}
-      <a class="white-text text-accent-3" href="mailto:{{ item.mail }}">{{ item.name }}</a>{% if forloop.last %}.{% else
-      %},{% endif %}
+        <a class="white-text text-accent-3" href="mailto:{{ item.mail }}">{{ item.name }}</a>
+        {% if forloop.last %}.
+        {% else %},
+        {% endif %}
       {% endfor %}
     </div>
   </div>

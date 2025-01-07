@@ -1,0 +1,30 @@
+info: " <p> Coming Soon! </p> "
+
+
+
+schedule:
+  - day: Coming Soon!
+    date: "05/2025"
+    short_descr: Coming Soon!
+    activity:
+      - hour: "00:00 - 00:00"
+        descr: "Coming Soon!"
+
+few_info:
+  info: ""
+  specs:
+    # - text: "* Per le visite di Sabato 14 pomeriggio o partecipanti saranno divisi in sottogruppi, ciascuno focalizzato su un particolare laboratorio. Qualche settimana prima dell'evento riceverete un form tramite il quale specificare le vostre preferenze. "
+      # url: 
+      # subpoints:
+        # - text: "a) Ultracold atoms"
+          # url: "#!"
+        # - text: "b) Solid State Photonics"
+          # url: "#!"
+        # - text: "c) Biophysics"
+          # url: "#!"
+        # - text: "The 3 last groups will have a combination of the previous topics"
+    - text: "Coming Soon!"
+      url: 
+      subpoints:
+        - text: " "
+   

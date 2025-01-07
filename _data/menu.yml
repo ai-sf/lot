@@ -1,5 +1,12 @@
-
-- text: "AISF"
+- text: Facilities
+  url: facilities
+- text: Programme
+  url: programme
+- text: Speakers
+  url: speaker
+- text: Registration
+  url: registration
+- text: Sponsors
+  url: sponsors
+- text: AISF
   url: https://www.ai-sf.it
-- icon: "share"
-  url: "https://www.google.com"

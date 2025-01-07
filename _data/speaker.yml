@@ -1,0 +1,14 @@
+description: "Coming Soon!"
+#description: "We are happy to host professors, academics and other prominent figures working with light and light-based technologies. Here you can find the profiles of some of them (constantly updated) and some informations about their conferences."
+
+content:
+- nome: "Coming Soon!"
+  id: id
+  uni: "Università di Pisa"
+  img: " "
+  title: "Title"
+  bio: "Coming Soon!"
+  abstract: ""
+  link:
+  slides: 
+

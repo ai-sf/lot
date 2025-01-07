@@ -1,160 +1,376 @@
 <!DOCTYPE html>
 <html lang="it">
   <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0" />
-  <link rel="shortcut icon" type="image/x-icon" href="http://localhost:4000/favicon.ico">
-  <title>Titolo sito - Titolo lungo</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0"/>
+    <link rel="shortcut icon" type="image/x-icon" href="http://localhost:4000/img/Logo_LOT25.png">
+    <title>LOT25 - Lights of Tuscany 2025</title>
 
-  <!-- Standard html meta tags -->
-
-  <meta name="description"
-    content="Sezione Giovani del Congresso SIF 2021" />
-  <meta name="keywords"
-    content="aisf associazione italiana studenti di fisica sif congresso nazionale 2021" />
-  <meta property="og:image"
-    content="http://localhost:4000/">
-  <!--
-  <meta name="title" content="">
-  <meta name="description" content="">
-  <meta name="keywords" content="">
-  <meta property="og:image" content="">
-  -->
-
-  <!-- og -->
-  <meta property="og:title" content="Sezione Giovani">
+<!-- Standard html meta tags -->
+    
+    <meta name="description" content="{% include banner.html %}                                          {{ site.data.home.msg }}                                                                  ..." />
+    <meta name="keywords" content="aisf associazione italiana studenti di fisica iaps" />
+    <meta property="og:image" content="">
+    <!--
+    <meta name="title" content="">
+    <meta name="description" content="">
+    <meta name="keywords" content="">
+    <meta property="og:image" content="">
+    -->
+    
+<!-- og -->
+    <meta property="og:title" content="Titolo sito">
 <meta property="og:type" content="website">
 <meta property="og:url" content="http://localhost:4000/">
 
-
+<meta property="og:description" content="{% include banner.html %}                                          {{ site.data.home.msg }}                                                                  ...">
 <meta property="og:site_name" content="Titolo sito">
 <meta property="og:locale" content="it">
 
 <meta property="fb:admins" content=""> <!-- editable in config.yml -->
 <meta property="fb:app_id" content="">
 
+<!-- Twitter metadata. twitter:image should not be necessary, as twitter recognizes og:-->
+<meta name="twitter:card"           content="summary" />
+<meta name="twitter:site"           content="@aisf_fisica" />
+<meta name="twitter:title"          content="Titolo sito" />
+<meta name="twitter:description"    content="{% include banner.html %}                                          {{ site.data.home.msg }}                                                                  ..."/>
+<!-- <meta name="twitter:image:alt"      content=""> Name of image for visually impaired. Will need to add this to all images -->
 
 
 
 
 
-  <!-- CSS  -->
-  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-  <link rel="stylesheet prefetch" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css">
-  <link href="http://localhost:4000/css/main.css" type="text/css" rel="stylesheet" media="screen" />
-  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+<!-- CSS  -->
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link rel="stylesheet prefetch" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css">
+    <link href="http://localhost:4000/css/main.css" type="text/css" rel="stylesheet" media="screen"/>
 </head>
+
   <body>
-      
-
-      <nav class="custom1" role="navigation">
-          <div class="nav-wrapper container">
-              <a href="#" data-target="nav-mobile" class="button-collapse hide-on-large-only sidenav-trigger"><i class="material-icons">menu</i></a>
-              <a id="logo-container" href="http://localhost:4000/index.html" class="brand-logo">Titolo sito</a>
-
-                    <ul class="right hide-on-med-and-down">
-  
-  
-  
-    <li >
-        <a
-           
-              href="https://www.ai-sf.it" target="_blank"
-           
-           >
-           
-                AISF
-        </a>
-    </li>
     
 
-  
-  
-    <li >
-        <a
-           
-              href="https://www.google.com" target="_blank"
-           
-           >
-           
-            <i class="material-icons left">share</i>
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+
+<nav class="custom1" role="navigation">
+    <div class="nav-wrapper container">
+        <a href="#" data-activates="nav-mobile" class="button-collapse hide-on-large-only"><i class="material-icons">menu</i></a>
+        <a id="logo-container" href="http://localhost:4000/index.html" class="brand-logo">LOT25</a>
+
+        <ul class="right hide-on-med-and-down">
+          
+          
+            <li>
+                <a 
+                   
+                     href="http://localhost:4000/facilities"
+                   
+                   >
+                    
+                        Facilities
+                    
+                </a>
+            </li>
+            
+        
+          
+            <li>
+                <a 
+                   
+                     href="http://localhost:4000/programme"
+                   
+                   >
+                    
+                        Programme
+                    
+                </a>
+            </li>
+            
+        
+          
+            <li>
+                <a 
+                   
+                     href="http://localhost:4000/speaker"
+                   
+                   >
+                    
+                        Speakers
+                    
+                </a>
+            </li>
+            
+        
+          
+            <li>
+                <a 
+                   
+                     href="http://localhost:4000/registration"
+                   
+                   >
+                    
+                        Registration
+                    
+                </a>
+            </li>
+            
+        
+          
+            <li>
+                <a 
+                   
+                     href="http://localhost:4000/sponsors"
+                   
+                   >
+                    
+                        Sponsors
+                    
+                </a>
+            </li>
+            
+        
+          
+            <li>
+                <a 
+                   
+                     href="https://www.ai-sf.it"
+                   
+                   >
+                    
+                        AISF
+                    
+                </a>
+            </li>
+            
+        
+        </ul>
+
+        <ul id="nav-mobile" class="side-nav">
+            <li class="logo"><a id="mobile-logo-container" href="http://localhost:4000"><object id="front-page-logo" type="image/png" style="height:64px" data="http://localhost:4000/img/banner_2_LOT25.png">Your browser does not support PNG</object></a></li>
             
                 
-        </a>
-    </li>
-    
+                <li><a 
+                   
+                     href="http://localhost:4000/facilities"
+                   
+                   >
+                  
+                  Facilities
+                  
+                </a></li>
+                
+            
+                
+                <li><a 
+                   
+                     href="http://localhost:4000/programme"
+                   
+                   >
+                  
+                  Programme
+                  
+                </a></li>
+                
+            
+                
+                <li><a 
+                   
+                     href="http://localhost:4000/speaker"
+                   
+                   >
+                  
+                  Speakers
+                  
+                </a></li>
+                
+            
+                
+                <li><a 
+                   
+                     href="http://localhost:4000/registration"
+                   
+                   >
+                  
+                  Registration
+                  
+                </a></li>
+                
+            
+                
+                <li><a 
+                   
+                     href="http://localhost:4000/sponsors"
+                   
+                   >
+                  
+                  Sponsors
+                  
+                </a></li>
+                
+            
+                
+                <li><a 
+                   
+                     href="https://www.ai-sf.it"
+                   
+                   >
+                  
+                  AISF
+                  
+                </a></li>
+                
+            
+        </ul>
+    </div>
+</nav>
 
-</ul>
+        <div id="index-banner">
+  <div class="container">
+    <div class="row">
+      <div class="col s12">
+        <h1>
+          <img id="index-top-logo" src="http://localhost:4000/img/banner_1_LOT25.png" alt="Event logo">
+        </h1>
+      </div>
+    </div>
+  </div>  
+</div>
 
 
-          </div>
-      </nav>
-      <ul id="nav-mobile" class="sidenav">
-    <li class="logo"><a id="mobile-logo-container" href="http://localhost:4000"><object id="front-page-logo" type="image/png" style="width:64px" data="http://localhost:4000/img/logo.png">Your browser does not support PNG</object></a></li>
+<div class="no-pad-top" id="index-page">
+  
     
-        
-        <li><a
-           
-              href="https://www.ai-sf.it" target="_blank"
-           
-           >
-          AISF
-        </a></li>
-        
+    <!--   Message -->
     
-        
-        <li><a
-           
-              href="https://www.google.com" target="_blank"
-           
-           >
+    <div class="section">
+      <div class="row">
+        <h3 class="center custom2-text">
           
-        </a></li>
-        
+        </h3>
+      </div>
+    </div>
+                
+    <div class="container">
+      <div class="section">
+        <div class="row">
+          <div class="col s12 m4">
+            <div class="icon-block">
+              <h2 class="center"><i class="medium material-icons custom2-text">supervisor_account</i></h2>
+              <h2 class="center">Who</h2>
+              <p class="light">Coming Soon!</p>
+            </div>
+          </div>
+  
+          <div class="col s12 m4">
+            <div class="icon-block">
+              <h2 class="center"><i class="medium material-icons custom2-text">today</i></h2>
+              <h2 class="center">When</h2>
+              <p class="light">Coming Soon!</p>
+            </div>
+          </div>
+  
+          <div class="col s12 m4">
+            <div class="icon-block">
+              <h2 class="center"><i class="medium material-icons custom2-text">location_on</i></h2>
+              <h2 class="center">Where</h2>
+              <p class="light">Coming Soon!</p>
+            </div>
+          </div>
+        </div>
+    </div>
+    </div>
+    <!--   Icon Section   -->
     
-</ul>
 
+    <!-- slideshow -->
+    <div class="section">
+      <div class="slider" id="foto-eventi">
+        <ul class="slides">
+          
+            <li>
+              <img src="http://localhost:4000/" alt="Coming Soon!">
+              <div class="caption left-align">
+                <h4>Coming Soon!</h4>
+                <p class="light grey-text text-lighten-3">Coming Soon!</p>
+              </div>
+            </li>
+          
+        </ul>
+      </div>
+    </div>
 
+    <!-- paragraph -->
+    <div class="section">
+      <div class="row">
+        <div class="col s8 offset-s2">
+          <div class="icon-block">
+            <h3 class="center"><i class="medium material-icons custom1-text">send</i></h2>
+            <p class="center light">Coming Soon!</p>
+          </div>
+        </div>
+      </div>
+    </div>
 
-        Ciao
-    <footer class="page-footer custom1">
+  </div>
+</div>
+
+    <div
+  style="background-image:url('http://localhost:4000/img/wave.png'); background-size:contain; background-repeat:yes-repeat; width: 100%; height: 0; padding-top:30%;">
+</div>
+<footer class="page-footer custom1">
   <div class="container">
     <div class="row">
       <div class="col l6 m6 s12">
         <h5 class="white-text">Associazione Italiana Studenti di Fisica</h5>
-        <p class="grey-text text-lighten-4">The Associazione Italiana Studenti di Fisica (AISF) gathers together most of the Italian physics students. It was founded in Heidelberg in August 2014 and since January 2015 is a National Committee for the International Association of Physics Students (IAPS).</p>
+        <p class="grey-text text-lighten-4">The Associazione Italiana Studenti di Fisica (AISF) is a non-profit organization with educational purposes that gathers together all the Italian students of physics. It was founded in Heidelberg in August 2014 and since January 2015 is a National Committee of the International Association of Physics Students (IAPS). It counts more than 1000 members and 16 Local Committees.</p>
       </div>
       <div class="col l3 m6 s6">
         <h5 class="white-text">Contact</h5>
         <ul>
-          
-          <li>AISF</li>
-          <li><a class="white-text" href="mailto:esecutivo@ai-sf.it">esecutivo@ai-sf.it</a></li>
-          
+        
+      	  <li><a class="white-text" href="mailto:esecutivo@ai-sf.it">AISF</a></li>
+        
         </ul>
       </div>
       <div class="col l3 m6 s6">
         <h5 class="white-text">Connect</h5>
         <ul>
           
-          <li>
+	  <li>
             
-            <a class="white-text" href="https://it-it.facebook.com/aisf.fisica/" target="_blank"><img src="http://localhost:4000/img/fb_logo.png"></a>
-            
-          </li>
-          
-          <li>
-            
-            <a class="white-text" href="https://www.instagram.com/aisf_fisica/" target="_blank"><img src="http://localhost:4000/img/insta_logo.png"></a>
+            <a class="white-text" href="https://it-it.facebook.com/aisf.fisica/" target="_blank"><img src="http://localhost:4000/img/fb_logo.png"> Facebook</a>
             
           </li>
-          
-          <li>
+	  
+	  <li>
             
-            <a class="white-text" href="https://twitter.com/aisf_fisica" target="_blank"><img src="http://localhost:4000/img/tw_logo.png"></a>
+            <a class="white-text" href="https://www.instagram.com/aisf_fisica/" target="_blank"><img src="http://localhost:4000/img/insta_logo.png"> Instagram</a>
             
           </li>
-          
+	  
+	  <li>
+            
+            <a class="white-text" href="https://twitter.com/aisf_fisica" target="_blank"><img src="http://localhost:4000/img/tw_logo.png"> Twitter</a>
+			
+          </li>
+	  
+	  <li>
+            
+			<a class="white-text" target="_blank" href="https://www.iaps.info/">IAPS Website</a>
+            
+          </li>
+	  
         </ul>
       </div>
     </div>
@@ -163,27 +379,43 @@
     <div class="container">
       Built with Jekyll and materializecss by
       
-      <a class="white-text text-accent-3" href="mailto:roberto.ciccarelli@ai-sf.it">Roberto Ciccarelli</a>.
+        <a class="white-text text-accent-3" href="mailto:andreagerhard.lutz@ai-sf.it">Andrea Gerhard Lutz</a>
+        ,
+        
+      
+        <a class="white-text text-accent-3" href="mailto:example@ai-sf.it">Alice d'Autilio</a>
+        .
+        
       
     </div>
   </div>
 </footer>
+
   </body>
-  <script src="https://ajax.aspnetcdn.com/ajax/jQuery/jquery-2.2.4.js"></script>
-<script src="http://localhost:4000/js/materialize.min.js"></script>
-<script src="http://localhost:4000/js/init.js"></script>
+  <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+<script src="/js/bin/materialize.min.js"></script>
 
 
-<script type="text/x-mathjax-config">
-  MathJax.Hub.Config({
-    tex2jax: {
-      inlineMath: [ ['$','$'], ["\\(","\\)"] ],
-      processEscapes: true
-    }
+<script> // Slider
+  $(document).ready(function(){
+  $('.slider').slider({full_width: false});
   });
 </script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS-MML_HTMLorMML"
-    type="text/javascript"></script>
-
+<script> // Initialize collapse button
+  $(".button-collapse").sideNav();
+  // Initialize collapsible (uncomment the line below if you use the dropdown variation)
+  $('.collapsible').collapsible();
+</script>
+<script>
+  $(document).ready(function(){
+  // the "href" attribute of .modal-trigger must specify the modal ID that wants to be triggered
+  $('.modal-trigger').leanModal();
+  });
+</script>
+<script>
+  $(document).ready(function(){
+      $('.carousel').carousel();
+  });
+</script>
 
 </html>
