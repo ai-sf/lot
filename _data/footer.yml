@@ -5,15 +5,15 @@ contact:
   - name: AISF contact mail
     mail: esecutivo@ai-sf.it
   - name: IAPS Website
-    url: https://www.iaps.info/    
+    url: https://www.iaps.info/
 
 connect:
   - name: Instagram AISF
     url: "https://www.instagram.com/aisf_fisica/"
-    instagram: true
+    instagram: true 
   - name: Instagram LOT 25
     url: "https://www.instagram.com/lot.aisf?igsh=MTFyb3RzczdoNGlwag=="
-    instagram: true  
+    instagram: true 
 
 creator:
   - name: Andrea Gerhard Lutz
