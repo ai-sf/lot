@@ -4,6 +4,8 @@ descr: The Associazione Italiana Studenti di Fisica (AISF) is a non-profit organ
 contact:
   - name: AISF contact mail
     mail: esecutivo@ai-sf.it
+  - name: IAPS Website
+    url: https://www.iaps.info/    
 
 connect:
   - name: Instagram AISF
@@ -12,8 +14,6 @@ connect:
   - name: Instagram LOT 25
     url: "https://www.instagram.com/lot.aisf?igsh=MTFyb3RzczdoNGlwag=="
     instagram: true  
-  - name: IAPS Website
-    url: https://www.iaps.info/
 
 creator:
   - name: Andrea Gerhard Lutz
