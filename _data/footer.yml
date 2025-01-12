@@ -2,24 +2,21 @@ title: Associazione Italiana Studenti di Fisica
 descr: The Associazione Italiana Studenti di Fisica (AISF) is a non-profit organization with educational purposes that gathers together all the Italian students of physics. It was founded in Heidelberg in August 2014 and since January 2015 is a National Committee of the International Association of Physics Students (IAPS). It counts more than 1000 members and 16 Local Committees.
 
 contact:
-  - name: AISF
+  - name: AISF contact mail
     mail: esecutivo@ai-sf.it
 
 connect:
-  - name: Facebook
-    url: "https://it-it.facebook.com/aisf.fisica/"
-    facebook: true
-  - name: Instagram
+  - name: Instagram AISF
     url: "https://www.instagram.com/aisf_fisica/"
     instagram: true
-  - name: Twitter
-    url: "https://twitter.com/aisf_fisica"
-    twitter: true
+  - name: Instagram LOT 25
+    url: "https://www.instagram.com/lot.aisf?igsh=MTFyb3RzczdoNGlwag=="
+    instagram: true  
   - name: IAPS Website
     url: https://www.iaps.info/
 
 creator:
   - name: Andrea Gerhard Lutz
     mail: andreagerhard.lutz@ai-sf.it
-  - name: Alice d'Autilio
-    mail: example@ai-sf.it
+  - name: Alice D'Autilio
+    mail: dautilioalice@gmail.com
