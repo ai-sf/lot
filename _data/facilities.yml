@@ -1,4 +1,14 @@
-intro: "Coming Soon!"
+intro: >
+  The scientific programme plans to show the participants a wide spectrum of high-profile scientific and academic facilities present in Pisa and Florence:
+  - The VIRGO site of the European Gravitational Observatory (EGO).
+  - The Italian National Research Council (CNR).
+  - The National Institute for Nuclear Physics (INFN).
+  - The European Laboratory for Non-linear Spectroscopy (LENS).
+  - The Arcetri Astrophysical Observatory.
+  - The University of Pisa.
+  - The University of Florence.
+
+  Beside the visits, there will be a large number of talks, as in the past editions. In particular, we will have an overview of all the major topics and experiments currently running in the above facilities and their implications, so as to better appreciate the visits and understand the concepts from different points of view. It will be an undoubtedly rich experience.
 
 university:
 
@@ -8,6 +18,32 @@ university:
     site: "http://www.df.unipi.it"
     map: "https://www.google.es/maps/place/Largo+Bruno+Pontecorvo,+56127+Pisa+PI,+Italy/@43.7199988,10.4051688,17z/data=!3m1!4b1!4m5!3m4!1s0x12d591bca16a42c9:0x1b68e0b23702261a!8m2!3d43.7199949!4d10.4073628?hl=en"
 
-accomodation:
-    
+ - img: img/facilities/unifi.jpg
+    title: University of Florence
+    descr: "The University of Florence is the largest one in Tuscany.Its new department of Physics, placed in a scientific campus outside of the city, works closely with many research centres and institutions. Among its various research fields, a large group counducts studies in matter physics, in particular on biofotonics and quantum technologies."
+    site: "https://www.fisica.unifi.it/"
+    map: "https://www.google.es/maps/place/Universita+degli+Studi+di+Firenze+-+Dipartimento+di+Fisica+e+Astronomia/@43.7987785,11.1910547,13z/data=!4m8!1m2!2m1!1suniversita+firen%3Ce+fisica!3m4!1s0x132a57a4e0d17979:0x8d8972ad41a1449c!8m2!3d43.8198012!4d11.1925551?hl=en"
+
+
+accomodation: "Accomodations and breakfast will be provided to the participants in structures near the two cities main train stations."
+
+  - img: img/facilities/hotel.jpg
+    title: Hotel Moderno, Pisa
+    descr: "Accomodation from May 15th to May 18th (3 nights) will be in Pisa and will be provided at the Hotel Moderno, Via F. Corridoni, 103 - 56125 Pisa (PI)"
+    site: "https://hotelmoderno.pisa.it/"
+    map: "https://maps.app.goo.gl/S3Z67oXsnr3mKdWJ6"
+
+  - img: img/facilities/hotel.jpg
+    title: a&o Firenze Campo di Marte Hostel
+    descr: "Accomodation from May 18th to May 19th (1 night) will be in Florence and will be provided at the a&o Firenze Campo di Marte Hostel, Via Mannelli 119, 50132 Firenze (FI)"
+    site: "https://www.aohostels.com/it/firenze/firenze-campo-di-marte/"
+    map: "https://maps.app.goo.gl/3f7CdQmX7ueXwKey5"
+  
 science:
+
+  - img: img/facilities/VIRGO.jpg
+    title: VIRGO
+    descr: "VIRGO is a gravitational wave detector consisting of a massive Michelson laser interferometer. It is part of the collaboration that last year discovered Gravitational Waves"
+    site: "http://www.virgo-gw.eu/"
+    map: "https://www.google.es/maps/place/European+Gravitational+Observatory/@43.6313851,10.5023022,17z/data=!3m1!4b1!4m5!3m4!1s0x12d58c5d47067c71:0x50cbf460a97d724c!8m2!3d43.6313812!4d10.5044962?hl=en"
+
