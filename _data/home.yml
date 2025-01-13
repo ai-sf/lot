@@ -1,12 +1,12 @@
 banner: img/banner_1_LOT25.png
 
-# msg: "Grazie per aver partecipato. Ci vediamo alla prossima ediione di Light of Tuscany!"
+# msg: "Grazie per aver partecipato. Ci vediamo alla prossima ediione di Lights of Tuscany!"
 
-who: "Coming Soon!"
+who: "40 students from many countries and of all ages, coming to Pisa and Florence to discover the Lights of Tuscany."
 
-when: "Coming Soon!"
+when: "From the 15th to the 19th of May 2025, arrival and departures included."
 
-where: "Coming Soon!"
+where: "Three days in Pisa, two in Florence. Check out the schedule in the Programme section to see all the places, laboratories and universities you will have the opportunity to visit."
 
 slideshow:
   - img: 
@@ -15,4 +15,7 @@ slideshow:
     text: Coming Soon!
   
 
-paragraph: "Coming Soon!"
+paragraph: >
+  "The event is open to all students of the International Association of Physics Students.
+  It will bring 40 students to visit some of the most advanced research facilities in Tuscany, with a focus on Photonics and Optics and one key mission: to foster enthusiasm in the minds of young physicists.
+  AISF Local committees of Pisa and Florence are aiting for you at the Lights of Tuscany programme, now at its sixth edition!"
