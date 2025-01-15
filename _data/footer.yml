@@ -8,11 +8,14 @@ contact:
     url: https://www.iaps.info/
 
 connect:
-  - name: Instagram AISF
+  - name: Instagram AISF 
     url: "https://www.instagram.com/aisf_fisica/"
     instagram: true 
   - name: Instagram LOT 25
     url: "https://www.instagram.com/lot.aisf?igsh=MTFyb3RzczdoNGlwag=="
+    instagram: true 
+  - name: Instagram Local Committee AISF Pisa
+    url: "https://www.instagram.com/aisf.pisa?igsh=cjBvc2EwdmlieXlo"
     instagram: true 
 
 creator:
