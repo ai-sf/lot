@@ -2,7 +2,36 @@ intro: "Coming Soon!"
 
 people:
   - img: img/giulia.jpg
-    title: Giulia Casti
+    title: "Giulia Casti"
     descr: "Coordinator and Social events manager"
-    site: ""
-    map: ""
+    mail: giulia.casti@ai-sf.it
+
+  - img: img/alice.jpg
+    title: "Alice D'Autilio"
+    descr: "Social media and accomodation manager"
+    mail: dautilioalice@gmail.com
+
+  - img: img/francesco.jpg
+    title: "Francesco De Cosmo"
+    descr: "Sponsor manager"
+    mail: 
+
+  - img: img/julia.jpg
+    title: "Julia Favaro"
+    descr: "Secretary and Sponsor manager"
+    mail: 
+
+  - img: img/dorotea.jpg
+    title: "Dorotea Nardini"
+    descr: "Laboratory visits manager"
+    mail: 
+
+  - img: img/filippo.jpg
+    title: "Filippo Di Tuccio"
+    descr: "Academic events manager"
+    mail: 
+
+  - img: img/alessandro.jpg
+    title: "Alessandro Terranova"
+    descr: "Sponsor manager"
+    mail: 
