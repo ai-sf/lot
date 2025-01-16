@@ -2,8 +2,8 @@ info: "You can find the registration form at the bottom of this page.
 </p><p>
 Before you fill it, please read the terms and conditions below. Please note that, upon registration, you will be asked for personal details (such as name, surname, date of birth, university affiliation, passport number etc.) and a note to describe your motivation to take part in the event. We recommend that you take this element of the selection very seriously, as it will be taken into consideration when selecting applicants."
 
-starting_date: "2023-03-02 12:00"
-ending_date: "2023-04-14 23:59"
+starting_date: "2025-03-25 12:00"
+ending_date: "2025-04-21 23:59"
 
 posters?: true
 
@@ -16,10 +16,11 @@ selection:
     - text: "If you are Italian and you are not an AISF/IAPS member you can become one while registering for this event by compiling the following form. <br> Being an AISF member also includes membership to IAPS."
       url: "http://ai-sf.it/iscrizione"
       button: Form
-    - text: "AA places are available, of whom approximatedly half will be Italian. Once registrations are closed, the selected participants are required to confirm by covering a participation fee of maximum BB€."
-    - text: "Please note that unfortunately we are not able to provide scholarships and/or bursaries for any students at this time"
-    - text: "Si prega di notare che i partecipanti non devono essere specializzati nel campo della fotonica, ma possono provenire da qualsiasi disciplina della fisica."
+    - text: "40 places are available, of whom approximatedly half will be Italian. Once registrations are closed, the selected participants are required to confirm by covering a participation fee of maximum €100."
+    - text: "Please note that unfortunately we are not able to provide scholarships and/or bursaries for any students at this time."
+    - text: "Please note that participants do not need to be specialized in the field of photonics, but can come from any discipline of physics."
       url: "#!"
+
 terms:
   info: "Before you subscribe to the event, please read carefully and take note of the followings:"
   specs:
@@ -42,12 +43,12 @@ terms:
       url: "#!"
 
 deadlines:
-  info: ""
+  info: "Please read carefully below."
   specs:
-    - text: "The registration period will end on XX the xxth."
+    - text: "The registration period will be from the 25th of March 2025 to the 21st of April 2025."
       url: "#!"
-    - text: "All applicants will be emailed within XX the xxth. Payments will then be required (by bank transfer or PayPal) within XX the xxth"
+    - text: "All applicants will be emailed within a few days of the registration closing, in order to communicate the outcome of the selection for the event."
       url: "#!"
-    - text: "There are a few more spots available so registration will be open until XX the xxth!"
+    - text: "Payments will then be required (by bank transfer or PayPal) by a date yet to be defined."
       url: "#!"
      
