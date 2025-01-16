@@ -37,7 +37,7 @@ terms:
       url: "#!"
     - text: "You accept that either the organizing committee, AISF or any other of the hosting institutes cannot be made responsible for the content of any poster, talk, workshop, excursion or similar activity."
       url: "#!"
-    - text: "You accept that, in case of cancellation by a participant, the Organizing Committee will provide a reimbursement up to XX the xxth, only if a replacement for the student can be found. Before this date, any reimbursement will be made except for a 20 € fee, which will be withheld to cover administrative costs. No reimbursement will be given for membership fees under no circumstances."
+    - text: "You accept that, in case of cancellation by a participant, the Organizing Committee will provide a reimbursement up to a date to be defined, only if a replacement for the student can be found. Before this date, any reimbursement will be made except for a 20 € fee, which will be withheld to cover administrative costs. No reimbursement will be given for membership fees under no circumstances."
       url: "#!"
     - text: "The present terms and conditions are governed by the laws of the Republic of Italy."
       url: "#!"
@@ -52,3 +52,14 @@ deadlines:
     - text: "Payments will then be required (by bank transfer or PayPal) by a date yet to be defined."
       url: "#!"
      
+price:
+  info: "Please read carefully below."
+  specs:
+    - text: "Once registrations are closed, the selected participants are required to confirm by covering a participation fee of maximum €100. To this price you will have to add the AISF registration fee, only if the participant is not already registered."
+      url: "#!"
+    - text: "Payments will then be required (by bank transfer or PayPal) by a date yet to be defined. The receipt will be delivered on the first day of the event."
+      url: "#!"
+    - text: "The price includes accommodation for the nights from May 15th to 19th, personalized gadgets, identification badge, access to the various facilities and events (university, laboratories, conferences), certificate of participation, insurance."
+      url: "#!"
+    - text: "The price does NOT include anything not explicitly indicated under 'the price includes'. In particular are not included travel toward Pisa and return from Florence, organization and payment of these are in charge of the participant. Meals not specified in the official Program are not included. The organizing committee will however suggest a few places where to eat and spend some free time."
+      url: "#!"
