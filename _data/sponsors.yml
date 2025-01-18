@@ -2,52 +2,52 @@
   format: "m3"
   subitems:    
     - text: "International Association of Physics Students: IAPS"
-      img: img/sponsors/IAPS.png
+      img: IAPS.png
       link: "https://iaps.info/"
     - text: "Associazione Italiana Studenti di Fisica: AISF"
-      img: img/sponsors/AISF.PNG
+      img: AISF.PNG
       link: "https://ai-sf.it/"      
     - text: "Local Committee AISF Pisa"
-      img: img/sponsors/AISF_pisa.PNG
+      img: AISF_pisa.PNG
       link: "https://iaps.info/"      
     - text: "Local Committee AISF Florence"
-      img: img/sponsors/AISF_firenze.PNG
+      img: AISF_firenze.PNG
       link: "https://iaps.info/"      
 
 - title: "With the patronage of:"
   format: "m3"
   subitems:    
     - text: "Tuscany Region"
-      img: img/sponsors/toscana.jpeg
+      img: toscana.jpeg
       link: "https://www.regione.toscana.it/"
     - text: "Municipality of Pisa"
-      img: img/sponsors/comune_pisa.png
+      img: comune_pisa.png
       link: "https://www.comune.pisa.it/"
     - text: "Municipality of Florence"
-      img: img/sponsors/comune_firenze.PNG
+      img: comune_firenze.PNG
       link: "https://www.comune.fi.it/"
 
 - title: "With the support of:"
   format: "m3"
   subitems:    
     - text: "INFN of Florence"
-      img: img/sponsors/INFN_firenze.jpg
+      img: INFN_firenze.jpg
       link: "https://www.fi.infn.it/"
     - text: "INFN of Pisa"
-      img: img/sponsors/INFN_pisa.jpg
+      img: INFN_pisa.jpg
       link: "https://www.pi.infn.it/"
     - text: "UNESCO International Day of Light (16 May)"
-      img: img/sponsors/IDL_UNESCO.PNG
+      img: IDL_UNESCO.PNG
       link: "https://www.lightday.org/"
 
 - title: "In collaboration with:"
   format: "m3"
   subitems:    
     - text: "Physics Departement of the University of Pisa"
-      img: img/sponsors/dip_unipi.jpg
+      img: dip_unipi.jpg
       link: "https://www.df.unipi.it/"
     - text: "Physics Departement of the University of Florence"
-      img: img/sponsors/dip_unifi.jpg
+      img: dip_unifi.jpg
       link: "https://www.fisica.unifi.it/"
 
 - title: "Official sponsors:"
