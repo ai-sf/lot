@@ -15,17 +15,18 @@ intro: "The scientific programme plans to show the participants a wide spectrum 
   - The University of Florence. 
 <br>
 <br>
-Beside the visits there will be a large number of talks, as in the past editions. In particular we will have overview on all the major topics and experiments currently running in the above facilities and their implication, so to better appriciate the visits and understand the concepts from different points of view. It will be an undoubtedly rich experience."
+Besides the visits, there will be a large number of talks, just like in previous editions. In particular, we will have overviews of all the major topics and experiments currently running in the aforementioned facilities and their implications. This will allow us to appreciate the visits better and understand the concepts from different perspectives. It will undoubtedly be a rich experience."
+
 
 university:
   - img: img/facilities/IMG_-_46.jpg
     title: University of Pisa
-    descr: "The University of Pisa is one of the most ancient universities in Italy and Europe. In its facilities, among others, studied the Physics Nobel laureates Enrico Fermi and Carlo Rubbia. It is consistedly ranked among the world's best universities in the field. We will visit the laboratories of many institution affiliated."
+    descr: "The University of Pisa is one of the oldest universities in Italy and Europe. Among others, Nobel Prize-winning physicists Enrico Fermi and Carlo Rubbia studied there. It is consistently ranked among the world's best universities in its field. We will visit the laboratories of many affiliated institutions."
     site: "http://www.df.unipi.it"
     map: "https://www.google.es/maps/place/Largo+Bruno+Pontecorvo,+56127+Pisa+PI,+Italy/@43.7199988,10.4051688,17z/data=!3m1!4b1!4m5!3m4!1s0x12d591bca16a42c9:0x1b68e0b23702261a!8m2!3d43.7199949!4d10.4073628?hl=en"
   - img: img/facilities/unifi.jpg
     title: University of Florence
-    descr: "The University of Florence is the largest one in Tuscany.Its new department of Physics, placed in a scientific campus outside of the city, works closely with many research centres and institutions. Among its various research fields, a large group counducts studies in matter physics, in particular on biofotonics and quantum technologies."
+    descr: "The University of Florence is the largest one in Tuscany. Its new department of Physics, placed in a scientific campus outside of the city, works closely with many research centres and institutions. Among its various research fields, a large group counducts studies in matter physics, in particular on biophotonics and quantum technologies."
     site: "http://www.fisica.unifi.it/"
     map: "https://www.google.es/maps/place/Universita+degli+Studi+di+Firenze+-+Dipartimento+di+Fisica+e+Astronomia/@43.7987785,11.1910547,13z/data=!4m8!1m2!2m1!1suniversita+firen%3Ce+fisica!3m4!1s0x132a57a4e0d17979:0x8d8972ad41a1449c!8m2!3d43.8198012!4d11.1925551?hl=en"
 
@@ -47,7 +48,7 @@ accomodation:
 science:
   - img: img/facilities/VIRGO.jpg
     title: VIRGO
-    descr: "VIRGO is a gravitational wave detector consisting of a massive Michelson laser interferometer. It is part of the collaboration that last year discovered Gravitational Waves."
+    descr: "The VIRGO interferometer hosted by the European Gravitational Observatory (EGO) is a gravitational wave detector consisting of a massive Michelson laser interferometer. It is part of the collaboration that recently discovered Gravitational Waves."
     site: "http://www.virgo-gw.eu"
     map: "https://www.google.es/maps/place/European+Gravitational+Observatory/@43.6313851,10.5023022,17z/data=!3m1!4b1!4m5!3m4!1s0x12d58c5d47067c71:0x50cbf460a97d724c!8m2!3d43.6313812!4d10.5044962?hl=en"
 
@@ -57,7 +58,7 @@ science:
     site: "http://www.lens.unifi.it"
     map: "https://www.google.es/maps/place/LENS/@43.8188678,11.190617,17z/data=!3m1!4b1!4m5!3m4!1s0x132a57a4fe34cce3:0x798b7fd7cf268883!8m2!3d43.818864!4d11.192811?hl=en"
 
-  - img: img/facilities/INFN.jpg
+  - img: img/facilities/INFN2.jpg
     title: INFN
     descr: "The National Institute for Nuclear Physics is been for over 70 years active in the research of nuclear and fundamental physics, but its study fields broadened over time and now it collaborates on many other national and international projects. It is the perfect meeting point for experimental and theoretical physics."
     site: "https://www.pi.infn.it/"
