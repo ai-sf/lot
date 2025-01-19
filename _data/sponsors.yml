@@ -1,9 +1,6 @@
 - title: "Organized by:"
   format: "m3"
-  subitems:    
-    - text: "International Association of Physics Students: IAPS"
-      img: IAPS.png
-      link: "https://iaps.info/"
+  subitems:
     - text: "Territorial Committee of IAPS Italy: AISF"
       img: AISF.PNG
       link: "https://ai-sf.it/"      
@@ -29,7 +26,10 @@
 
 - title: "With the support of:"
   format: "m3"
-  subitems:    
+  subitems:
+    - text: "International Association of Physics Students: IAPS"
+      img: IAPS.png
+      link: "https://iaps.info/"
     - text: "INFN of Florence"
       img: INFN_firenze.jpg
       link: "https://www.fi.infn.it/"
