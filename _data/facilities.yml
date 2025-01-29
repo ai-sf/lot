@@ -8,8 +8,6 @@ intro: "The scientific programme plans to show the participants a wide spectrum 
 <br>
   - The European Laboratory for Non-linear Spectroscopy (LENS)
 <br>
-  - The Arcetri Astrophysical Observatory.
-<br>
   - The University of Pisa.
 <br>
   - The University of Florence. 
@@ -69,9 +67,3 @@ science:
     descr: "The current National Institute of Optics (INO) is a mainstay of CNR scientific network. It has been working for over ninety years in the field of Optics, understood in its broadest meaning, and has updated its fields of activity in line with the huge innovations that have characterized this area over the last century."
     site: "https://fed.ino.it/"
     map: "https://www.google.com/maps/place/Istituto+Nazionale+di+Ottica+(INO)+-+CNR+-+Pisa/@43.7192589,10.4240063,15z/data=!4m5!3m4!1s0x0:0x838ddb26b28a1f99!8m2!3d43.7192589!4d10.4240063"
-
-  - img: img/facilities/arcetri.jpg
-    title: Arcetri INAF
-    descr: "The Arcetri Astrophysical Observatory is a public scientific research centre, part of the National Institute of Astrophysics (INAF). The observatory is located in Arcetri, a hilly area of the municipality of Florence. Currently, about 100 people, including researchers and doctoral students, work at the observatory."
-    site: "https://www.arcetri.inaf.it/"
-    map: "https://maps.app.goo.gl/PB8719EssmQPPYff6"
