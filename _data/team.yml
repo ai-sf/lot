@@ -14,14 +14,14 @@ people:
     descr: "Social media and accomodation manager"
     mail: lot@ai-sf.it
 
-  - img: img/francesco.jpg
-    title: "Francesco De Cosmo"
-    descr: "Sponsor manager"
-    mail: lot@ai-sf.it
-
   - img: img/julia.jpg
     title: "Julia Favaro"
     descr: "Secretary and Sponsor manager"
+    mail: lot@ai-sf.it
+
+  - img: img/francesco.jpg
+    title: "Francesco De Cosmo"
+    descr: "Sponsor manager"
     mail: lot@ai-sf.it
 
   - img: img/dorotea.jpg
