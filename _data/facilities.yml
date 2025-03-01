@@ -72,13 +72,13 @@ science:
     site: "https://fed.ino.it/"
     map: "https://www.google.com/maps/place/Istituto+Nazionale+di+Ottica+(INO)+-+CNR+-+Pisa/@43.7192589,10.4240063,15z/data=!4m5!3m4!1s0x0:0x838ddb26b28a1f99!8m2!3d43.7192589!4d10.4240063"
 
-  - img: img/facilities/laboratori unifi.jpg
+  - img: img/facilities/labs_unifi.jpg
     title: Physics Department of the University of Florence
     descr: "The Department of Physics and Astronomy (DFA) at the University of Florence is a leading center for research and education. It covers theoretical and experimental physics, astrophysics, condensed matter, and photonics, collaborating with international institutions and major scientific projects."
     site: "https://www.fisica.unifi.it/"
     map: "https://maps.app.goo.gl/fKwvGGHXt32dArFa7"
     
-  - img: img/facilities/Università di Pisa.jpg
+  - img: img/facilities/labs_unipi.jpg
     title: Physics Department of the University of Pisa
     descr: "The Department of Physics at the University of Pisa is a renowned research and education hub, covering theoretical and experimental physics, nuclear and particle physics, condensed matter, and astrophysics. It collaborates with major international institutions and plays a key role in cutting-edge scientific projects."
     site: "https://www.df.unipi.it/"
