@@ -78,7 +78,7 @@ science:
     site: "https://www.fisica.unifi.it/"
     map: "https://maps.app.goo.gl/fKwvGGHXt32dArFa7"
     
-  - img: img/facilities/labs_unipi.jpg
+  - img: img/facilities/labs_unipi_corretto.jpg
     title: Physics Department of the University of Pisa
     descr: "The Department of Physics at the University of Pisa is a renowned research and education hub, covering theoretical and experimental physics, nuclear and particle physics, condensed matter, and astrophysics. It collaborates with major international institutions and plays a key role in cutting-edge scientific projects."
     site: "https://www.df.unipi.it/"
