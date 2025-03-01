@@ -2,13 +2,14 @@
 layout: page
 title: Conferences
 ---
-<h2>Students speakers</h2>
+
+<h2>Guest speakers</h2>
 <p>
-{{ site.data.speaker.description2 }}
+{{ site.data.speaker.description }}
 </p>
 
 <ul class="collection id=speakerinvitati">
-	{% for item in site.data.speaker.content2 %}
+	{% for item in site.data.speaker.content %}
   <li class="collection-item avatar" id="{{ item.id }}">
 		{% if item.img != nil %}
 		<img src="{{ site.url }}/img/speaker/{{ item.img }}" alt="" class="circle">
@@ -46,13 +47,13 @@ title: Conferences
 </ul>
 
 
-<h2>Guest speakers</h2>
+<h2>Students speakers</h2>
 <p>
-{{ site.data.speaker.description }}
+{{ site.data.speaker.description2 }}
 </p>
 
 <ul class="collection id=speakerinvitati">
-	{% for item in site.data.speaker.content %}
+	{% for item in site.data.speaker.content2 %}
   <li class="collection-item avatar" id="{{ item.id }}">
 		{% if item.img != nil %}
 		<img src="{{ site.url }}/img/speaker/{{ item.img }}" alt="" class="circle">
