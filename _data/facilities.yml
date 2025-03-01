@@ -57,13 +57,37 @@ science:
     map: "https://www.google.es/maps/place/LENS/@43.8188678,11.190617,17z/data=!3m1!4b1!4m5!3m4!1s0x132a57a4fe34cce3:0x798b7fd7cf268883!8m2!3d43.818864!4d11.192811?hl=en"
 
   - img: img/facilities/INFN2.jpg
-    title: INFN
+    title: INFN - LABEC
     descr: "The National Institute for Nuclear Physics is been for over 70 years active in the research of nuclear and fundamental physics, but its study fields broadened over time and now it collaborates on many other national and international projects. It is the perfect meeting point for experimental and theoretical physics."
     site: "https://www.pi.infn.it/"
     map: "https://www.google.com/maps/place/INFN+-+Sezione+di+Pisa/@43.720615,10.4083,15z/data=!4m5!3m4!1s0x0:0x61fa050fe2979c7e!8m2!3d43.7206153!4d10.4083003?hl=it"
     
   - img: img/facilities/Pi_INO.jpg
-    title: INO
+    title: CNR - INO
     descr: "The current National Institute of Optics (INO) is a mainstay of CNR scientific network. It has been working for over ninety years in the field of Optics, understood in its broadest meaning, and has updated its fields of activity in line with the huge innovations that have characterized this area over the last century."
     site: "https://fed.ino.it/"
     map: "https://www.google.com/maps/place/Istituto+Nazionale+di+Ottica+(INO)+-+CNR+-+Pisa/@43.7192589,10.4240063,15z/data=!4m5!3m4!1s0x0:0x838ddb26b28a1f99!8m2!3d43.7192589!4d10.4240063"
+
+  - img: img/facilities/laboratori unifi.jpg
+    title: Physics Department of the University of Florence
+    descr: "The Department of Physics and Astronomy (DFA) at the University of Florence is a leading center for research and education. It covers theoretical and experimental physics, astrophysics, condensed matter, and photonics, collaborating with international institutions and major scientific projects."
+    site: "https://www.fisica.unifi.it/"
+    map: "https://maps.app.goo.gl/fKwvGGHXt32dArFa7"
+    
+  - img: img/facilities/Università di Pisa.jpg
+    title: Physics Department of the University of Pisa
+    descr: "The Department of Physics at the University of Pisa is a renowned research and education hub, covering theoretical and experimental physics, nuclear and particle physics, condensed matter, and astrophysics. It collaborates with major international institutions and plays a key role in cutting-edge scientific projects."
+    site: "https://www.df.unipi.it/"
+    map: "https://maps.app.goo.gl/wx6jGPB8mpDnEYrKA"
+    
+  - img: img/facilities/santanna.jpg
+    title: Sant’Anna School of Advanced Studies
+    descr: "The Sant’Anna School of Advanced Studies in Pisa is a prestigious public university specializing in applied sciences, social sciences, and experimental sciences. It offers elite education and cutting-edge research in fields such as engineering, law, economics, political science, and medical sciences. The school collaborates with top international institutions and plays a key role in innovation and technological development."
+    site: "https://www.santannapisa.it/it"
+    map: "https://maps.app.goo.gl/Jt8NAMdP7gKnm6p36"
+    
+  - img: img/facilities/museogalileo.jpg
+    title: The Galileo Museum
+    descr: "The Galileo Museum in Florence is a world-renowned institution dedicated to the history of science. It houses an extensive collection of scientific instruments from the Renaissance, including original artifacts from Galileo Galilei. The museum offers interactive exhibits and research opportunities, showcasing the evolution of scientific discoveries and their impact on modern science."
+    site: "https://www.museogalileo.it/it/"
+    map: "https://maps.app.goo.gl/4fhov6DBTReKF4EDA"
