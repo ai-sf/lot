@@ -1,7 +1,16 @@
-description: "Coming Soon!"
-#description: "We are happy to host professors, academics and other prominent figures working with light and light-based technologies. Here you can find the profiles of some of them (constantly updated) and some informations about their conferences."
+description: "We are happy to host professors, academics and other prominent figures working with light and light-based technologies. Here you can find the profiles of some of them (constantly updated) and some informations about their conferences."
 
 content:
+- nome: "Professor Doctor Giacomo Scalari"
+  id: id
+  uni: "ETH Zurigo"
+  img: img/speaker/giacomo_scalari.jpeg
+  title: "Ultra-strong THz light-matter coupling, THz quantum cascade laser frequency combs, and THz superconducting metamaterials"
+  bio: "Giacomo Scalari has been an Associate Professor at ETH Zurich since April 2020. He obtained his degree in physics from the University of Pisa in 1999. After a period at the Scuola Superiore S. Anna in Pisa, he completed his Ph.D. in December 2005 with a thesis on magneto-spectroscopy and the development of THz quantum cascade lasers. He moved to ETH Zurich in 2007 and became a permanent senior scientist in Prof. J. Faist's group in 2011. His research interests are in the field of ultra-strong THz light-matter coupling, THz quantum cascade laser frequency combs, and THz superconducting metamaterials. He received the national award from the Swiss Physical Society in 2006 for applied physics and an ERC Consolidator Grant for THz quantum cascade laser frequency combs in 2016."
+  abstract: ""
+  link:
+  slides: 
+
 - nome: "Coming Soon!"
   id: id
   uni: "Università di Pisa"
