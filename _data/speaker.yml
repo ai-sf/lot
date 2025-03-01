@@ -1,4 +1,4 @@
-description: "We are happy to host professors, academics and other prominent figures working with light and light-based technologies. Furthermore, during LOT25, you will have the opportunity to learn about the academic experiences of other physics students, from bachelor's to Ph.D. levels. They will also participate as speakers in the conferences and events organized during the program. Here you can find the profiles of some of them (constantly updated) and some informations about their conferences."
+description: "We are happy to host professors, academics and other prominent figures working with light and light-based technologies. Here you can find the profiles of some of them (constantly updated) and some informations about their conferences."
 
 content:
 - nome: "Professor Doctor Giacomo Scalari"
@@ -21,6 +21,9 @@ content:
   link:
   slides: 
 
+
+
+Description: "Furthermore, during LOT25, you will have the opportunity to learn about the academic experiences of other physics students, from bachelor's to Ph.D. levels. They will also participate as speakers in the conferences and events organized during the program."
 
 content2:
 - nome: "Coming Soon!"
