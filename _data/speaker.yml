@@ -11,16 +11,25 @@ content:
   link: "https://www.phys.ethz.ch/the-department/people/person-detail.MTQ1MDY1.TGlzdC84MzgsMTE3MjU5OTI5OQ==.html"
   slides: 
 
+- nome: "Donatella Ciampini"
+  id: id
+  uni: "University of Pisa"
+  img: "ciampini.jpg"
+  title: "Atomic, Molecular and Optical Physics. Quantum control of matter through light-matter interactions."
+  bio: "Donatella Ciampini is a researcher at the University of Pisa's Department of Physics. Her work focuses on Atomic, Molecular, and Optical Physics, particularly on the quantum control of matter through light-matter interactions. In recent years, she has also expanded her research into applied physics, leveraging her expertise in cold atom studies. She has contributed to projects like GINGER, which explores fundamental physics using high-sensitivity ring laser gyroscopes. Her recent publications include works on optomechanical coupling, ring laser gyroscopes, and thermometry optimization, highlighting her broad research interests. At the University of Pisa, she teaches courses such as Physics 2, Fundamentals of Radiation-Matter Interaction, Fundamentals of Optics, Atomic Optics, and Structure of Matter."
+  abstract: ""
+  link: "https://www.df.unipi.it/people/ciampini-donatella/"
+  slides: 
+
 - nome: "Coming Soon!"
   id: id
-  uni: "Università di Pisa"
+  uni: "University of Pisa"
   img: " "
   title: "Title"
   bio: "Coming Soon!"
   abstract: ""
   link:
   slides: 
-
 
 
 description2: "Furthermore, during LOT25, you will have the opportunity to learn about the academic experiences of other physics students, from bachelor's to Ph.D. levels. They will also participate as speakers in the conferences and events organized during the program."
