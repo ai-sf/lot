@@ -50,19 +50,19 @@ accomodation:
 science:
   - img: img/facilities/VIRGO.jpg
     title: VIRGO
-    descr: "The VIRGO interferometer hosted by the European Gravitational Observatory (EGO) is a gravitational wave detector consisting of a massive Michelson laser interferometer. It is part of the collaboration that recently discovered Gravitational Waves."
+    descr: "The VIRGO interferometer hosted by the European Gravitational Observatory (EGO) is a gravitational wave detector consisting of a massive Michelson laser interferometer. It is part of a global collaboration with LIGO and KAGRA that recently discovered Gravitational Waves."
     site: "http://www.virgo-gw.eu"
     map: "https://www.google.es/maps/place/European+Gravitational+Observatory/@43.6313851,10.5023022,17z/data=!3m1!4b1!4m5!3m4!1s0x12d58c5d47067c71:0x50cbf460a97d724c!8m2!3d43.6313812!4d10.5044962?hl=en"
 
   - img: img/facilities/LENS.jpg
     title: LENS
-    descr: "The European Laboratory for Non-linear Spectroscopy (LENS) is an international and interdisciplinary structure in Florence. The main research lines are atomic physics, photonics, physical chemistry and biophysics."
+    descr: "The European Laboratory for Non-linear Spectroscopy (LENS) is an international and interdisciplinary structure in Florence. The main research lines are atomic physics, photonics, physical chemistry and biophysics. At LENS, you will see how physicists collaborate with chemists, biologists, and engineers to shape light for scientific, industrial, and medical purposes. We will learn how to stop light using photonic crystals, explore how light is used to unveil the secrets of the brain, and study —or even create— new materials."
     site: "http://www.lens.unifi.it"
     map: "https://www.google.es/maps/place/LENS/@43.8188678,11.190617,17z/data=!3m1!4b1!4m5!3m4!1s0x132a57a4fe34cce3:0x798b7fd7cf268883!8m2!3d43.818864!4d11.192811?hl=en"
 
   - img: img/facilities/INFN2.jpg
     title: INFN - LABEC
-    descr: "The National Institute for Nuclear Physics is been for over 70 years active in the research of nuclear and fundamental physics, but its study fields broadened over time and now it collaborates on many other national and international projects. It is the perfect meeting point for experimental and theoretical physics."
+    descr: "The National Institute for Nuclear Physics is been for over 70 years active in the research of nuclear and fundamental physics, but its study fields broadened over time and now it collaborates on many other national and international projects. It is the perfect meeting point for experimental and theoretical physics. Inside the INFN you will find the LABEC laboratory, that applies nuclear techniques to study the environment and cultural heritage. You will: visit the 3MV tandem accelerator & MACHINA, developed at LABEC; see how physics helps analyze air pollution and protect artworks; explore ion beam techniques used in research."
     site: "https://www.pi.infn.it/"
     map: "https://www.google.com/maps/place/INFN+-+Sezione+di+Pisa/@43.720615,10.4083,15z/data=!4m5!3m4!1s0x0:0x61fa050fe2979c7e!8m2!3d43.7206153!4d10.4083003?hl=it"
     
@@ -86,12 +86,12 @@ science:
     
   - img: img/facilities/santanna.jpg
     title: Sant’Anna School of Advanced Studies
-    descr: "The Sant’Anna School of Advanced Studies in Pisa is a prestigious public university specializing in applied sciences, social sciences, and experimental sciences. It offers elite education and cutting-edge research in fields such as engineering, law, economics, political science, and medical sciences. The school collaborates with top international institutions and plays a key role in innovation and technological development."
+    descr: "The Sant’Anna School of Advanced Studies in Pisa is a prestigious public university specializing in applied sciences, social sciences, and experimental sciences. It offers elite education and cutting-edge research in fields such as engineering, law, economics, political science, and medical sciences. The school collaborates with top international institutions and plays a key role in innovation and technological development. The Physics Laboratories host progressive research in telecommunications and optical communications. Led by Prof. Ernesto Ciaramella, the lab explores nonlinear optical effects, WDM systems, and optical wireless technologies. During the visit, you will experience live demos showcasing visible light communication, indoor navigation with ceiling lamps and smartphones, and wireless data interfaces for spacecraft."
     site: "https://www.santannapisa.it/it"
     map: "https://maps.app.goo.gl/Jt8NAMdP7gKnm6p36"
     
   - img: img/facilities/museogalileo.jpg
     title: The Galileo Museum
-    descr: "The Galileo Museum in Florence is a world-renowned institution dedicated to the history of science. It houses an extensive collection of scientific instruments from the Renaissance, including original artifacts from Galileo Galilei. The museum offers interactive exhibits and research opportunities, showcasing the evolution of scientific discoveries and their impact on modern science."
+    descr: "The Galileo Museum in Florence is a world-renowned institution dedicated to the history of science. It houses an extensive collection of scientific instruments from the Renaissance, including original artifacts from Galileo Galilei. During our visit, you’ll explore historical telescopes, astrolabes, and groundbreaking discoveries that shaped the evolution of modern science and scientific though."
     site: "https://www.museogalileo.it/it/"
     map: "https://maps.app.goo.gl/4fhov6DBTReKF4EDA"
