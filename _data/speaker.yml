@@ -21,6 +21,16 @@ content:
   link: "https://www.df.unipi.it/people/ciampini-donatella/"
   slides: 
 
+- nome: "Massimiliano Razzano"
+  id: id
+  uni: "University of Pisa"
+  img: " "
+  title: "Multimessenger investigation of neutron stars and pulsars using high-energy photons. Gravitational waves, machine learning and neural networks"
+  bio: "Massimiliano Razzano is a researcher at the Department of Physics of the University of Pisa. His research focuses on the multimessenger investigation of the most extreme cosmic phenomena, such as neutron stars and pulsars, using high-energy photons (X-rays and gamma rays) and gravitational waves. He is a member of the Fermi Large Area Telescope, Virgo, and Einstein Telescope scientific collaborations. He is also interested in advanced data analysis techniques, including machine learning and neural networks, applied to complex problems in modern physics, often involving citizen science. His recent publications include studies on the joint analysis of gravitational wave candidates, pulsar analysis with Fermi-LAT, and deep learning applications for gravitational wave detection. At the University of Pisa, Razzano teaches courses such as Observational Astrophysics, Physics of Gravitational Waves, Physics 1, and Multimessenger Physics Laboratory."
+  abstract: ""
+  link:
+  slides: 
+
 - nome: "Coming Soon!"
   id: id
   uni: "University of Pisa"
