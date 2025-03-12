@@ -68,19 +68,19 @@ science:
     
   - img: img/facilities/Pi_INO.jpg
     title: CNR - INO
-    descr: "The current National Institute of Optics (INO) is a mainstay of CNR scientific network. It has been working for over ninety years in the field of Optics, understood in its broadest meaning, and has updated its fields of activity in line with the huge innovations that have characterized this area over the last century."
+    descr: "The current National Institute of Optics (INO) is a mainstay of CNR scientific network. It has been working for over ninety years in the field of Optics, understood in its broadest meaning, and has updated its fields of activity in line with the huge innovations that have characterized this area over the last century. At CNR-INO you will have the opportunity to visit the Dysprosium Lab, in which is explored the fascinating realm of quantum matter, by working with strongly magnetic atoms, in order to investigate a quantum phase at the boundary between superfluids and crystals, known as Supersolid. In the Lab: they cool dysprosium atoms near absolute zero, they manipulate it using laser beams and strong magnetic interactions, and they induce crystallization to enter the exotic supersolid regime."
     site: "https://fed.ino.it/"
     map: "https://www.google.com/maps/place/Istituto+Nazionale+di+Ottica+(INO)+-+CNR+-+Pisa/@43.7192589,10.4240063,15z/data=!4m5!3m4!1s0x0:0x838ddb26b28a1f99!8m2!3d43.7192589!4d10.4240063"
 
   - img: img/facilities/labs_unifi.jpg
     title: Physics Department of the University of Florence
-    descr: "The Department of Physics and Astronomy (DFA) at the University of Florence is a leading center for research and education. It covers theoretical and experimental physics, astrophysics, condensed matter, and photonics, collaborating with international institutions and major scientific projects."
+    descr: "The Department of Physics and Astronomy (DFA) at the University of Florence is a leading center for research and education. It covers theoretical and experimental physics and collaborates with international institutions and major scientific projects. Its research groups explore all fields of physics, from subnuclear particles to astrophysical objects, condensed matter, and photonics. During our visit, we will explore laboratories dedicated to light and its interaction with matter. Here, physicists investigate ultracold atoms, Bose-Einstein condensates, quantum states of light, quantum cryptography, and many other fascinating topics."
     site: "https://www.fisica.unifi.it/"
     map: "https://maps.app.goo.gl/fKwvGGHXt32dArFa7"
     
   - img: img/facilities/labs_unipi.jpg
     title: Physics Department of the University of Pisa
-    descr: "The Department of Physics at the University of Pisa is a renowned research and education hub, covering theoretical and experimental physics, nuclear and particle physics, condensed matter, and astrophysics. It collaborates with major international institutions and plays a key role in cutting-edge scientific projects."
+    descr: "The Department of Physics at the University of Pisa is a renowned research and education point of reference. It hosts advanced laboratories dedicated to optics, photonics, and physics of matter. These facilities focus on cutting-edge research in quantum technologies, frontier photonics and electronics, nanomaterials, and the study of soft matter, biosystems, and complexity. The laboratories are equipped for the development of innovative devices, including lasers and detectors, and the synthesis and characterization of advanced optical materials crystals and optical fibers."
     site: "https://www.df.unipi.it/"
     map: "https://maps.app.goo.gl/wx6jGPB8mpDnEYrKA"
     
