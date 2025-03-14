@@ -45,14 +45,23 @@ content:
 description2: "Furthermore, during LOT25, you will have the opportunity to learn about the academic experiences of other physics students, from bachelor's to Ph.D. levels. They will also participate as speakers in the conferences and events organized during the program."
 
 content2:
+
+- nome: "Julia Favaro"
+  id: id
+  uni: "University of Pisa"
+  img: "julia.jpg"
+  title: ""
+  bio: "Following her graduation from the Liceo Classico Galileo Galilei in Pisa, Julia earned a Bachelor's degree in Physics from the University of Pisa, and is now pursuing a Master's degree at the same institution focused on data analysis and experimental physics, with a strong interest in the interfaces between Particle Physics and Astrophysics. Her biggest interests include multi-messenger physics and astrophysical data analysis. Julia is also enthusiastic about science communication, and sharing scientific knowledge through public talks and visual presentations. Her commitment to science extends to her role as an official guide at the Advanced Virgo site, where she explains gravitational wave research to the public. In her free time, Julia can be found working in local theater productions."
+  abstract: ""
+  link:
+  slides: 
+
 - nome: "Coming Soon!"
   id: id
-  uni: "Università di Pisa"
+  uni: "University of Pisa"
   img: " "
   title: "Title"
   bio: "Coming Soon!"
   abstract: ""
   link:
   slides: 
-
-
