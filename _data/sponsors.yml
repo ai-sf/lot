@@ -52,6 +52,12 @@
     - text: "Physics Departement of the University of Florence"
       img: dip_unifi.jpg
       link: "https://www.fisica.unifi.it/"
+    - text: "EGO-VIRGO"
+      img: EGO_VIRGO.PNG
+      link: "https://www.ego-gw.it/home_page_ita/"
+    - text: "CNR-INO"
+      img: CNR_INO.PNG
+      link: "https://www.ino.cnr.it/?page_id=15732"
 
 - title: "Official sponsors:"
   format: "m3"
