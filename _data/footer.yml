@@ -4,6 +4,8 @@ descr: The Associazione Italiana Studenti di Fisica (AISF) is a non-profit organ
 contact:
   - name: AISF contact mail
     mail: esecutivo@ai-sf.it
+  - name: LOT25 contact mail
+    mail: lot@ai-sf.it
   - name: IAPS Website
     url: https://www.iaps.info/
 
