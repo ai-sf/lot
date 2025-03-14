@@ -45,18 +45,12 @@ schedule:
 few_info:
   info: ""
   specs:
-    # - text: "* Per le visite di Sabato 14 pomeriggio o partecipanti saranno divisi in sottogruppi, ciascuno focalizzato su un particolare laboratorio. Qualche settimana prima dell'evento riceverete un form tramite il quale specificare le vostre preferenze. "
-      # url: 
-      # subpoints:
-        # - text: "a) Ultracold atoms"
-          # url: "#!"
-        # - text: "b) Solid State Photonics"
-          # url: "#!"
-        # - text: "c) Biophysics"
-          # url: "#!"
-        # - text: "The 3 last groups will have a combination of the previous topics"
-    - text: "Coming Soon!"
+    - text: "Read carefully."
       url: 
       subpoints:
         - text: "The Program will be constantly updated as further details are provided."
+      subpoints:
+        - text: "It would be best to arrive in Pisa on May 15th by 1:00-2:00 PM , to attend the event's opening ceremony. If you are unable to arrive within this timeframe, please inform us via email at lot@ai-sf.it a few days before the event."
+      subpoints:
+        - text: "The meeting point (where the event organizers will welcome you) will be communicated via email to participants and on the LOT25 Telegram group (the link to the Telegram channel will be sent via email to participants)."
    
