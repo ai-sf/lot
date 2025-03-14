@@ -7,40 +7,88 @@ info: >
 
 
 schedule:
-  - day: Coming Soon!
+  - day: Thursday - DAY 1
     date: "15/05/2025"
-    short_descr: Coming Soon!
+    short_descr: Arrival in Pisa and welcome cerimony.
     activity:
-      - hour: "00:00 - 00:00"
-        descr: "Coming Soon!"
+      - hour: "07:00 AM - 02:00 PM"
+        descr: "Check-in in the accomodation and welcome"
+      - hour: "02:00 PM - 03:00 PM"
+        descr: "Opening ceremony"
+      - hour: "03:00 PM - 04:00 PM"
+        descr: "Conference with international speaker"
+      - hour: "04:00 PM - 05:00 PM"
+        descr: "Coffe break"
+      - hour: "05:00 PM - 07:00 PM"
+        descr: "Visit to the labs of the University of Pisa"
+      - hour: "07:00 PM - 08:00 PM"
+        descr: "Free dinner"
+      - hour: "08:00 PM - ..."
+        descr: "Social event"
         
-  - day: Coming Soon!
+  - day: Friday - DAY 2
     date: "16/05/2025"
-    short_descr: Coming Soon!
+    short_descr: Labs visits and Conferences
     activity:
-      - hour: "00:00 - 00:00"
-        descr: "Coming Soon!"
+      - hour: "08:30 AM - 01:00 PM"
+        descr: "Visit to EGO-VIRGO"
+      - hour: "01:00 PM - 02:00 PM"
+        descr: "Lunch offered"
+      - hour: "02:00 PM - 05:00 PM"
+        descr: "Conferences and Coffe break"
+      - hour: "05:00 PM - 07:00 PM"
+        descr: "Sponsor company talks and student poster session"
+      - hour: "07:00 PM - ..."
+        descr: "Free time"
         
-  - day: Coming Soon!
+  - day: Saturday - DAY 3
     date: "17/05/2025"
-    short_descr: Coming Soon!
+    short_descr: Labs visits and Social events
     activity:
-      - hour: "00:00 - 00:00"
-        descr: "Coming Soon!"
+      - hour: "08:30 AM - 10:00 AM"
+        descr: "Visit to Sant'Anna"
+      - hour: "10:00 AM - 12:00 AM"
+        descr: "Visit to CNR-INO"
+      - hour: "12:00 AM - 02:00 PM"
+        descr: "Lunch offered"
+      - hour: "02:00 PM - 07:00 PM"
+        descr: "Free afternoon"
+      - hour: "07:00 PM - ..."
+        descr: "Social dinner"
         
-  - day: Coming Soon!
+  - day: Sunday - DAY 4
     date: "18/05/2025"
-    short_descr: Coming Soon!
+    short_descr: From Pisa to Florence
     activity:
-      - hour: "00:00 - 00:00"
-        descr: "Coming Soon!"
+      - hour: "08:30 AM - 10:00 AM"
+        descr: "Transfer from Pisa to Florence"
+      - hour: "10:00 AM - 12:00 AM"
+        descr: "Visit to Galileo Museum"
+      - hour: "12:00 AM - 02:00 PM"
+        descr: "Free lunch"
+      - hour: "02:00 PM - 03:00 PM"
+        descr: "Chek-in in the new accomodation"
+      - hour: "03:00 PM - 08:00 PM"
+        descr: "Free afternoon and free dinner"
+      - hour: "08:00 PM - ..."
+        descr: "Social event"
         
-  - day: Coming Soon!
+  - day: Monday - DAY 5
     date: "19/05/2025"
-    short_descr: Coming Soon!
+    short_descr: Labs visits and Conferences
     activity:
-      - hour: "00:00 - 00:00"
-        descr: "Coming Soon!"
+      - hour: "08:30 AM - 10:00 AM"
+        descr: "Visit to INFN-LABEC"
+      - hour: "10:00 AM - 11:30 AM"
+        descr: "Visit to the labs of the University of Florence"
+      - hour: "11:30 AM - 01:00 PM"
+        descr: "Visit to LENS"
+      - hour: "01:00 PM - 02:00 PM"
+        descr: "Lunch offered"
+      - hour: "02:00 PM - 03:00 PM"
+        descr: "Conference"
+      - hour: "03:00 PM - 04:00 PM"
+        descr: "Closing ceremony and farewells"
 
 few_info:
   info: ""
