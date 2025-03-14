@@ -2,8 +2,8 @@ info: "You can find the registration form at the bottom of this page.
 </p><p>
 Before you fill it, please read the terms and conditions below. Please note that, upon registration, you will be asked for personal details (such as name, surname, date of birth, university affiliation, passport number etc.) and a note to describe your motivation to take part in the event. We recommend that you take this element of the selection very seriously, as it will be taken into consideration when selecting applicants."
 
-starting_date: "2025-03-25 12:00"
-ending_date: "2025-04-21 23:59"
+starting_date: "2025-03-20 12:00"
+ending_date: "2025-04-18 23:59"
 
 posters?: true
 
@@ -16,17 +16,40 @@ selection:
     - text: "If you are not an AISF/IAPS member you can become one while registering for this event by compiling the following form. <br> Being an AISF member also includes membership to IAPS."
       url: "http://ai-sf.it/iscrizione"
       button: Form
-    - text: "40 places are available, of whom approximatedly half will be Italian. Once registrations are closed, the selected participants are required to confirm by covering a participation fee of maximum €100."
+    - text: "40 places are available for this event. Once registration closes, the organizing committee will select the event participants from all applicants, following the selection criteria available on the website."
     - text: "Please note that unfortunately we are not able to provide scholarships and/or bursaries for any students at this time."
-    - text: "Please note that participants do not need to be specialized in the field of photonics, but can come from any discipline of physics."
+    - text: "Please note that participants do not need to be specialized in the field of photonics, but can come from any discipline of physics. Physics students of any age and any year of study can apply."
       url: "#!"
+
+price:
+  info: "Please read carefully below."
+  specs:
+    - text: "Once registrations are closed, the selected participants are required to confirm by covering a participation fee of maximum €100. If the participant is not already registered to AISF or IAPS, he/she will have to add the AISF registration fee to the price."
+      url: "#!"
+    - text: "Payments will be required by bank transfer or PayPal. The receipt will be delivered on the first day of the event."
+      url: "#!"
+    - text: "The price includes accommodation for the nights from May 15th to 19th, personalized gadgets, identification badge, access to the various facilities and events (university, laboratories, conferences), the certificate of participation, insurance."
+      url: "#!"
+    - text: "The price does NOT include anything not explicitly indicated under 'the price includes'. In particular are not included travel toward Pisa and return from Florence, organization and payment of these are in charge of the participant. Meals not specified in the official Program are not included. The organizing committee will however suggest a few places where to eat and spend some free time."
+      url: "#!"
+
+deadlines:
+  info: "Please read carefully below."
+  specs:
+    - text: "The registration period will be from the 20 of March 2025 to the 18 of April 2025."
+      url: "#!"
+    - text: "All applicants will be emailed within a few days of the registration closing, by April 22, in order to communicate the outcome of the selection for the event. If you are selected to participate in the event, you will have time until April 25 to confirm your attendance by paying the participation fee."
+      url: "#!"
+    - text: "It is possible that some spots may become available if participants give up their place. Any reassignments will be communicated by April 26. If you are selected from the waiting list, you will have until April 29 to confirm your attendance by paying the participation fee."
+      url: "#!"
+     
 
 terms:
   info: "Before you subscribe to the event, please read carefully and take note of the followings:"
   specs:
-    - text: "All personal data will be handled confidentially. It will not be forwarded to any third parties except where necessary for the purpose of the conference. Please keep in mind that we will forward some of the information in your registration form to the Universities and research centres involved, as well as accomodation facilities. We will also send your name and university to the board of the national/loca committees of IAPS to check for your IAPS membership."
+    - text: "All personal data will be handled confidentially. It will not be forwarded to any third parties except where necessary for the purpose of the conference. Please keep in mind that we will forward some of the information in your registration form to the Universities and research centres involved, as well as accomodation facilities. We will also send your name and university to the board of the national/local committees of IAPS to check for your IAPS membership."
       url: "#!"
-    - text: "Only students enrolled in a university or similar institution in a physics or physics-related course can participate, as well as those who received their degree in the last twelve months. You also confirm that you will be 18 years old on the 21st of April 2025."
+    - text: "Only students enrolled in a university or similar institution in a physics or physics-related course can participate, as well as those who received their degree in the last twelve months. You also confirm that you will be 18 years old on the 18th of April 2025."
       url: "#!"
     - text: "You acknowledge and agree that the organizing committee and the hosts of the event have no responsibility whatsoever for injuries, losses, or damages of any kind that result from your participation in the Lights of Tuscany 2025 programme."
       url: "#!"
@@ -37,29 +60,7 @@ terms:
       url: "#!"
     - text: "You accept that either the organizing committee, AISF or any other of the hosting institutes cannot be made responsible for the content of any poster, talk, workshop, excursion or similar activity."
       url: "#!"
-    - text: "You accept that, in case of cancellation by a participant, the Organizing Committee will provide a reimbursement up to a date to be defined, only if a replacement for the student can be found. Before this date, any reimbursement will be made except for a 20 € fee, which will be withheld to cover administrative costs. No reimbursement will be given for membership fees under no circumstances."
+    - text: "You accept that, in case of cancellation by a participant, the Organizing Committee will NOT provide a refund of the participation fee once it has been paid."
       url: "#!"
     - text: "The present terms and conditions are governed by the laws of the Republic of Italy."
-      url: "#!"
-
-deadlines:
-  info: "Please read carefully below."
-  specs:
-    - text: "The registration period will be from the 25th of March 2025 to the 21st of April 2025."
-      url: "#!"
-    - text: "All applicants will be emailed within a few days of the registration closing, in order to communicate the outcome of the selection for the event."
-      url: "#!"
-    - text: "Payments will then be required (by bank transfer or PayPal) by a date yet to be defined."
-      url: "#!"
-     
-price:
-  info: "Please read carefully below."
-  specs:
-    - text: "Once registrations are closed, the selected participants are required to confirm by covering a participation fee of maximum €100. If the participant is not already registered to AISF or IAPS, he/she will have to add the AISF registration fee to the price."
-      url: "#!"
-    - text: "Payments will then be required (by bank transfer or PayPal) by a date yet to be defined. The receipt will be delivered on the first day of the event."
-      url: "#!"
-    - text: "The price includes accommodation for the nights from May 15th to 19th, personalized gadgets, identification badge, access to the various facilities and events (university, laboratories, conferences), the certificate of participation, insurance."
-      url: "#!"
-    - text: "The price does NOT include anything not explicitly indicated under 'the price includes'. In particular are not included travel toward Pisa and return from Florence, organization and payment of these are in charge of the participant. Meals not specified in the official Program are not included. The organizing committee will however suggest a few places where to eat and spend some free time."
       url: "#!"
