@@ -1,13 +1,12 @@
-info: "You can find the registration form at the bottom of this page.
+info: "<b>You can find the registration form at the bottom of this page</b>.
 </p><p>
-Before you fill it, please read the terms and conditions below. Please note that, upon registration, you will be asked for personal details (such as name, surname, date of birth, university affiliation, passport number etc.) and a note to describe your motivation to take part in the event. We recommend that you take this element of the selection very seriously, as it will be taken into consideration when selecting applicants."
-
+Before you fill it out, please read the terms and conditions below. Please note that, upon registration, you will be asked for personal details (such as name, surname, date of birth, university affiliation, passport number etc.) and write a brief statement explaining why you’re interested in joining the event.
 starting_date: "2025-03-20 12:00"
 ending_date: "2025-04-18 23:59"
 
 posters?: true
 
-posters: "During the event a set of students talk and a poster session will take place, so everyone is invited to apply and present their current research work, wheter it is part of a thesis project (at bacherlor, master or PhD level) or is an outcome of a summer programme or personal project."
+posters: "During the event a set of poster session will take place, so everyone is invited to apply and present their current research work, wheter it is part of a thesis project (at bacherlor, master or PhD level) or is an outcome of a summer programme or personal project."
 
 selection:
   info: ""
@@ -24,7 +23,8 @@ selection:
 price:
   info: "Please read carefully below."
   specs:
-    - text: "Once registrations are closed, the selected participants are required to confirm by covering a participation fee of maximum €100. If the participant is not already registered to AISF or IAPS, he/she will have to add the AISF registration fee to the price."
+    - text: "Once registrations are closed, the selected participants are required to confirm their presence by covering a participation fee of €100. For students from Pisa and Florence the expected participation fee is €50, and this does NOT include accommodation."
+    - text: "If the participant is not already registered to AISF or IAPS, he/she will have to add the AISF/IAPS registration fee to the price."
       url: "#!"
     - text: "Payments will be required by bank transfer or PayPal. The receipt will be delivered on the first day of the event."
       url: "#!"
@@ -67,7 +67,7 @@ terms:
   specs:
     - text: "All personal data will be handled confidentially. It will not be forwarded to any third parties except where necessary for the purpose of the conference. Please keep in mind that we will forward some of the information in your registration form to the Universities and research centres involved, as well as accomodation facilities. We will also send your name and university to the board of the national/local committees of IAPS to check for your IAPS membership."
       url: "#!"
-    - text: "Only students enrolled in a university or similar institution in a physics or physics-related course can participate, as well as those who received their degree in the last twelve months. You also confirm that you will be 18 years old on the 18th of April 2025."
+    - text: "Only students enrolled in a university or similar institution in a physics or physics-related courses can participate, as well as those who received their degree in the last twelve months. By registering, you also confirm that you will be at least 18 years old by the 18th of April 2025."
       url: "#!"
     - text: "You acknowledge and agree that the organizing committee and the hosts of the event have no responsibility whatsoever for injuries, losses, or damages of any kind that result from your participation in the Lights of Tuscany 2025 programme."
       url: "#!"
