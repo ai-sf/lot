@@ -62,12 +62,12 @@
 - title: "Official sponsors:"
   format: "m3"
   subitems:    
-    - text: EmoLED, an Italian company developing innovative medical devices and advanced research in photonics, that use blue light photobiomodulation therapy to promote skin lesion healing
+    - text: "EmoLED - An Italian company developing innovative medical devices and advanced research in photonics, that use blue light photobiomodulation therapy to promote skin lesion healing"
       img: emoled.PNG
       link: "https://emoled.com/"
-    - text: CAEN, this Italian company designs and manufactures sophisticated electronic equipment for research, supplying all the most important Nuclear Physics Laboratories in the world. It is today one of the world leading companies in the field of low/high voltage channels and data acquisition
+    - text: "CAEN - This Italian company designs and manufactures sophisticated electronic equipment for research, supplying all the most important Nuclear Physics Laboratories in the world. It is today one of the world leading companies in the field of low/high voltage channels and data acquisition"
       img: CAEN.jpg
       link: "https://www.caen.it/"
-    - text: Centro Stampa Faccini, a printing center is specialized in high quality printing and graphics services in different areas of visual communication: from small to large format, in various materials, up to personalized clothing. They are the manufacturers of many of the LOT25 gadgets!
+    - text: "Centro Stampa Faccini - A printing center is specialized in high quality printing and graphics services in different areas of visual communication: from small to large format, in various materials, up to personalized clothing. They are the manufacturers of many of the LOT25 gadgets!"
       img: Faccini.png
       link: "https://centrostampafaccini.it/"
