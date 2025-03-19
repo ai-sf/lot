@@ -2,7 +2,9 @@
 <html lang="it">
   {% include head.html %}
   <body>
-    {% include nav.html nav=site.data.menu %}
+    <div class="nav-wrapper container-max">
+      {% include nav.html nav=site.data.menu %}
+    </div>
         {{ content }}
     {% include footer.html %}
   </body>

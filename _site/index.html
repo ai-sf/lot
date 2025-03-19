@@ -8,7 +8,7 @@
 
 <!-- Standard html meta tags -->
     
-    <meta name="description" content="{% include banner.html %}                                          {{ site.data.home.msg }}                                                                  ..." />
+    <meta name="description" content="                                            {{ site.data.home.msg }}                                                                                        s..." />
     <meta name="keywords" content="aisf associazione italiana studenti di fisica iaps" />
     <meta property="og:image" content="">
     <!--
@@ -23,7 +23,7 @@
 <meta property="og:type" content="website">
 <meta property="og:url" content="http://localhost:4000/">
 
-<meta property="og:description" content="{% include banner.html %}                                          {{ site.data.home.msg }}                                                                  ...">
+<meta property="og:description" content="                                            {{ site.data.home.msg }}                                                                                        s...">
 <meta property="og:site_name" content="LOT25">
 <meta property="og:locale" content="it">
 
@@ -34,7 +34,7 @@
 <meta name="twitter:card"           content="summary" />
 <meta name="twitter:site"           content="@aisf_fisica" />
 <meta name="twitter:title"          content="LOT25" />
-<meta name="twitter:description"    content="{% include banner.html %}                                          {{ site.data.home.msg }}                                                                  ..."/>
+<meta name="twitter:description"    content="                                            {{ site.data.home.msg }}                                                                                        s..."/>
 <!-- <meta name="twitter:image:alt"      content=""> Name of image for visually impaired. Will need to add this to all images -->
 
 
@@ -52,7 +52,8 @@
 </head>
 
   <body>
-    
+    <div class="nav-wrapper container-max">
+      
 
     
 
@@ -267,21 +268,12 @@
     </div>
 </nav>
 
-        <div id="index-banner">
-  <div class="container">
-    <div class="row">
-      <div class="col s12">
-        <h1>
-          <img id="index-top-logo" src="http://localhost:4000/img/banner_1_LOT25.png" alt="Event logo">
-        </h1>
-      </div>
     </div>
-  </div>  
-</div>
-
+         <div class="container-max">
+  <img src="img/background_withlogo.png" style="max-width: 100%; height: auto;" alt="Event logo">
+ </div>
 
 <div class="no-pad-top" id="index-page">
-  
     
     <!--   Message -->
     
@@ -316,7 +308,7 @@
             <div class="icon-block">
               <h2 class="center"><i class="medium material-icons custom2-text">location_on</i></h2>
               <h2 class="center">Where</h2>
-              <p class="light">Three days in Pisa, two in Florence. Check out the schedule in the Programme section to see all the places, laboratories and universities you will have the opportunity to visit.</p>
+              <p class="light">Three days in Pisa, two in Florence. Check out the Schedule section to see all the places, laboratories and universities you will have the opportunity to visit.</p>
             </div>
           </div>
         </div>
@@ -331,10 +323,74 @@
         <ul class="slides">
           
             <li>
-              <img src="http://localhost:4000/" alt="Coming Soon!">
+              <img src="http://localhost:4000/img/facilities/LABEC.png" alt="Coming Soon!">
               <div class="caption left-align">
-                <h4>Coming Soon!</h4>
-                <p class="light grey-text text-lighten-3">Coming Soon!</p>
+                <h4>INFN - LABEC</h4>
+                <p class="light grey-text text-lighten-3">Laboratory of Nuclear Techniques for the Environment and Cultural Heritage, part of INFN in Florence</p>
+              </div>
+            </li>
+          
+            <li>
+              <img src="http://localhost:4000/img/sponsors/IDL_UNESCO.PNG" alt="Coming Soon!">
+              <div class="caption left-align">
+                <h4>UNESCO IDL</h4>
+                <p class="light grey-text text-lighten-3">We are supported by UNESCO International Day of Light!</p>
+              </div>
+            </li>
+          
+            <li>
+              <img src="http://localhost:4000/img/facilities/VIRGO_conferenza.jpg" alt="Coming Soon!">
+              <div class="caption left-align">
+                <h4>VIRGO conference</h4>
+                <p class="light grey-text text-lighten-3">Conferences about the VIRGO interferometer hosted by the European Gravitational Observatory (EGO)</p>
+              </div>
+            </li>
+          
+            <li>
+              <img src="http://localhost:4000/img/facilities/edizioni_passate_1.jpg" alt="Coming Soon!">
+              <div class="caption left-align">
+                <h4>VIRGO</h4>
+                <p class="light grey-text text-lighten-3">Pictures from previous editions</p>
+              </div>
+            </li>
+          
+            <li>
+              <img src="http://localhost:4000/img/facilities/edizioni_passate_4.jpg" alt="Coming Soon!">
+              <div class="caption left-align">
+                <h4>Pisa</h4>
+                <p class="light grey-text text-lighten-3">Pictures from previous editions</p>
+              </div>
+            </li>
+          
+            <li>
+              <img src="http://localhost:4000/img/facilities/INFN.jpg" alt="Coming Soon!">
+              <div class="caption left-align">
+                <h4>INFN</h4>
+                <p class="light grey-text text-lighten-3">The National Institute of Nuclear Physics</p>
+              </div>
+            </li>
+          
+            <li>
+              <img src="http://localhost:4000/img/facilities/labs_unipi.jpg" alt="Coming Soon!">
+              <div class="caption left-align">
+                <h4>UNIPI</h4>
+                <p class="light grey-text text-lighten-3">The labs of the University of Pisa</p>
+              </div>
+            </li>
+          
+            <li>
+              <img src="http://localhost:4000/img/facilities/labs_unifi.jpg" alt="Coming Soon!">
+              <div class="caption left-align">
+                <h4>UNIFI</h4>
+                <p class="light grey-text text-lighten-3">The labs of the University of Florence</p>
+              </div>
+            </li>
+          
+            <li>
+              <img src="http://localhost:4000/img/facilities/museogalileo.jpg" alt="Coming Soon!">
+              <div class="caption left-align">
+                <h4>Galileo Museum</h4>
+                <p class="light grey-text text-lighten-3">The History of Science Museum in Florence</p>
               </div>
             </li>
           
@@ -348,7 +404,7 @@
         <div class="col s8 offset-s2">
           <div class="icon-block">
             <h3 class="center"><i class="medium material-icons custom1-text">send</i></h2>
-            <p class="center light">The event is open to all students of the International Association of Physics Students. It will bring 40 students to visit some of the most advanced research facilities in Tuscany, with a focus on Photonics and Optics and one key mission: to foster enthusiasm in the minds of young physicists. </p><p> AISF Local committees of Pisa and Florence are waiting for you at the sixth edition of Lights of Tuscany!
+            <p class="center light">The event is open to all students of the International Association of Physics Students (IAPS). It will bring 40 students to visit some of the most advanced research facilities in Tuscany, with a focus on Photonics and Optics and one key mission: to foster enthusiasm in the minds of young physicists. </p><p> AISF Local committees of Pisa and Florence are waiting for you at the sixth edition of Lights of Tuscany!
 </p>
           </div>
         </div>
@@ -366,13 +422,15 @@
     <div class="row">
       <div class="col l6 m6 s12">
         <h5 class="white-text">Associazione Italiana Studenti di Fisica</h5>
-        <p class="grey-text text-lighten-4">The Associazione Italiana Studenti di Fisica (AISF) is a non-profit organization with educational purposes that gathers together all the Italian students of physics. It was founded in Heidelberg in August 2014 and since January 2015 is a National Committee of the International Association of Physics Students (IAPS). It counts more than 1000 members and 16 Local Committees.</p>
+        <p class="grey-text text-lighten-4">The Associazione Italiana Studenti di Fisica (AISF) is a non-profit organization with educational purposes that gathers together all the Italian students of physics. It was founded in Heidelberg in August 2014 and since January 2015 is a National Committee of the International Association of Physics Students (IAPS). AISF counts more than 1000 members and 16 Local Committees.</p>
       </div>
       <div class="col l3 m6 s6">
         <h5 class="white-text">Contact</h5>
         <ul>
         
       	  <li><a class="white-text" href="mailto:esecutivo@ai-sf.it">AISF contact mail</a></li>
+        
+      	  <li><a class="white-text" href="mailto:lot@ai-sf.it">LOT25 contact mail</a></li>
         
       	  <li><a class="white-text" href="mailto:">IAPS Website</a></li>
         

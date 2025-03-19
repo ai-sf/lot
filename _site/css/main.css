@@ -7439,6 +7439,11 @@ span.badge.new:after {
   width: 90%;
 }
 
+.container-max {
+  max-width: auto;
+  margin: 0 auto;
+}
+
 @media only screen and (min-width : 601px) {
   .container {
     width: 85%;
@@ -11429,6 +11434,23 @@ span {
 }
 .carousel .carousel-item img {
   width: 100%;
+}
+
+/* Style for the slide background */
+.slide-background {
+  height: 100vh;
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* Style for the logo */
+.logo {
+  max-width: 200px; /* Adjust as needed */
+  width: 100%;
+  height: auto;
 }
 
 .eventshome {

@@ -4,6 +4,11 @@
   // width: 90%;
   width: 90%;
 }
+
+.container-max {
+  max-width: auto;
+  margin: 0 auto;
+}
 @media #{$medium-and-up} {
   .container {
     // width: 85%;
