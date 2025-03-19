@@ -17,7 +17,7 @@ intro: "The scientific programme plans to show the participants a wide spectrum 
   - The Galileo Museum in Florence
 <br>
 <br>
-Besides the visits, there will be a large number of talks, just like in previous editions. In particular, we will have overviews of all the major topics and experiments currently running in the aforementioned facilities and their implications. This will allow us to appreciate the visits better and understand the concepts from different perspectives. It will undoubtedly be a rich experience."
+Alongside the lab tours, we’ll have a large number of seminars—just like in past editions. In particular, we will have deep dives into all the major research areas and experiments currently running at these facilities, plus discussions about what they mean for science as a whole. These sessions will give us a better understanding of the theory and real-world applications. It will undoubtedly be a rich experience."
 
 
 university:
@@ -56,19 +56,19 @@ science:
 
   - img: img/facilities/LENS.jpg
     title: LENS
-    descr: "The European Laboratory for Non-linear Spectroscopy (LENS) is an international and interdisciplinary structure in Florence. The main research lines are atomic physics, photonics, physical chemistry and biophysics. At LENS, you will see how physicists collaborate with chemists, biologists, and engineers to shape light for scientific, industrial, and medical purposes. We will learn how to stop light using photonic crystals, explore how light is used to unveil the secrets of the brain, and study —or even create— new materials."
+    descr: "The European Laboratory for Non-linear Spectroscopy (LENS) is an international and interdisciplinary structure in Florence. The main research lines are atomic physics, photonics, physical chemistry and biophysics. At LENS, we will see how physicists collaborate with chemists, biologists, and engineers to shape light for scientific, industrial, and medical purposes. We will learn how to stop light using photonic crystals, explore how light is used to unveil the secrets of the brain, and study —or even create— new materials."
     site: "http://www.lens.unifi.it"
     map: "https://www.google.es/maps/place/LENS/@43.8188678,11.190617,17z/data=!3m1!4b1!4m5!3m4!1s0x132a57a4fe34cce3:0x798b7fd7cf268883!8m2!3d43.818864!4d11.192811?hl=en"
 
   - img: img/facilities/INFN2.jpg
     title: INFN - LABEC
-    descr: "The National Institute for Nuclear Physics is been for over 70 years active in the research of nuclear and fundamental physics, but its study fields broadened over time and now it collaborates on many other national and international projects. It is the perfect meeting point for experimental and theoretical physics. Inside the INFN you will find the LABEC laboratory, that applies nuclear techniques to study the environment and cultural heritage. You will: visit the 3MV tandem accelerator & MACHINA, developed at LABEC; see how physics helps analyze air pollution and protect artworks; explore ion beam techniques used in research."
+    descr: "For over 70 years, the National Institute for Nuclear Physics (INFN) has been a powerhouse in nuclear and fundamental physics research. But its study field have broadened over time and it now partners on tons of other national and international projects too.  The INFN is the perfect meeting point for experimental and theoretical physics. Inside the institute, you’ll find LABEC, a lab that uses nuclear techniques to study everything from environmental science to cultural heritage. We will visit the 3MV tandemaccelerator & MACHINA -both developed right here at LABEC -and see firsthandhow  physics helps analyze air pollution and protect priceless artworks."
     site: "https://www.pi.infn.it/"
     map: "https://www.google.com/maps/place/INFN+-+Sezione+di+Pisa/@43.720615,10.4083,15z/data=!4m5!3m4!1s0x0:0x61fa050fe2979c7e!8m2!3d43.7206153!4d10.4083003?hl=it"
     
   - img: img/facilities/Pi_INO.jpg
     title: CNR - INO
-    descr: "The current National Institute of Optics (INO) is a mainstay of CNR scientific network. It has been working for over ninety years in the field of Optics, understood in its broadest meaning, and has updated its fields of activity in line with the huge innovations that have characterized this area over the last century. At CNR-INO you will have the opportunity to visit the Dysprosium Lab, in which is explored the fascinating realm of quantum matter, by working with strongly magnetic atoms, in order to investigate a quantum phase at the boundary between superfluids and crystals, known as Supersolid. In the Lab: they cool dysprosium atoms near absolute zero, they manipulate it using laser beams and strong magnetic interactions, and they induce crystallization to enter the exotic supersolid regime."
+    descr: "The National Institute of Optics (INO) is a cornerstone of CNR’s scientific network, with nearly a century of work in optics—spanning everything from quantum physics to cultural heritage preservation. During your visit to CNR-INO, you’ll get to explore the Dysprosium Lab, where researchers dive into the mind-bending world of quantum matter. Here, scientists work with strongly magnetic atoms to investigate a quantum phase at the boundary between superfluids and crystals- the supersolid.  Researchers use precision laser beams to control the atoms’ motion and interactions. Strong magnetic fields are applied to trigger crystallization, nudging the system into the exotic supersolid regime."
     site: "https://fed.ino.it/"
     map: "https://www.google.com/maps/place/Istituto+Nazionale+di+Ottica+(INO)+-+CNR+-+Pisa/@43.7192589,10.4240063,15z/data=!4m5!3m4!1s0x0:0x838ddb26b28a1f99!8m2!3d43.7192589!4d10.4240063"
 
