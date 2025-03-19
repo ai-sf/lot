@@ -28,9 +28,27 @@ price:
       url: "#!"
     - text: "Payments will be required by bank transfer or PayPal. The receipt will be delivered on the first day of the event."
       url: "#!"
-    - text: "The price includes accommodation for the nights from May 15th to 19th, personalized gadgets, identification badge, access to the various facilities and events (university, laboratories, conferences), the certificate of participation, insurance."
+    - text: "<b>The price includes:</b>
+    </p><p> 
+    - accommodation for the nights from May 15th to 19th, 
+    </p><p> 
+    - personalized event gadgets,
+    </p><p> 
+    - identification badge, 
+    </p><p> 
+    - access to the various facilities and events (university, laboratories, conferences), 
+    </p><p> 
+    - round trip transfer from Pisa to VIRGO
+    </p><p> 
+    - transport from Pisa to Florence
+    </p><p>
+    - the certificate of participation, 
+    </p><p> 
+    - insurance.
+    </p><p> 
+    If additional services are added, it will be reported in this section of the site."
       url: "#!"
-    - text: "The price does NOT include anything not explicitly indicated under 'the price includes'. In particular are not included travel toward Pisa and return from Florence, organization and payment of these are in charge of the participant. Meals not specified in the official Program are not included. The organizing committee will however suggest a few places where to eat and spend some free time."
+    - text: "<b>The price does NOT include</b> anything not explicitly indicated under 'the price includes'. In particular are not included travel toward Pisa and return from Florence, organization and payment of these are in charge of the participant. Meals not specified in the official schedule are not included. The organizing committee will however suggest a few places where to eat and spend some free time."
       url: "#!"
 
 deadlines:
