@@ -56,6 +56,16 @@ content2:
   link:
   slides: 
 
+- nome: "Alessandro Terranova"
+  id: id
+  uni: "University of Pisa"
+  img: "alessandro.jpg"
+  title: " "
+  bio: "Alessandro Terranova is a master's student at the University of Pisa. He obtained his bachelor's degree in physics in 2022 and continued his studies in high-energy physics. In particular, they focus on a phenomenological approach of heavy flavour physics and CP-violation in weak interactions. He has always been actively engaged in scientific dissemination, and his role in this field has become even more prominent since he became the president of AISF. Also, during his free time, he works as an official guide at the Advanced Virgo Interferometer, the only Gravitational wave detector in Europe."
+  abstract: ""
+  link:
+  slides: 
+  
 - nome: "Coming Soon!"
   id: id
   uni: "University of Pisa"
