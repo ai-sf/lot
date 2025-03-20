@@ -31,8 +31,11 @@ price:
   info: "Please read carefully below."
   specs:
     - text: "Once registrations are closed, the selected participants are required to confirm their presence by covering a participation fee of €100. For students from Pisa and Florence the expected participation fee is €50, and this does NOT include accommodation."
+      url: "#!"
     - text: "If the participant is not already registered to AISF or IAPS, he/she will have to add the AISF/IAPS registration fee to the price."
+      url: "#!"    
     - text: "Payments will be required by bank transfer or PayPal. The receipt will be delivered on the first day of the event."
+      url: "#!"    
     - text: "<b>The price includes:</b>
     </p><p> 
     - accommodation for the nights from May 15th to 19th, 
@@ -52,7 +55,9 @@ price:
     - insurance.
     </p><p> 
     If additional services are added, it will be reported in this section of the site."
+      url: "#!"
     - text: "<b>The price does NOT include</b> anything not explicitly indicated under 'the price includes'. In particular are not included travel toward Pisa and return from Florence, organization and payment of these are in charge of the participant. Meals not specified in the official schedule are not included. The organizing committee will however suggest a few places where to eat and spend some free time."
+      url: "#!"
 
 deadlines:
   info: "Please read carefully below."
