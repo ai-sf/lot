@@ -20,9 +20,10 @@ selection:
     - text: "Please note that unfortunately we are not able to provide scholarships and/or bursaries for any students at this time."
     - text: "Please note that participants do not need to be specialized in the field of photonics, but can come from any discipline of physics. Physics students of any age and any year of study can apply."
       url: "#!"
-    - text: "The <b>selection criteria</b> are presented here."
+    - text: "You can find here the <b>selection criteria</b> in english."
       url: "files/criteri_di_selezione_eng_LoT25_signed.pdf"
       button: "English PDF"
+    - text: "You can find here the <b>selection criteria</b> in italian."
       url: "files/criteri_di_selezione_ita_LoT25_signed.pdf"
       button: "Italian PDF"
 
