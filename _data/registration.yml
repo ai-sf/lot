@@ -20,18 +20,18 @@ selection:
     - text: "Please note that unfortunately we are not able to provide scholarships and/or bursaries for any students at this time."
     - text: "Please note that participants do not need to be specialized in the field of photonics, but can come from any discipline of physics. Physics students of any age and any year of study can apply."
       url: "#!"
-    - text: "The selection criteria are presented here."
+    - text: "The <b>selection criteria</b> are presented here."
       url: "files/criteri_di_selezione_eng_LoT25_signed.pdf"
-      button: "PDF"
+      button: "English PDF"
+      url: "files/criteri_di_selezione_ita_LoT25_signed.pdf"
+      button: "Italian PDF"
 
 price:
   info: "Please read carefully below."
   specs:
     - text: "Once registrations are closed, the selected participants are required to confirm their presence by covering a participation fee of €100. For students from Pisa and Florence the expected participation fee is €50, and this does NOT include accommodation."
     - text: "If the participant is not already registered to AISF or IAPS, he/she will have to add the AISF/IAPS registration fee to the price."
-      url: "#!"
     - text: "Payments will be required by bank transfer or PayPal. The receipt will be delivered on the first day of the event."
-      url: "#!"
     - text: "<b>The price includes:</b>
     </p><p> 
     - accommodation for the nights from May 15th to 19th, 
@@ -51,9 +51,7 @@ price:
     - insurance.
     </p><p> 
     If additional services are added, it will be reported in this section of the site."
-      url: "#!"
     - text: "<b>The price does NOT include</b> anything not explicitly indicated under 'the price includes'. In particular are not included travel toward Pisa and return from Florence, organization and payment of these are in charge of the participant. Meals not specified in the official schedule are not included. The organizing committee will however suggest a few places where to eat and spend some free time."
-      url: "#!"
 
 deadlines:
   info: "Please read carefully below."
@@ -76,7 +74,7 @@ terms:
     - text: "You acknowledge and agree that the organizing committee and the hosts of the event have no responsibility whatsoever for injuries, losses, or damages of any kind that result from your participation in the Lights of Tuscany 2025 programme."
       url: "#!"
     - text: "You accept the IAPS Code of Conduct."
-      url: "files/Informativa_Privacy_AISF.pdf"
+      url: "files/IAPS-Code-of-Conduct.pdf"
       button: "PDF"
     - text: "By participating in the event you agree to be filmed, photographed and otherwise recorded during the conference anf hereby expressly grant the organizing committee, AISF and IAPS the right to use your pictures, movie or any other form of media publication in contexts such as internet sites, social media, brochures, posters, informative and advertising materials. You also confirm that the information contained in this application is true and correct."
       url: "#!"
