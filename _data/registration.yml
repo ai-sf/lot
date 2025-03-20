@@ -20,6 +20,9 @@ selection:
     - text: "Please note that unfortunately we are not able to provide scholarships and/or bursaries for any students at this time."
     - text: "Please note that participants do not need to be specialized in the field of photonics, but can come from any discipline of physics. Physics students of any age and any year of study can apply."
       url: "#!"
+    - text: "The selection criteria are presented here."
+      url: "files/criteri_di_selezione_eng_LoT25_signed.pdf"
+      button: "PDF"
 
 price:
   info: "Please read carefully below."
