@@ -53,7 +53,7 @@ schedule:
       - hour: "10:00 AM - 12:00 AM"
         descr: "Visit to CNR-INO"
       - hour: "12:00 AM - 02:00 PM"
-        descr: "Lunch offered"
+        descr: "Free lunch"
       - hour: "02:00 PM - 07:00 PM"
         descr: "Free afternoon"
       - hour: "07:00 PM - ..."
