@@ -44,7 +44,7 @@
   format: "m3"
   subitems:    
     - text: "Physics Departement of the University of Pisa"
-      img: dip_unipi.jpg
+      img: dip_unipi_nuovo.jpg
       link: "https://www.df.unipi.it/"
     - text: "The University of Pisa"
       img: unipi.png
