@@ -31,6 +31,16 @@ content:
   link:
   slides: 
 
+- nome: "Matthieu Gosselin"
+  id: id
+  uni: "University of Pisa and EGO-VIRGO Gravitational Observatory"
+  img: "Gosselin.jpg"
+  title: "High-power fiber components for gravitational wave detector"
+  bio: "Matthieu Gosselin is a French researcher at the European Gravitational Observatory, which hosts the Virgo gravitational wave detector. In 2014, he obtained a master's degree in telecommunications engineering and a research master's in photonics. He then completed a PhD in experimental physics at the University of Pisa in 2018 as part of the GraWIToN project (Marie Curie Program), focusing on the development of high-power optical components. He currently leads the optics group at the European Gravitational Observatory and serves as the system manager for the Advanced Virgo+ Injection subsystem. His work focuses on designing and commissioning Virgo's injection system, as well as developing and optimizing input-output optics for present and future gravitational wave detectors."
+  abstract: ""
+  link:
+  slides: 
+
 - nome: "Coming Soon!"
   id: id
   uni: "University of Pisa"
@@ -41,11 +51,9 @@ content:
   link:
   slides: 
 
-
 description2: "Furthermore, during LOT25, you will have the opportunity to learn about the academic experiences of other physics students, from bachelor's to Ph.D. levels. They will also participate as speakers in the conferences and events organized during the program."
 
 content2:
-
 - nome: "Julia Favaro"
   id: id
   uni: "University of Pisa"
