@@ -61,6 +61,9 @@
     - text: "SIF Italian Society of Physics"
       img: logo-SIF-vettoriale-bn.svg
       link: "https://www.sif.it/"
+    - text: "The Galileo Museum in Florence"
+      img: MUSEO_GALILEO.PNG
+      link: "https://www.museogalileo.it/it/"
 
 - title: "Official sponsors:"
   format: "m3"
