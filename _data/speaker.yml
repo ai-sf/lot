@@ -51,6 +51,16 @@ content:
   link:
   slides: 
 
+- nome: "Alice Boschetti"
+  id: id
+  uni: "LENS and National Metrology Institute of Italy"
+  img: "alice_boschetti.jpg"
+  title: "Scattering materials for photonics, multilayer optical micro-cavities, scanning electron microscopy and optical profilometry"
+  bio: "Alice Boschetti earned her PhD at the European Laboratory of Non-Linear Spectroscopy, where she developed an innovative method for spectral super-resolution spectroscopy using a random laser. Presently, she is a researcher at the National Metrology Institute of Italy, focusing on the development of unconventional light sources based on light-harvesting materials, as well as complex porous and scattering materials for photonics and sustainability. She participates in the APACE project as the Scientific Responsible for the INRIM unit, leading the development of the bioinspired micro-solar laser device. Together with the INRIM team, Alice will develop multilayer optical micro-cavities, leveraging advanced optical and morphological characterization techniques such as scanning electron microscopy and optical profilometry, as well as state-of-the-art fabrication methods like direct laser writing."
+  abstract: ""
+  link:
+  slides: 
+
 - nome: "Coming Soon!"
   id: id
   uni: "University of Pisa"
