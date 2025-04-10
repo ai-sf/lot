@@ -11,7 +11,7 @@ content:
   link: "https://www.phys.ethz.ch/the-department/people/person-detail.MTQ1MDY1.TGlzdC84MzgsMTE3MjU5OTI5OQ==.html"
   slides: 
 
-- nome: "Donatella Ciampini"
+- nome: "Professor Donatella Ciampini"
   id: id
   uni: "University of Pisa"
   img: "ciampini.jpg"
@@ -21,7 +21,7 @@ content:
   link: "https://www.df.unipi.it/people/ciampini-donatella/"
   slides: 
 
-- nome: "Massimiliano Razzano"
+- nome: "Professor Massimiliano Razzano"
   id: id
   uni: "University of Pisa"
   img: "massimiliano_razzano.jpeg"
@@ -31,7 +31,7 @@ content:
   link:
   slides: 
 
-- nome: "Andrea Macchi"
+- nome: "Doctor Andrea Macchi"
   id: id
   uni: "University of Pisa and CNR-INO"
   img: "macchi.jpg"
@@ -41,7 +41,7 @@ content:
   link:
   slides: 
 
-- nome: "Matthieu Gosselin"
+- nome: "Doctor Matthieu Gosselin"
   id: id
   uni: "University of Pisa and EGO-VIRGO Gravitational Observatory"
   img: "Gosselin.jpg"
@@ -51,7 +51,7 @@ content:
   link:
   slides: 
 
-- nome: "Alice Boschetti"
+- nome: "Doctor Alice Boschetti"
   id: id
   uni: "LENS and National Metrology Institute of Italy"
   img: "alice_boschetti.jpg"
