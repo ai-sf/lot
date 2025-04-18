@@ -36,6 +36,9 @@
     - text: "INFN of Pisa"
       img: INFN_pisa.jpg
       link: "https://www.pi.infn.it/"
+    - text: "LENS Florence"
+      img: lens.png
+      link: "https://lens.unifi.it/"
     - text: "UNESCO International Day of Light (16 May)"
       img: IDL_UNESCO.PNG
       link: "https://www.lightday.org/"
