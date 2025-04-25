@@ -4,14 +4,9 @@ intro: >
   Ready to light up your future with us?"
 
 people:
-  - img: img/giulia.jpg
-    title: "Giulia Casti"
-    descr: "Coordinator and Social events manager"
-    mail: lot@ai-sf.it
-
   - img: img/alice.jpg
     title: "Alice D'Autilio"
-    descr: "Social media and accomodation manager"
+    descr: "Social media manager and Accomodation manager"
     mail: lot@ai-sf.it
 
   - img: img/julia.jpg
@@ -19,17 +14,22 @@ people:
     descr: "Secretary and Sponsor manager"
     mail: lot@ai-sf.it
 
-  - img: img/francesco.jpg
-    title: "Francesco De Cosmo"
-    descr: "Sponsor manager"
-    mail: lot@ai-sf.it
-
   - img: img/dorotea.jpg
     title: "Dorotea Nardini"
     descr: "Laboratory visits manager"
     mail: lot@ai-sf.it
+    
+  - img: img/giulia.jpg
+    title: "Giulia Casti"
+    descr: "Coordinator and Social events manager"
+    mail: lot@ai-sf.it
+    
+  - img: img/francesco.jpg
+    title: "Francesco De Cosmo"
+    descr: "Treasurer and Laboratory visits manager"
+    mail: lot@ai-sf.it
 
   - img: img/alessandro.jpg
     title: "Alessandro Terranova"
-    descr: "Sponsor manager"
+    descr: "Sponsor manager and Laboratory visits manager"
     mail: lot@ai-sf.it
