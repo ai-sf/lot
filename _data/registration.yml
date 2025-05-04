@@ -4,10 +4,10 @@ Before you fill it out, please read the terms and conditions below. Please note 
 
 general:
   specs:
-    - text: "Click on the botton here on the side to download a summary pdf file of the event!"
+    - text: "Click on the button here on the side to download a summary pdf file of the event!"
       url: "files/Discover Lights of Tuscany 2025.pdf"
       button: Summary LoT25 PDF
-    - text: "Click on the botton here on the side to download a Media Kit pdf presentation."
+    - text: "Click on the button here on the side to download a Media Kit pdf presentation."
       url: "files/Media_kit.pdf"
       button: LoT25 Media Kit
 
