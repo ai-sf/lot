@@ -2,6 +2,15 @@ info: "<b>You can find the registration form at the bottom of this page</b>.
 </p><p>
 Before you fill it out, please read the terms and conditions below. Please note that, upon registration, you will be asked for personal details (such as name, surname, date of birth, university affiliation, passport number etc.) and write a brief statement explaining why you’re interested in joining the event."
 
+general:
+  specs:
+    - text: "Click on the botton here on the side to download a summary pdf file of the event!"
+      url: "files/Discover Lights of Tuscany 2025.pdf"
+      button: Summary LoT25 PDF
+    - text: "Click on the botton here on the side to download a Media Kit pdf presentation."
+      url: "files/Media_kit.pdf"
+      button: LoT25 Media Kit
+
 starting_date: "2025-03-19 12:00"
 ending_date: "2025-04-18 03:25"
 
