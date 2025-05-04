@@ -8,6 +8,37 @@ title: Registration
   <p>
     {{ site.data.registration.info }}
   </p>
+  <p>{{ site.data.registration.general.info }}<p>
+  <div class="collection">
+  {% for item in site.data.registration.general.specs %}
+    <a
+      {% if item.url contains "http://" %}
+         href="{{ item.url }}"
+      {% else %}
+         href="{{ site.url }}/{{ item.url }}"
+      {% endif %}
+      class="collection-item black-text">
+      {{ item.text }}
+      {% if item.url != "#!" %}
+        <span class="badge custom1 white-text">{{ item.button }}</span>
+      {% endif %}
+    </a>
+    {% for item2 in item.subpoints %}
+      <a
+        {% if item2.url contains "http://" %}
+           href="{{ item2.url }}"
+        {% else %}
+           href="{{ site.url }}/{{ item2.url }}"
+        {% endif %}
+        class="collection-item black-text custom1 lighten-5">
+        {{ item2.text }}
+        {% if item.url != "#!" %}
+          <span class="badge custom1 white-text">{{ item2.button }}</span>
+        {% endif %}
+      </a>
+    {% endfor %}
+  {% endfor %}
+  </div>
 </div>
 
 {% if site.data.registration.posters? %}
