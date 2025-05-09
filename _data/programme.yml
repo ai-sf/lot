@@ -105,4 +105,7 @@ few_info:
     - text: "Meeting point"
       subpoints: 
       - text: "The meeting point (where the event organizers will welcome you) will be communicated via email to participants and on the LOT25 Telegram group (the link to the Telegram channel will be sent via email to participants)."
-   
+    - text: "Laboratories Visits"
+      subpoints:
+        - text: "Click on the buttons next here to download the summary PDF of some of the Labs."
+        - url: "/path/lab_visits.pdf"   
