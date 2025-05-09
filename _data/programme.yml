@@ -108,4 +108,4 @@ few_info:
     - text: "Laboratories Visits"
       subpoints:
         - text: "Click on the buttons next here to download the summary PDF of some of the Labs."
-        - url: "/path/lab_visits.pdf"   
+        - url: "files/lab_visits.pdf"   
