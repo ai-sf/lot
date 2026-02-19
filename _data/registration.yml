@@ -21,18 +21,18 @@ posters: "During the event a set of poster session will take place, so everyone 
 selection:
   info: ""
   specs:
-    - text: "In order to enroll one must be a member to IAPS or any affiliated associations."
-    - text: "If you are not an AISF/IAPS member you can become one while registering for this event by compiling the following form. <br> Being an AISF member also includes membership to IAPS."
+    - text: "To enroll, you must be a member of IAPS or an affiliated association."
+    - text: "If you are not yet an AISF/IAPS member, you can join while registering for this event by filling out the form below. <br> Please note that AISF membership automatically includes IAPS membership."
       url: "http://ai-sf.it/iscrizione"
       button: Form
-    - text: "40 places are available for this event. Once registration closes, the organizing committee will select the event participants from all applicants, following the selection criteria available on the website."
-    - text: "Please note that unfortunately we are not able to provide scholarships and/or bursaries for any students at this time."
-    - text: "Please note that participants do not need to be specialized in the field of photonics, but can come from any discipline of physics. Physics students of any age and any year of study can apply."
+    - text: "Once registration closes, the organizing committee will select participants from all applicants based on this year's selection criteria, which will be available on our website."
+    - text: "Please note that we are currently unable to provide scholarships or bursaries to students at this time."
+    - text: "You do not need a background in photonics to attend; physics students from any discipline, of any age, and in any year of study are welcome to apply."
       url: "#!"
-    - text: "You can find here the <b>selection criteria</b> in english."
+    - text: "You can find last year's <b>selection criteria</b> in English here."
       url: "files/criteri_di_selezione_eng_LoT26_signed.pdf"
       button: "English PDF"
-    - text: "You can find here the <b>selection criteria</b> in italian."
+    - text: "You can find last year's <b>selection criteria</b> in Italian here."
       url: "files/criteri_di_selezione_ita_LoT26_signed.pdf"
       button: "Italian PDF"
 

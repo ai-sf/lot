@@ -2,7 +2,7 @@ banner: img/Logo_con_Slogan.jpg
 
 # msg: "Grazie per aver partecipato. Ci vediamo alla prossima ediione di Lights of Tuscany!"
 
-who: "40 students from many countries and of all ages, coming to Pisa and Florence to discover the Lights of Tuscany."
+who: "Students and PhDs from many countries and of all ages, coming to Pisa and Florence to discover the Lights of Tuscany."
 
 when: "From the 15th to the 19th of May 2026, arrival and departures included."
 
@@ -41,14 +41,14 @@ slideshow:
     alt: Coming Soon!
     title: UNIFI
     text: The labs of the University of Florence
-  - img: img/facilities/museogalileo.jpg
-    alt: Coming Soon!
-    title: Galileo Museum
-    text: The History of Science Museum in Florence 
+#  - img: img/facilities/museogalileo.jpg
+#    alt: Coming Soon!
+#    title: Galileo Museum
+#    text: The History of Science Museum in Florence 
 
 
 
 paragraph: >
-  The event is open to all students of the International Association of Physics Students (IAPS). It will bring 40 students to visit some of the most advanced research facilities in Tuscany, with a focus on Photonics and Optics and one key mission: to foster enthusiasm in the minds of young physicists.
+  The event is open to all students of the International Association of Physics Students (IAPS). It will bring students and phds to visit some of the most advanced research facilities in Tuscany, with a focus on Photonics and Optics and one key mission: to foster enthusiasm in the minds of young physicists.
   </p><p>
   AISF Local committees of Pisa and Florence are waiting for you at the seventh edition of Lights of Tuscany!
