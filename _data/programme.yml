@@ -1,18 +1,18 @@
 info: >
-  The Lights of Tuscany programme has reached its sixth edition and we are happy to annouce the return of this event on the international scale, with new activities and improvements. 
+  The Lights of Tuscany programme has reached its seventh edition and we are happy to annouce the return of this event on the international scale, with new activities and improvements. 
   The event will have a focus on Photonics, but a number of other topics will be touched upon, including Matter Physics, Quantum Optics, Biophysics, and Cultural Heritage Physics.
-  Having a basic understanding of these topics is certainly helpful to enjoy this event to the fullest, but don't worry! LOT25 is a learning opportunity open to everyone, regardless of their academical background!
+  Having a basic understanding of these topics is certainly helpful to enjoy this event to the fullest, but don't worry! LOT26 is a learning opportunity open to everyone, regardless of their academical background!
   </p><p>
-  LOT25 will also see alongside its participants, <b>some students from the last years of high school</b> in Pisa who will join us on the first day of conferences and during the visit in EGO-VIRGO. This initiative is made to give them a first look in the world of research and university! They will have as well the chance to meet both students and professors and ask them any question regarding their research. Anyone is invited to share their own experience during the conferences and coffee breaks.
+  LOT26 will also see alongside its participants, <b>some students from the last years of high school</b> in Pisa who will join us on the first day of conferences and during the visit in EGO-VIRGO. This initiative is made to give them a first look in the world of research and university! They will have as well the chance to meet both students and professors and ask them any question regarding their research. Anyone is invited to share their own experience during the conferences and coffee breaks.
   </p><p>
-  Lights of Tuscany 2025 will give you a glimpse into the world of research and the chance to meet both reserchers and professors and ask them any question regarding their activities. Anyone is invited to share their own experience during the seminars and coffee breaks.
+  Lights of Tuscany 2026 will give you a glimpse into the world of research and the chance to meet both reserchers and professors and ask them any question regarding their activities. Anyone is invited to share their own experience during the seminars and coffee breaks.
 
 info2: "<b>Click on the day</b> to discover all the activities!"
 
 schedule:
-  - day: Thursday - DAY 1
-    date: "15/05/2025"
-    short_descr: Arrival in Pisa and welcome cerimony
+  - day: Friday - DAY 1
+    date: "15/05/2026"
+    short_descr: Arrival in Florence and welcome cerimony
     activity:
       - hour: "07:00 AM - 02:00 PM"
         descr: "Check-in in the accomodation and welcome"
@@ -20,74 +20,60 @@ schedule:
         descr: "Opening ceremony"
       - hour: "03:00 PM - 04:00 PM"
         descr: "Conference with international speaker"
-      - hour: "04:00 PM - 05:00 PM"
-        descr: "Coffe break"
-      - hour: "05:00 PM - 07:00 PM"
-        descr: "Visit to the labs of the University of Pisa"
+      - hour: "04:00 PM - 07:00 PM"
+        descr: "Coffe break and conferences"
       - hour: "07:00 PM - 08:00 PM"
         descr: "Free dinner"
       - hour: "08:00 PM - ..."
-        descr: "Social event"
+        descr: "Social event and guided tour of Florence"
         
-  - day: Friday - DAY 2
+  - day: Saturday - DAY 2
     date: "16/05/2025"
-    short_descr: Labs visits and Conferences
+    short_descr: Labs visits
     activity:
       - hour: "08:30 AM - 01:00 PM"
-        descr: "Visit to EGO-VIRGO"
+        descr: "Visit to LENS, to the labs of the University of Florence and INFN-LABEC"
       - hour: "01:00 PM - 02:00 PM"
         descr: "Lunch offered"
-      - hour: "02:00 PM - 05:00 PM"
-        descr: "Conferences and Coffe break"
-      - hour: "05:00 PM - 07:00 PM"
-        descr: "Sponsor company talks and student poster session"
-      - hour: "07:00 PM - ..."
-        descr: "Free time"
-        
-  - day: Saturday - DAY 3
-    date: "17/05/2025"
-    short_descr: Labs visits and Social events
-    activity:
-      - hour: "08:30 AM - 10:00 AM"
-        descr: "Visit to Sant'Anna"
-      - hour: "10:00 AM - 12:00 AM"
-        descr: "Visit to CNR-INO"
-      - hour: "12:00 AM - 02:00 PM"
-        descr: "Free lunch"
       - hour: "02:00 PM - 07:00 PM"
         descr: "Free afternoon"
       - hour: "07:00 PM - ..."
         descr: "Social dinner"
         
-  - day: Sunday - DAY 4
-    date: "18/05/2025"
-    short_descr: From Pisa to Florence
+  - day: Sunday - DAY 3
+    date: "17/05/2025"
+    short_descr: From Florence to Pisa
     activity:
       - hour: "08:30 AM - 10:00 AM"
-        descr: "Transfer from Pisa to Florence"
-      - hour: "10:00 AM - 12:00 AM"
-        descr: "Visit to Galileo Museum"
-      - hour: "12:00 AM - 02:00 PM"
+        descr: "Visit to Astrophysical Observatory of Arcetri"
+      - hour: "10:00 AM - 12:00"
+        descr: "Transfer from Florence to Pisa"
+      - hour: "12:00 AM - 02:00 AM"
         descr: "Free lunch"
+      - hour: "02:00 PM - 07:00 PM"
+        descr: "Free afternoon"
+      - hour: "07:00 PM - ..."
+        descr: "Social event"
+        
+  - day: Monday - DAY 4
+    date: "18/05/2025"
+    short_descr: Labs visit and Conferences
+    activity:
+      - hour: "08:30 AM - 12:00 AM"
+        descr: "Visit to VIRGO"
       - hour: "02:00 PM - 03:00 PM"
-        descr: "Chek-in in the new accomodation"
+        descr: "Sponsor company talks and student poster session"
       - hour: "03:00 PM - 08:00 PM"
         descr: "Free afternoon and free dinner"
       - hour: "08:00 PM - ..."
-        descr: "Social event"
+        descr: "Free time"
         
-  - day: Monday - DAY 5
+  - day: Tuesday - DAY 5
     date: "19/05/2025"
     short_descr: Labs visits and Conferences
     activity:
-      - hour: "08:30 AM - 10:00 AM"
-        descr: "Visit to INFN-LABEC"
-      - hour: "10:00 AM - 11:30 AM"
-        descr: "Visit to the labs of the University of Florence"
-      - hour: "11:30 AM - 01:00 PM"
-        descr: "Visit to LENS"
-      - hour: "01:00 PM - 02:00 PM"
-        descr: "Lunch offered"
+      - hour: "08:30 AM - 12:00 AM"
+        descr: "Visit to INO-CNR and NEST"
       - hour: "02:00 PM - 03:00 PM"
         descr: "Conference"
       - hour: "03:00 PM - 04:00 PM"
@@ -99,11 +85,11 @@ few_info:
     - text: "Possible changes"
       subpoints:
       - text: "The Program will be constantly updated as further details are provided."
-    - text: "Meeting time"
-      subpoints: 
-      - text: "It would be best to arrive in Pisa on May 15th by 1:00-2:00 PM , to attend the event's opening ceremony. If you are unable to arrive within this timeframe, please inform us via email at lot@ai-sf.it a few days before the event."
+    # - text: "Meeting time"
+    #  subpoints: 
+    #  - text: "It would be best to arrive in Pisa on May 15th by 1:00-2:00 PM , to attend the event's opening ceremony. If you are unable to arrive within this timeframe, please inform us via email at lot@ai-sf.it a few days before the event."
     - text: "Meeting point"
       subpoints: 
-      - text: "The meeting point (where the event organizers will welcome you) will be communicated via email to participants and on the LOT25 Telegram group (the link to the Telegram channel will be sent via email to participants)."
-    - text: "Laboratories Visits - Click on the button to download the summary PDF of the Florence Labs."
-    - url: "files/lab_visits.pdf"
+      - text: "The meeting point (where the event organizers will welcome you) will be communicated via email to participants and on the LOT26 Telegram group (the link to the Telegram channel will be sent via email to participants)."
+    # - text: "Laboratories Visits - Click on the button to download the summary PDF of the Florence Labs."
+    # - url: "files/lab_visits.pdf"

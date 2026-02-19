@@ -1,7 +1,5 @@
-<div
-  style="background-image:url('{{site.url}}/img/wave.png'); background-size:contain; background-repeat:yes-repeat; width: 100%; height: 0; padding-top:30%;">
-</div>
-<footer class="page-footer custom1">
+<div class="footer-wave"></div>
+<footer class="page-footer custom-footer-LOT">
   <div class="container">
     <div class="row">
       <div class="col l6 m6 s12">
@@ -48,3 +46,24 @@
     </div>
   </div>
 </footer>
+<script>
+(function() {
+  const html = document.documentElement;
+  const applyTheme = (theme) => { theme === 'dark' ? html.setAttribute('data-theme', 'dark') : html.removeAttribute('data-theme'); };
+  const savedTheme = localStorage.getItem('theme-choice');
+  if (savedTheme) applyTheme(savedTheme);
+  document.addEventListener('DOMContentLoaded', () => {
+    const tDesktop = document.getElementById('dark-mode-toggle');
+    const tMobile = document.getElementById('dark-mode-toggle-mobile');
+    const sync = (checked) => { 
+      const theme = checked ? 'dark' : 'light'; 
+      applyTheme(theme); 
+      localStorage.setItem('theme-choice', theme); 
+      if(tDesktop) tDesktop.checked = checked; 
+      if(tMobile) tMobile.checked = checked; 
+    };
+    if(tDesktop) { tDesktop.checked = (savedTheme === 'dark'); tDesktop.addEventListener('change', (e) => sync(e.target.checked)); }
+    if(tMobile) { tMobile.checked = (savedTheme === 'dark'); tMobile.addEventListener('change', (e) => sync(e.target.checked)); }
+  });
+})();
+</script>

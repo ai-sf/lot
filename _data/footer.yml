@@ -4,7 +4,7 @@ descr: The Associazione Italiana Studenti di Fisica (AISF) is a non-profit organ
 contact:
   - name: AISF contact mail
     mail: esecutivo@ai-sf.it
-  - name: LOT25 contact mail
+  - name: LOT26 contact mail
     mail: lot@ai-sf.it
   - name: IAPS Website
     url: https://www.iaps.info/
@@ -13,11 +13,11 @@ connect:
   - name: Instagram AISF 
     url: "https://www.instagram.com/aisf_fisica/"
     instagram: true 
-  - name: Instagram LOT 25
-    url: "https://www.instagram.com/lot.aisf?igsh=MTFyb3RzczdoNGlwag=="
+  - name: Instagram LOT 26
+    url: "https://www.instagram.com/lot.aisf/"
     instagram: true 
   - name: Instagram Local Committee AISF Pisa
-    url: "https://www.instagram.com/aisf.pisa?igsh=cjBvc2EwdmlieXlo"
+    url: "https://www.instagram.com/aisf.pisa/"
     instagram: true 
 
 creator:
@@ -25,3 +25,5 @@ creator:
     mail: andreagerhard.lutz@ai-sf.it
   - name: Alice D'Autilio
     mail: dautilioalice@gmail.com
+  - name: Francesco Sermi
+    mail: francesco291104@gmail.com

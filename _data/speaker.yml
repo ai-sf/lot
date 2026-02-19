@@ -1,96 +1,12 @@
 description: "We are happy to host professors, academics and other prominent figures working with light and light-based technologies. Here you can find the profiles of some of them (constantly updated) and some informations about their conferences."
 
-content:
-- nome: "Professor Doctor Giacomo Scalari"
-  id: id
-  uni: "ETH Zurigo"
-  img: "giacomo_scalari.jpeg"
-  title: "TALK TITLE: Ultrastrong Light-matter coupling at THz frequencies with 2-dimensional systems"
-  bio: "Giacomo Scalari has been an Associate Professor at ETH Zurich since April 2020. He obtained his degree in physics from the University of Pisa in 1999. After a period at the Scuola Superiore S. Anna in Pisa, he completed his Ph.D. in December 2005 with a thesis on magneto-spectroscopy and the development of THz quantum cascade lasers. He moved to ETH Zurich in 2007 and became a permanent senior scientist in Prof. J. Faist's group in 2011. His research interests are in the field of ultra-strong THz light-matter coupling, THz quantum cascade laser frequency combs, and THz superconducting metamaterials. He received the national award from the Swiss Physical Society in 2006 for applied physics and an ERC Consolidator Grant for THz quantum cascade laser frequency combs in 2016."
-  abstract: ""
-  link: "https://www.phys.ethz.ch/the-department/people/person-detail.MTQ1MDY1.TGlzdC84MzgsMTE3MjU5OTI5OQ==.html"
-  slides: 
-
-- nome: "Professor Donatella Ciampini"
-  id: id
-  uni: "University of Pisa"
-  img: "ciampini.jpg"
-  title: "TALK TITLE: Optical Control of Optomechanical Coupling in a Cavity via Photochromic Molecules"
-  bio: "Donatella Ciampini is a researcher at the University of Pisa's Department of Physics. Her work focuses on Atomic, Molecular, and Optical Physics, particularly on the quantum control of matter through light-matter interactions. In recent years, she has also expanded her research into applied physics, leveraging her expertise in cold atom studies. She has contributed to projects like GINGER, which explores fundamental physics using high-sensitivity ring laser gyroscopes. Her recent publications include works on optomechanical coupling, ring laser gyroscopes, and thermometry optimization, highlighting her broad research interests. At the University of Pisa, she teaches courses such as Physics 2, Fundamentals of Radiation-Matter Interaction, Fundamentals of Optics, Atomic Optics, and Structure of Matter."
-  abstract: ""
-  link: "https://www.df.unipi.it/people/ciampini-donatella/"
-  slides: 
-
-- nome: "Doctor Andrea Macchi"
-  id: id
-  uni: "University of Pisa and CNR-INO"
-  img: "macchi.jpg"
-  title: "TALK TITLE: Surfin' Plasma Waves and Sailing with Light: the Sea of Laser-Driven Accelerators."
-  bio: "Andrea Macchi, from the Department of Physics of the University of Pisa, is a resercher in the CNR-INO specialized in the interaction of high-intensity lasers with matter and physics of plasmas. His research focuses on exploring how these powerful lasers behave when they hit different materials and how these interactions can accelerate tiny particles to very high speeds. This research has applications in many fields, including fundamental physics, astrophysics, and medical technology, where it can be used to develop new ways to treat diseases. At the University of Pisa, he shares his knowledge by teaching courses on these fascinating topics."
-  abstract: ""
-  link:
-  slides: 
-
-- nome: "Doctor Alice Boschetti"
-  id: id
-  uni: "LENS and National Metrology Institute of Italy"
-  img: "alice_boschetti.jpg"
-  title: "TALK TITLE: Unconventional sensing and light sources: from micro-spectrometers to solar pumped lasers."
-  bio: "Alice Boschetti earned her PhD at the European Laboratory of Non-Linear Spectroscopy, where she developed an innovative method for spectral super-resolution spectroscopy using a random laser. Presently, she is a researcher at the National Metrology Institute of Italy, focusing on the development of unconventional light sources based on light-harvesting materials, as well as complex porous and scattering materials for photonics and sustainability. She participates in the APACE project as the Scientific Responsible for the INRIM unit, leading the development of the bioinspired micro-solar laser device. Together with the INRIM team, Alice will develop multilayer optical micro-cavities, leveraging advanced optical and morphological characterization techniques such as scanning electron microscopy and optical profilometry, as well as state-of-the-art fabrication methods like direct laser writing."
-  abstract: ""
-  link:
-  slides: 
-
-- nome: "Doctor Ernesto Ciaramella"
-  id: id
-  uni: "Sant'Anna School of Advanced Studies in Pisa"
-  img: "ciaramella.jpg"
-  title: "TALK TITLE: Wireless Optical Communications"
-  bio: "Ernesto Ciaramella is a Full Professor at Scuola Superiore Sant’Anna with over 25 years of research in optical communications. He has worked with companies like Telecom Italia and leads a research group on optical systems. His work spans high-capacity transmissions, nonlinear effects, optical wireless systems, and visible light communication. He coordinated major EU and ESA-funded projects such as COCONUT, TOWS, and FOCS, focusing on advanced optical technologies for telecom and space applications. He has supervised 16 PhD students and collaborated with industry, including Ericsson. Ciaramella served as Associate Editor for leading journals and on committees for major photonics conferences. He has published over 250 papers, holds 24 patents, and is recognized among the top researchers in photonics and engineering globally."
-  abstract: ""
-  link:
-  slides: 
-  
-- nome: "Professor Massimiliano Razzano"
-  id: id
-  uni: "University of Pisa"
-  img: "massimiliano_razzano.jpeg"
-  title: "Multimessenger investigation of neutron stars and pulsars using high-energy photons. Gravitational waves, machine learning and neural networks"
-  bio: "Massimiliano Razzano is a researcher at the Department of Physics of the University of Pisa. His research focuses on the multimessenger investigation of the most extreme cosmic phenomena, such as neutron stars and pulsars, using high-energy photons (X-rays and gamma rays) and gravitational waves. He is a member of the Fermi Large Area Telescope, Virgo, and Einstein Telescope scientific collaborations. He is also interested in advanced data analysis techniques, including machine learning and neural networks, applied to complex problems in modern physics, often involving citizen science. His recent publications include studies on the joint analysis of gravitational wave candidates, pulsar analysis with Fermi-LAT, and deep learning applications for gravitational wave detection. At the University of Pisa, Razzano teaches courses such as Observational Astrophysics, Physics of Gravitational Waves, Physics 1, and Multimessenger Physics Laboratory."
-  abstract: ""
-  link:
-  slides: 
-
-- nome: "Doctor Matthieu Gosselin"
-  id: id
-  uni: "University of Pisa and EGO-VIRGO Gravitational Observatory"
-  img: "Gosselin.jpg"
-  title: "High-power fiber components for gravitational wave detector"
-  bio: "Matthieu Gosselin is a French researcher at the European Gravitational Observatory, which hosts the Virgo gravitational wave detector. In 2014, he obtained a master's degree in telecommunications engineering and a research master's in photonics. He then completed a PhD in experimental physics at the University of Pisa in 2018 as part of the GraWIToN project (Marie Curie Program), focusing on the development of high-power optical components. He currently leads the optics group at the European Gravitational Observatory and serves as the system manager for the Advanced Virgo+ Injection subsystem. His work focuses on designing and commissioning Virgo's injection system, as well as developing and optimizing input-output optics for present and future gravitational wave detectors."
-  abstract: ""
-  link:
-  slides: 
-
-
-description2: "Furthermore, during LOT25, you will have the opportunity to learn about the academic experiences of other physics students, from bachelor's to Ph.D. levels. They will also participate as speakers in the conferences and events organized during the program."
-
-content2:
-- nome: "Julia Favaro"
-  id: id
-  uni: "University of Pisa"
-  img: "julia.jpg"
-  title: ""
-  bio: "Following her graduation from the Liceo Classico Galileo Galilei in Pisa, Julia earned a Bachelor's degree in Physics from the University of Pisa, and is now pursuing a Master's degree at the same institution focused on data analysis and experimental physics, with a strong interest in the interfaces between Particle Physics and Astrophysics. Her biggest interests include multi-messenger physics and astrophysical data analysis. Julia is also enthusiastic about science communication, and sharing scientific knowledge through public talks and visual presentations. Her commitment to science extends to her role as an official guide at the Advanced Virgo site, where she explains gravitational wave research to the public. In her free time, Julia can be found working in local theater productions."
-  abstract: ""
-  link:
-  slides: 
-
-- nome: "Alessandro Terranova"
-  id: id
-  uni: "University of Pisa"
-  img: "alessandro.jpg"
-  title: " "
-  bio: "Alessandro Terranova is a master's student at the University of Pisa. He obtained his bachelor's degree in physics in 2022 and continued his studies in high-energy physics. In particular, they focus on a phenomenological approach of heavy flavour physics and CP-violation in weak interactions. He has always been actively engaged in scientific dissemination, and his role in this field has become even more prominent since he became the president of AISF. Also, during his free time, he works as an official guide at the Advanced Virgo Interferometer, the only Gravitational wave detector in Europe."
-  abstract: ""
-  link:
-  slides: 
+# content:
+# - nome: "Professor Doctor Giacomo Scalari"
+#  id: id
+#  uni: "ETH Zurigo"
+#  img: "giacomo_scalari.jpeg"
+#  title: "TALK TITLE: Ultrastrong Light-matter coupling at THz frequencies with 2-dimensional systems"
+#  bio: "Giacomo Scalari has been an Associate Professor at ETH Zurich since April 2020. He obtained his degree in physics from the University of Pisa in 1999. After a period at the Scuola Superiore S. Anna in Pisa, he completed his Ph.D. in December 2005 with a thesis on magneto-spectroscopy and the development of THz quantum cascade lasers. He moved to ETH Zurich in 2007 and became a permanent senior scientist in Prof. J. Faist's group in 2011. His research interests are in the field of ultra-strong THz light-matter coupling, THz quantum cascade laser frequency combs, and THz superconducting metamaterials. He received the national award from the Swiss Physical Society in 2006 for applied physics and an ERC Consolidator Grant for THz quantum cascade laser frequency combs in 2016."
+#  abstract: ""
+#  link: "https://www.phys.ethz.ch/the-department/people/person-detail.MTQ1MDY1.TGlzdC84MzgsMTE3MjU5OTI5OQ==.html"
+#  slides: 

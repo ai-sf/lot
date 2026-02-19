@@ -24,24 +24,24 @@
       img: comune_firenze.PNG
       link: "https://www.comune.fi.it/"
 
-- title: "With the support of:"
-  format: "m3"
-  subitems:
-    - text: "International Association of Physics Students: IAPS"
-      img: IAPS.png
-      link: "https://iaps.info/"
-    - text: "INFN of Florence"
-      img: INFN_firenze.jpg
-      link: "https://www.fi.infn.it/"
-    - text: "INFN of Pisa"
-      img: INFN_pisa.jpg
-      link: "https://www.pi.infn.it/"
-    - text: "LENS Florence"
-      img: lens.png
-      link: "https://lens.unifi.it/"
-    - text: "UNESCO International Day of Light (16 May)"
-      img: IDL_UNESCO.PNG
-      link: "https://www.lightday.org/"
+#- title: "With the support of:"
+#  format: "m3"
+#  subitems:
+#     - text: "International Association of Physics Students: IAPS"
+#       img: IAPS.png
+#       link: "https://iaps.info/"
+#    - text: "INFN of Florence"
+#      img: INFN_firenze.jpg
+#      link: "https://www.fi.infn.it/"
+#    - text: "INFN of Pisa"
+#      img: INFN_pisa.jpg
+#      link: "https://www.pi.infn.it/"
+#    - text: "LENS Florence"
+#      img: lens.png
+#      link: "https://lens.unifi.it/"
+#    - text: "UNESCO International Day of Light (16 May)"
+#      img: IDL_UNESCO.PNG
+#      link: "https://www.lightday.org/"
 
 - title: "In collaboration with:"
   format: "m3"
@@ -49,34 +49,37 @@
     - text: "Physics Department of the University of Pisa"
       img: dip_unipi_nuovo.jpg
       link: "https://www.df.unipi.it/"
-    - text: "The University of Pisa"
-      img: unipi.png
-      link: "https://www.unipi.it/"
-    - text: "Physics and Astronomy Department of the University of Florence"
-      img: dip_unifi.jpg
-      link: "https://www.fisica.unifi.it/"
+#    - text: "The University of Pisa"
+#      img: unipi.png
+#      link: "https://www.unipi.it/"
+#    - text: "Physics and Astronomy Department of the University of Florence"
+#      img: dip_unifi.jpg
+#      link: "https://www.fisica.unifi.it/"
     - text: "EGO-VIRGO"
       img: EGO_VIRGO.PNG
       link: "https://www.ego-gw.it/home_page_ita/"
-    - text: "CNR-INO"
-      img: CNR_INO.PNG
-      link: "https://www.ino.cnr.it/?page_id=15732"
-    - text: "SIF Italian Society of Physics"
-      img: logo-SIF-vettoriale-bn.svg
-      link: "https://www.sif.it/"
-    - text: "The Galileo Museum in Florence"
-      img: MUSEO_GALILEO.PNG
-      link: "https://www.museogalileo.it/it/"
+#    - text: "CNR-INO"
+#      img: CNR_INO.PNG
+#      link: "https://www.ino.cnr.it/?page_id=15732"
+#    - text: "SIF Italian Society of Physics"
+#      img: logo-SIF-vettoriale-bn.svg
+#      link: "https://www.sif.it/"
+#    - text: "The Galileo Museum in Florence"
+#      img: MUSEO_GALILEO.PNG
+#      link: "https://www.museogalileo.it/it/"
 
 - title: "Official sponsors:"
   format: "m3"
   subitems:    
-    - text: "EmoLED - An Italian company developing innovative medical devices and advanced research in photonics, that use blue light photobiomodulation therapy to promote skin lesion healing"
-      img: emoled.PNG
-      link: "https://emoled.com/"
-    - text: "CAEN - This Italian company designs and manufactures sophisticated electronic equipment for research, supplying all the most important Nuclear Physics Laboratories in the world. It is today one of the world leading companies in the field of low/high voltage channels and data acquisition"
-      img: CAEN.jpg
-      link: "https://www.caen.it/"
-    - text: "Centro Stampa Faccini - A printing center is specialized in high quality printing and graphics services in different areas of visual communication: from small to large format, in various materials, up to personalized clothing. They are the manufacturers of many of the LOT25 gadgets!"
-      img: Faccini.png
-      link: "https://centrostampafaccini.it/"
+    - text: "El.En"
+      img: elen.svg
+      link: "https://elengroup.com/"
+#    - text: "EmoLED - An Italian company developing innovative medical devices and advanced research in photonics, that use blue light photobiomodulation therapy to promote skin lesion healing"
+#      img: emoled.PNG
+#      link: "https://emoled.com/"
+#    - text: "CAEN - This Italian company designs and manufactures sophisticated electronic equipment for research, supplying all the most important Nuclear Physics Laboratories in the world. It is today one of the world leading companies in the field of low/high voltage channels and data acquisition"
+#      img: CAEN.jpg
+#      link: "https://www.caen.it/"
+#    - text: "Centro Stampa Faccini - A printing center is specialized in high quality printing and graphics services in different areas of visual communication: from small to large format, in various materials, up to personalized clothing. They are the manufacturers of many of the LOT25 gadgets!"
+#      img: Faccini.png
+#      link: "https://centrostampafaccini.it/"

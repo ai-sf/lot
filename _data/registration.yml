@@ -1,18 +1,18 @@
-info: "<b>You can find the registration form at the bottom of this page</b>.
-</p><p>
-Before you fill it out, please read the terms and conditions below. Please note that, upon registration, you will be asked for personal details (such as name, surname, date of birth, university affiliation, passport number etc.) and write a brief statement explaining why you’re interested in joining the event."
-
+#info: "<b>You can find the registration form at the bottom of this page</b>.
+#</p><p>
+#Before you fill it out, please read the terms and conditions below. Please note that, upon registration, you will be asked for personal details (such as name, surname, date of birth, university affiliation, passport number etc.) and write a brief statement explaining why you’re interested in joining the event."
+#
 general:
   specs:
     - text: "Click on the button here on the side to download a summary pdf file of the event!"
-      url: "files/Discover Lights of Tuscany 2025.pdf"
-      button: Summary LoT25 PDF
+      url: "files/Discover Lights of Tuscany 2026.pdf"
+      button: Summary LoT26 PDF
     - text: "Click on the button here on the side to download a Media Kit pdf presentation."
       url: "files/Media_kit.pdf"
-      button: LoT25 Media Kit
+      button: LoT26 Media Kit
 
-starting_date: "2025-03-19 12:00"
-ending_date: "2025-04-18 03:25"
+starting_date: "2026-03-19 12:00"
+ending_date: "2026-04-18 03:25"
 
 posters?: true
 
@@ -30,10 +30,10 @@ selection:
     - text: "Please note that participants do not need to be specialized in the field of photonics, but can come from any discipline of physics. Physics students of any age and any year of study can apply."
       url: "#!"
     - text: "You can find here the <b>selection criteria</b> in english."
-      url: "files/criteri_di_selezione_eng_LoT25_signed.pdf"
+      url: "files/criteri_di_selezione_eng_LoT26_signed.pdf"
       button: "English PDF"
     - text: "You can find here the <b>selection criteria</b> in italian."
-      url: "files/criteri_di_selezione_ita_LoT25_signed.pdf"
+      url: "files/criteri_di_selezione_ita_LoT26_signed.pdf"
       button: "Italian PDF"
 
 price:
@@ -57,7 +57,7 @@ price:
     </p><p> 
     - round trip transfer from Pisa to VIRGO
     </p><p> 
-    - transport from Pisa to Florence
+    - transport from Florence to Pisa
     </p><p>
     - the certificate of participation, 
     </p><p> 
@@ -68,15 +68,16 @@ price:
     - text: "<b>The price does NOT include</b> anything not explicitly indicated under 'the price includes'. In particular are not included travel toward Pisa and return from Florence, organization and payment of these are in charge of the participant. Meals not specified in the official schedule are not included. The organizing committee will however suggest a few places where to eat and spend some free time."
       url: "#!"
 
-deadlines:
-  info: "Please read carefully below."
-  specs:
-    - text: "The registration period will be from the 20 of March 2025 (12:00) to the 18 of April 2025 (23:59)."
-      url: "#!"
-    - text: "All applicants will be emailed within a few days of the registration closing, by April 22, in order to communicate the outcome of the selection for the event. If you are selected to participate in the event, you will have time until April 25 to confirm your attendance by paying the participation fee."
-      url: "#!"
-    - text: "It is possible that some spots may become available if participants give up their place. Any reassignments will be communicated by April 26. If you are selected from the waiting list, you will have until April 29 to confirm your attendance by paying the participation fee."
-      url: "#!"
+
+#deadlines:
+#  info: "Please read carefully below."
+#  specs:
+#    - text: "The registration period will be from the 20 of March 2026 (12:00) to the 18 of April 2026 (23:59)."
+#      url: "#!"
+#    - text: "All applicants will be emailed within a few days of the registration closing, by April 22, in order to communicate the outcome of the selection for the event. If you are selected to participate in the event, you will have time until April 25 to confirm your attendance by paying the participation fee."
+#      url: "#!"
+#    - text: "It is possible that some spots may become available if participants give up their place. Any reassignments will be communicated by April 26. If you are selected from the waiting list, you will have until April 29 to confirm your attendance by paying the participation fee."
+#      url: "#!"
      
 
 terms:
@@ -84,9 +85,9 @@ terms:
   specs:
     - text: "All personal data will be handled confidentially. It will not be forwarded to any third parties except where necessary for the purpose of the conference. Please keep in mind that we will forward some of the information in your registration form to the Universities and research centres involved, as well as accomodation facilities. We will also send your name and university to the board of the national/local committees of IAPS to check for your IAPS membership."
       url: "#!"
-    - text: "Only students enrolled in a university or similar institution in a physics or physics-related courses can participate, as well as those who received their degree in the last twelve months. By registering, you also confirm that you will be at least 18 years old by the 18th of April 2025."
+    - text: "Only students enrolled in a university or similar institution in a physics or physics-related courses can participate, as well as those who received their degree in the last twelve months. By registering, you also confirm that you will be at least 18 years old by the deadline of the registration." #18th of April 2026.
       url: "#!"
-    - text: "You acknowledge and agree that the organizing committee and the hosts of the event have no responsibility whatsoever for injuries, losses, or damages of any kind that result from your participation in the Lights of Tuscany 2025 programme."
+    - text: "You acknowledge and agree that the organizing committee and the hosts of the event have no responsibility whatsoever for injuries, losses, or damages of any kind that result from your participation in the Lights of Tuscany 2026 programme."
       url: "#!"
     - text: "You accept the IAPS Code of Conduct."
       url: "files/IAPS-Code-of-Conduct.pdf"

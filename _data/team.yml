@@ -4,32 +4,42 @@ intro: >
   Ready to light up your future with us?"
 
 people:
-  - img: img/alice.jpg
-    title: "Alice D'Autilio"
-    descr: "Social media manager and Accomodation manager"
+  - img: img/isma.jpg
+    title: "Ismaele Bartolucci"
+    descr: "Programme and teaching leader"
+    mail: lot@ai-sf.it
+
+  - img: img/marco.jpg
+    title: "Marco Raveggi"
+    descr: "Sponsor manager"
     mail: lot@ai-sf.it
 
   - img: img/julia.jpg
     title: "Julia Favaro"
-    descr: "Secretary and Sponsor manager"
+    descr: "Secretary and press officer"
     mail: lot@ai-sf.it
 
-  - img: img/dorotea.jpg
-    title: "Dorotea Nardini"
-    descr: "Laboratory visits manager"
+  - img: img/ross1.jpg
+    title: "Rossella Bramato"
+    descr: "Graphic and social media manager"
     mail: lot@ai-sf.it
     
-  - img: img/giulia.jpg
-    title: "Giulia Casti"
-    descr: "Coordinator and Social events manager"
+  - img: img/francesco.jpeg
+    title: "Francesco Sermi"
+    descr: "IT manager"
     mail: lot@ai-sf.it
     
-  - img: img/francesco.jpg
-    title: "Francesco De Cosmo"
-    descr: "Treasurer and Laboratory visits manager"
+  - img: img/manuel.jpg
+    title: "Manuel Antonio Pianini"
+    descr: "Treasurer"
     mail: lot@ai-sf.it
 
-  - img: img/alessandro.jpg
-    title: "Alessandro Terranova"
+  - img: img/filippo.jpg
+    title: "Filippo Belfortini"
     descr: "Sponsor manager and Laboratory visits manager"
+    mail: lot@ai-sf.it
+  
+  - img: img/andrea.jpg
+    title: "Andrea Bacci"
+    descr: "Sponsor manager"
     mail: lot@ai-sf.it

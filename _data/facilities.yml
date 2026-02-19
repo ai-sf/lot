@@ -78,20 +78,25 @@ science:
     site: "https://www.fisica.unifi.it/"
     map: "https://maps.app.goo.gl/fKwvGGHXt32dArFa7"
     
-  - img: img/facilities/labs_unipi.jpg
-    title: Physics Department of the University of Pisa
-    descr: "The Department of Physics at the University of Pisa is a renowned research and education point of reference. It hosts advanced laboratories dedicated to optics, photonics, and physics of matter. These facilities focus on cutting-edge research in quantum technologies, frontier photonics and electronics, nanomaterials, and the study of soft matter, biosystems, and complexity. The laboratories are equipped for the development of innovative devices, including lasers and detectors, and the synthesis and characterization of advanced optical materials crystals and optical fibers."
-    site: "https://www.df.unipi.it/"
-    map: "https://maps.app.goo.gl/wx6jGPB8mpDnEYrKA"
+  - img: img/nest1.jpg
+    title: NEST
+    descr: "NEST, the National Enterprise for nanoScience and nanoTechnology, is an interdisciplinary research and training centre where physicists, chemists and biologists investigate scientific issues at the nanoscale. This knowledge is exploited to develop innovative nanobiotechnological tools, nanoelectronic and photonic devices and architectures."
+    site: "https://www.laboratorionest.it/"
+    map:  "https://maps.app.goo.gl/MXcfpqTSHnZmtNKc8"
+#  - img: img/facilities/labs_unipi.jpg
+#    title: Physics Department of the University of Pisa
+#    descr: "The Department of Physics at the University of Pisa is a renowned research and education point of reference. It hosts advanced laboratories dedicated to optics, photonics, and physics of matter. These facilities focus on cutting-edge research in quantum technologies, frontier photonics and electronics, nanomaterials, and the study of soft matter, biosystems, and complexity. The laboratories are equipped for the development of innovative devices, including lasers and detectors, and the synthesis and characterization of advanced optical materials crystals and optical fibers."
+#    site: "https://www.df.unipi.it/"
+#    map: "https://maps.app.goo.gl/wx6jGPB8mpDnEYrKA"
     
-  - img: img/facilities/santanna.jpg
-    title: Sant’Anna School of Advanced Studies
-    descr: "The Sant’Anna School of Advanced Studies in Pisa is a prestigious public university specializing in applied sciences, social sciences, and experimental sciences. It offers elite education and cutting-edge research in different fields and collabrations with top international institutions in innovation and technological development. The Physics Laboratories host progressive research in optical communications: they explore nonlinear optical effects, WDM systems, and optical wireless technologies. During the visit, you will experience live demos showcasing visible light communication, indoor navigation with ceiling lamps and smartphones, and wireless data interfaces for spacecraft."
-    site: "https://www.santannapisa.it/it"
-    map: "https://maps.app.goo.gl/Jt8NAMdP7gKnm6p36"
+#  - img: img/facilities/santanna.jpg
+#    title: Sant’Anna School of Advanced Studies
+#    descr: "The Sant’Anna School of Advanced Studies in Pisa is a prestigious public university specializing in applied sciences, social sciences, and experimental sciences. It offers elite education and cutting-edge research in different fields and collabrations with top international institutions in innovation and technological development. The Physics Laboratories host progressive research in optical communications: they explore nonlinear optical effects, WDM systems, and optical wireless technologies. During the visit, you will experience live demos showcasing visible light communication, indoor navigation with ceiling lamps and smartphones, and wireless data interfaces for spacecraft."
+#    site: "https://www.santannapisa.it/it"
+#    map: "https://maps.app.goo.gl/Jt8NAMdP7gKnm6p36"
     
-  - img: img/facilities/museogalileo.jpg
-    title: The Galileo Museum
-    descr: "The Galileo Museum in Florence is a world-renowned institution dedicated to the history of science. It houses an extensive collection of scientific instruments from the Renaissance, including original artifacts from Galileo Galilei. During our visit, you’ll explore historical telescopes, astrolabes, and groundbreaking discoveries that shaped the evolution of modern science and scientific though."
-    site: "https://www.museogalileo.it/it/"
-    map: "https://maps.app.goo.gl/4fhov6DBTReKF4EDA"
+#  - img: img/facilities/museogalileo.jpg
+#    title: The Galileo Museum
+#    descr: "The Galileo Museum in Florence is a world-renowned institution dedicated to the history of science. It houses an extensive collection of scientific instruments from the Renaissance, including original artifacts from Galileo Galilei. During our visit, you’ll explore historical telescopes, astrolabes, and groundbreaking discoveries that shaped the evolution of modern science and scientific though."
+#    site: "https://www.museogalileo.it/it/"
+#    map: "https://maps.app.goo.gl/4fhov6DBTReKF4EDA"
