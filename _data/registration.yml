@@ -30,10 +30,10 @@ selection:
     - text: "You do not need a background in photonics to attend; physics students from any discipline, of any age, and in any year of study are welcome to apply."
       url: "#!"
     - text: "You can find last year's <b>selection criteria</b> in English here."
-      url: "files/criteri_di_selezione_eng_LoT26_signed.pdf"
+      url: "files/criteri_di_selezione_eng_LoT25_signed.pdf"
       button: "English PDF"
     - text: "You can find last year's <b>selection criteria</b> in Italian here."
-      url: "files/criteri_di_selezione_ita_LoT26_signed.pdf"
+      url: "files/criteri_di_selezione_ita_LoT25_signed.pdf"
       button: "Italian PDF"
 
 price:
