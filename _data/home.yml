@@ -9,14 +9,14 @@ when: "From the 15th to the 19th of May 2026, arrival and departures included."
 where: "Three days in Florence, two in Pisa. Check out the Schedule section to see all the places, laboratories and universities you will have the opportunity to visit."
 
 slideshow:
-  - img: img/facilities/LABEC.png
-    alt: Coming Soon!
-    title: INFN - LABEC
-    text: Laboratory of Nuclear Techniques for the Environment and Cultural Heritage, part of INFN in Florence
-  - img: img/sponsors/IDL_UNESCO.PNG
-    alt: Coming Soon!
-    title: UNESCO IDL
-    text: We are supported by UNESCO International Day of Light!
+  #- img: img/facilities/LABEC.png
+  #  alt: Coming Soon!
+  #  title: INFN - LABEC
+  #  text: Laboratory of Nuclear Techniques for the Environment and Cultural Heritage, part of INFN in Florence
+  #- img: img/sponsors/IDL_UNESCO.PNG
+  #  alt: Coming Soon!
+  #  title: UNESCO IDL
+  #  text: We are supported by UNESCO International Day of Light!
   - img: img/facilities/VIRGO_conferenza.jpg
     alt: Coming Soon!
     title: VIRGO conference
@@ -33,10 +33,10 @@ slideshow:
     alt: Coming Soon!
     title: INFN
     text: The National Institute of Nuclear Physics
-  - img: img/facilities/labs_unipi.jpg
-    alt: Coming Soon!
-    title: UNIPI
-    text: The labs of the University of Pisa
+  #- img: img/facilities/labs_unipi.jpg
+  #  alt: Coming Soon!
+  #  title: UNIPI
+  #  text: The labs of the University of Pisa
   - img: img/facilities/labs_unifi.jpg
     alt: Coming Soon!
     title: UNIFI

@@ -53,7 +53,7 @@ title: Schedule
   <p>{{ site.data.programme.few_info.info }}</p>
   <div class="collection">
     {% for item in site.data.programme.few_info.specs %}
-      <a
+      <a style="pointer-events: none;"
         {% if item.url contains "http://" %}
           href="{{ item.url }}"
         {% else %}
@@ -67,7 +67,7 @@ title: Schedule
       </a>
       
       {% for item2 in item.subpoints %}
-        <a
+        <a style="pointer-events: none;"
           {% if item2.url contains "http://" %}
             href="{{ item2.url }}"
           {% else %}
@@ -83,7 +83,7 @@ title: Schedule
       
       <!-- Bottone per scaricare il PDF -->
       {% if item.url contains ".pdf" %}
-        <a 
+        <a
           {% if item.url contains "http://" %}
             href="{{ item.url }}"
           {% else %}

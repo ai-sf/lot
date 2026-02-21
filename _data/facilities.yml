@@ -12,9 +12,8 @@ intro: "The scientific programme plans to show the participants a wide spectrum 
 <br>
   - The University of Florence
 <br>
-  - The Sant’Anna School of Advanced Studies in Pisa
 <br>
-<br>
+  - National Enterprise for nanoScience and nanoTechnology (NEST)
 Alongside the lab tours, we’ll have a large number of seminars—just like in past editions. In particular, we will have deep dives into all the major research areas and experiments currently running at these facilities, plus discussions about what they mean for science as a whole. These sessions will give us a better understanding of the theory and real-world applications. It will undoubtedly be a rich experience."
 
 
@@ -58,11 +57,11 @@ science:
     site: "http://www.lens.unifi.it"
     map: "https://www.google.es/maps/place/LENS/@43.8188678,11.190617,17z/data=!3m1!4b1!4m5!3m4!1s0x132a57a4fe34cce3:0x798b7fd7cf268883!8m2!3d43.818864!4d11.192811?hl=en"
 
-  - img: img/facilities/INFN2.jpg
-    title: INFN - LABEC
-    descr: "For over 70 years, the National Institute for Nuclear Physics (INFN) has been a powerhouse in nuclear and fundamental physics research. But its study field have broadened over time and it now partners on tons of other national and international projects too.  The INFN is the perfect meeting point for experimental and theoretical physics. Inside the institute, you’ll find LABEC, a lab that uses nuclear techniques to study everything from environmental science to cultural heritage. We will visit the 3MV tandemaccelerator & MACHINA -both developed right here at LABEC -and see firsthandhow  physics helps analyze air pollution and protect priceless artworks."
-    site: "https://www.pi.infn.it/"
-    map: "https://www.google.com/maps/place/INFN+-+Sezione+di+Pisa/@43.720615,10.4083,15z/data=!4m5!3m4!1s0x0:0x61fa050fe2979c7e!8m2!3d43.7206153!4d10.4083003?hl=it"
+  #- img: img/facilities/INFN2.jpg
+  #  title: INFN - LABEC
+  #  descr: "For over 70 years, the National Institute for Nuclear Physics (INFN) has been a powerhouse in nuclear and fundamental physics research. But its study field have broadened over time and it now partners on tons of other national and international projects too.  The INFN is the perfect meeting point for experimental and theoretical physics. Inside the institute, you’ll find LABEC, a lab that uses nuclear techniques to study everything from environmental science to cultural heritage. We will visit the 3MV tandemaccelerator & MACHINA -both developed right here at LABEC -and see firsthandhow  physics helps analyze air pollution and protect priceless artworks."
+  #  site: "https://www.pi.infn.it/"
+  #  map: "https://www.google.com/maps/place/INFN+-+Sezione+di+Pisa/@43.720615,10.4083,15z/data=!4m5!3m4!1s0x0:0x61fa050fe2979c7e!8m2!3d43.7206153!4d10.4083003?hl=it"
     
   - img: img/facilities/Pi_INO.jpg
     title: CNR - INO

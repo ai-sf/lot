@@ -11,34 +11,55 @@ title: Registration
   <p>{{ site.data.registration.general.info }}<p>
   <!--<div class="collection">
   {% for item in site.data.registration.general.specs %}
-    <a
-      {% if item.url contains "http://" %}
-         href="{{ item.url }}"
-      {% else %}
-         href="{{ site.url }}/{{ item.url }}"
-      {% endif %}
-      class="collection-item black-text">
-      {{ item.text }}
-      {% if item.url != "#!" %}
-        <span class="badge custom1 white-text">{{ item.button }}</span>
-      {% endif %}
-    </a>
-    {% for item2 in item.subpoints %}
+    
+    {% if item.url and item.url != "" and item.url != "#!" %}
       <a
-        {% if item2.url contains "http://" %}
-           href="{{ item2.url }}"
+        {% if item.url contains "http://" or item.url contains "https://" %}
+           href="{{ item.url }}"
         {% else %}
-           href="{{ site.url }}/{{ item2.url }}"
+           href="{{ site.url }}/{{ item.url }}"
         {% endif %}
-        class="collection-item black-text custom1 lighten-5">
-        {{ item2.text }}
-        {% if item.url != "#!" %}
-          <span class="badge custom1 white-text">{{ item2.button }}</span>
+        class="collection-item black-text">
+        {{ item.text }}
+        {% if item.button and item.button != "" %}
+          <span class="badge custom1 white-text">{{ item.button }}</span>
         {% endif %}
       </a>
+    {% else %}
+      <div class="collection-item black-text">
+        {{ item.text }}
+        {% if item.button and item.button != "" %}
+          <span class="badge custom1 white-text">{{ item.button }}</span>
+        {% endif %}
+      </div>
+    {% endif %}
+
+    {% for item2 in item.subpoints %}
+      {% if item2.url and item2.url != "" and item2.url != "#!" %}
+        <a
+          {% if item2.url contains "http://" or item2.url contains "https://" %}
+             href="{{ item2.url }}"
+          {% else %}
+             href="{{ site.url }}/{{ item2.url }}"
+          {% endif %}
+          class="collection-item black-text custom1 lighten-5">
+          {{ item2.text }}
+          {% if item2.button and item2.button != "" %}
+            <span class="badge custom1 white-text">{{ item2.button }}</span>
+          {% endif %}
+        </a>
+      {% else %}
+        <div class="collection-item black-text custom1 lighten-5">
+          {{ item2.text }}
+          {% if item2.button and item2.button != "" %}
+            <span class="badge custom1 white-text">{{ item2.button }}</span>
+          {% endif %}
+        </div>
+      {% endif %}
     {% endfor %}
+    
   {% endfor %}
-  </div>
+</div>
   -->
   <div class="row center">
   <h2>Registrations are not open yet! <br>For any info on the opening date check @lot.aisf on Instagram.</h2>
@@ -59,32 +80,53 @@ title: Registration
   <p>{{ site.data.registration.selection.info }}<p>
   <div class="collection">
   {% for item in site.data.registration.selection.specs %}
-    <a
-      {% if item.url contains "http://" %}
-         href="{{ item.url }}"
-      {% else %}
-         href="{{ site.url }}/{{ item.url }}"
-      {% endif %}
-      class="collection-item black-text">
-      {{ item.text }}
-      {% if item.url != "#!" %}
-        <span class="badge custom1 white-text">{{ item.button }}</span>
-      {% endif %}
-    </a>
-    {% for item2 in item.subpoints %}
+    
+    {% if item.url and item.url != "" and item.url != "#!" %}
       <a
-        {% if item2.url contains "http://" %}
-           href="{{ item2.url }}"
+        {% if item.url contains "http://" or item.url contains "https://" %}
+           href="{{ item.url }}"
         {% else %}
-           href="{{ site.url }}/{{ item2.url }}"
+           href="{{ site.url }}/{{ item.url }}"
         {% endif %}
-        class="collection-item black-text custom1 lighten-5">
-        {{ item2.text }}
-        {% if item.url != "#!" %}
-          <span class="badge custom1 white-text">{{ item2.button }}</span>
+        class="collection-item black-text">
+        {{ item.text }}
+        {% if item.button and item.button != "" %}
+          <span class="badge custom1 white-text">{{ item.button }}</span>
         {% endif %}
       </a>
+    {% else %}
+      <div class="collection-item black-text">
+        {{ item.text }}
+        {% if item.button and item.button != "" %}
+          <span class="badge custom1 white-text">{{ item.button }}</span>
+        {% endif %}
+      </div>
+    {% endif %}
+
+    {% for item2 in item.subpoints %}
+      {% if item2.url and item2.url != "" and item2.url != "#!" %}
+        <a
+          {% if item2.url contains "http://" or item2.url contains "https://" %}
+             href="{{ item2.url }}"
+          {% else %}
+             href="{{ site.url }}/{{ item2.url }}"
+          {% endif %}
+          class="collection-item black-text custom1 lighten-5">
+          {{ item2.text }}
+          {% if item2.button and item2.button != "" %}
+            <span class="badge custom1 white-text">{{ item2.button }}</span>
+          {% endif %}
+        </a>
+      {% else %}
+        <div class="collection-item black-text custom1 lighten-5">
+          {{ item2.text }}
+          {% if item2.button and item2.button != "" %}
+            <span class="badge custom1 white-text">{{ item2.button }}</span>
+          {% endif %}
+        </div>
+      {% endif %}
     {% endfor %}
+    
   {% endfor %}
   </div>
 </div>
@@ -93,36 +135,57 @@ title: Registration
 <div class="section">
   <h2>Price and What is Included</h2>
   <p>{{ site.data.registration.price.info }}<p>
-  <div class="collection">
+<div class="collection">
   {% for item in site.data.registration.price.specs %}
-    <a
-      {% if item.url contains "http://" %}
-         href="{{ item.url }}"
-      {% else %}
-         href="{{ site.url }}/{{ item.url }}"
-      {% endif %}
-      class="collection-item black-text">
-      {{ item.text }}
-      {% if item.url != "#!" %}
-        <span class="badge custom1 white-text">pdf</span>
-      {% endif %}
-    </a>
-    {% for item2 in item.subpoints %}
+    
+    {% if item.url and item.url != "" and item.url != "#!" %}
       <a
-        {% if item2.url contains "http://" %}
-           href="{{ item2.url }}"
+        {% if item.url contains "http://" or item.url contains "https://" %}
+           href="{{ item.url }}"
         {% else %}
-           href="{{ site.url }}/{{ item2.url }}"
+           href="{{ site.url }}/{{ item.url }}"
         {% endif %}
-        class="collection-item black-text custom1 lighten-5">
-        {{ item2.text }}
-        {% if item.url != "#!" %}
-          <span class="badge custom1 white-text">{{ item2.button }}</span>
+        class="collection-item black-text">
+        {{ item.text }}
+        {% if item.button and item.button != "" %}
+          <span class="badge custom1 white-text">{{ item.button }}</span>
         {% endif %}
       </a>
+    {% else %}
+      <div class="collection-item black-text">
+        {{ item.text }}
+        {% if item.button and item.button != "" %}
+          <span class="badge custom1 white-text">{{ item.button }}</span>
+        {% endif %}
+      </div>
+    {% endif %}
+
+    {% for item2 in item.subpoints %}
+      {% if item2.url and item2.url != "" and item2.url != "#!" %}
+        <a
+          {% if item2.url contains "http://" or item2.url contains "https://" %}
+             href="{{ item2.url }}"
+          {% else %}
+             href="{{ site.url }}/{{ item2.url }}"
+          {% endif %}
+          class="collection-item black-text custom1 lighten-5">
+          {{ item2.text }}
+          {% if item2.button and item2.button != "" %}
+            <span class="badge custom1 white-text">{{ item2.button }}</span>
+          {% endif %}
+        </a>
+      {% else %}
+        <div class="collection-item black-text custom1 lighten-5">
+          {{ item2.text }}
+          {% if item2.button and item2.button != "" %}
+            <span class="badge custom1 white-text">{{ item2.button }}</span>
+          {% endif %}
+        </div>
+      {% endif %}
     {% endfor %}
+    
   {% endfor %}
-  </div>
+</div>
 </div>
 --->
 <!---
@@ -190,34 +253,55 @@ title: Registration
   <p>{{ site.data.registration.terms.info }}<p>
   <div class="collection">
   {% for item in site.data.registration.terms.specs %}
-    <a
-      {% if item.url contains "http://" %}
-         href="{{ item.url }}"
-      {% else %}
-         href="{{ site.url }}/{{ item.url }}"
-      {% endif %}
-      class="collection-item black-text">
-      {{ item.text }}
-      {% if item.url != "#!" %}
-        <span class="badge custom1 white-text">{{ item.button }}</span>
-      {% endif %}
-    </a>
-    {% for item2 in item.subpoints %}
+    
+    {% if item.url and item.url != "" and item.url != "#!" %}
       <a
-        {% if item2.url contains "http://" %}
-           href="{{ item2.url }}"
+        {% if item.url contains "http://" or item.url contains "https://" %}
+           href="{{ item.url }}"
         {% else %}
-           href="{{ site.url }}/{{ item2.url }}"
+           href="{{ site.url }}/{{ item.url }}"
         {% endif %}
-        class="collection-item black-text custom1 lighten-5">
-        {{ item2.text }}
-        {% if item.url != "#!" %}
-          <span class="badge custom1 white-text">{{ item2.button }}</span>
+        class="collection-item black-text">
+        {{ item.text }}
+        {% if item.button and item.button != "" %}
+          <span class="badge custom1 white-text">{{ item.button }}</span>
         {% endif %}
       </a>
+    {% else %}
+      <div class="collection-item black-text">
+        {{ item.text }}
+        {% if item.button and item.button != "" %}
+          <span class="badge custom1 white-text">{{ item.button }}</span>
+        {% endif %}
+      </div>
+    {% endif %}
+
+    {% for item2 in item.subpoints %}
+      {% if item2.url and item2.url != "" and item2.url != "#!" %}
+        <a
+          {% if item2.url contains "http://" or item2.url contains "https://" %}
+             href="{{ item2.url }}"
+          {% else %}
+             href="{{ site.url }}/{{ item2.url }}"
+          {% endif %}
+          class="collection-item black-text custom1 lighten-5">
+          {{ item2.text }}
+          {% if item2.button and item2.button != "" %}
+            <span class="badge custom1 white-text">{{ item2.button }}</span>
+          {% endif %}
+        </a>
+      {% else %}
+        <div class="collection-item black-text custom1 lighten-5">
+          {{ item2.text }}
+          {% if item2.button and item2.button != "" %}
+            <span class="badge custom1 white-text">{{ item2.button }}</span>
+          {% endif %}
+        </div>
+      {% endif %}
     {% endfor %}
+    
   {% endfor %}
-  </div>
+</div>
 </div>
 
 
