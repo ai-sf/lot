@@ -608,3 +608,26 @@ table.striped > tbody > tr:nth-child(odd) {
     object-fit: cover !important;  
     object-position: top center !important; 
 }
+
+// ==========================================================================
+// 14. FIX SPONSOR BACKGROUND (Sfondo bianco per i loghi)
+// ==========================================================================
+
+// Usiamo il plurale (.sponsors) come nel tuo HTML
+.card-image.sponsors {
+    // Sfondo rigorosamente bianco
+    background-color: #ffffff !important; 
+    
+    // Aggiungo un po' di spazio interno per non far toccare il logo ai bordi (fidati, è molto più elegante)
+    padding: 25px !important; 
+    
+    // Arrotonda gli angoli in alto per seguire lo stile delle card di Materialize
+    border-radius: 2px 2px 0 0 !important; 
+}
+
+// Assicuriamoci che l'immagine del logo non sbordi e mantenga le proporzioni
+.card-image.sponsors img {
+    object-fit: contain !important; 
+    width: 100% !important;
+    height: auto !important;
+}

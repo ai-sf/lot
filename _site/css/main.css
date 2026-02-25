@@ -11981,4 +11981,16 @@ table.striped > tbody > tr:nth-child(odd) {
   object-position: top center !important;
 }
 
+.card-image.sponsors {
+  background-color: #ffffff !important;
+  padding: 25px !important;
+  border-radius: 2px 2px 0 0 !important;
+}
+
+.card-image.sponsors img {
+  object-fit: contain !important;
+  width: 100% !important;
+  height: auto !important;
+}
+
 /*# sourceMappingURL=main.css.map */

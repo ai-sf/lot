@@ -34,7 +34,7 @@ schedule:
       - hour: "08:30 AM - 01:00 PM"
         descr: "Visit to LENS, to the labs of the University of Florence and INFN-LABEC"
       - hour: "01:00 PM - 02:00 PM"
-        descr: "Lunch ((offered))"
+        descr: "Lunch (offered)"
       - hour: "02:00 PM - 07:00 PM"
         descr: "Free afternoon"
       - hour: "07:00 PM - ..."
@@ -44,8 +44,6 @@ schedule:
     date: "17/05/2025"
     short_descr: From Florence to Pisa
     activity:
-      - hour: "08:30 AM - 10:00 AM"
-        descr: "Visit to Astrophysical Observatory of Arcetri"
       - hour: "10:00 AM - 12:00"
         descr: "Transfer from Florence to Pisa"
       - hour: "12:00 AM - 02:00 AM"
@@ -59,16 +57,16 @@ schedule:
     date: "18/05/2025"
     short_descr: Labs visit and Conferences
     activity:
-      - hour: "08:30 AM - 10:00 AM"
+      - hour: "08:30 AM - 12:00 AM"
         descr: "Visit to VIRGO"
       - hour: "12:00 AM - 02:00 AM"
         descr: "Lunch (offered)"
       - hour: "02:00 PM - 03:00 PM"
         descr: "Sponsor company talks and student poster session"
-      - hour: "03:00 PM - 08:00 PM"
-        descr: "Free afternoon and free dinner"
-      - hour: "08:00 PM - ..."
-        descr: "Free time"
+      - hour: "03:00 PM - 07:00 PM"
+        descr: "Visit to the labs of University of Pisa"
+      - hour: "07:00 PM - ..."
+        descr: "Free dinner and free time"
         
   - day: Tuesday - DAY 5
     date: "19/05/2025"

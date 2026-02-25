@@ -23,10 +23,12 @@
     - text: "Municipality of Florence"
       img: comune_firenze.PNG
       link: "https://www.comune.fi.it/"
-
-#- title: "With the support of:"
-#  format: "m3"
-#  subitems:
+    - text: "UNESCO International Day of Light (16 May)"
+      img: /IDL_logo_English/IDL_logo_English/English_IDL_Logo_Color-1.jpg
+      link: "https://www.lightday.org/"
+# - title: "With the support of:"
+#   format: "m3"
+#   subitems:
 #     - text: "International Association of Physics Students: IAPS"
 #       img: IAPS.png
 #       link: "https://iaps.info/"
@@ -39,9 +41,7 @@
 #    - text: "LENS Florence"
 #      img: lens.png
 #      link: "https://lens.unifi.it/"
-#    - text: "UNESCO International Day of Light (16 May)"
-#      img: IDL_UNESCO.PNG
-#      link: "https://www.lightday.org/"
+
 
 - title: "In collaboration with:"
   format: "m3"
@@ -58,6 +58,9 @@
     - text: "EGO-VIRGO"
       img: EGO_VIRGO.PNG
       link: "https://www.ego-gw.it/home_page_ita/"
+    - text: "Scuola Normale Superiore"
+      img: SNS_logo.jpg
+      link: https://www.sns.it/
 #    - text: "CNR-INO"
 #      img: CNR_INO.PNG
 #      link: "https://www.ino.cnr.it/?page_id=15732"
