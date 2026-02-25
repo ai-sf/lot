@@ -44,6 +44,8 @@ schedule:
     date: "17/05/2025"
     short_descr: From Florence to Pisa
     activity:
+      - hour: "08:30 AM - 10:00 AM"
+        descr: "TBD"
       - hour: "10:00 AM - 12:00"
         descr: "Transfer from Florence to Pisa"
       - hour: "12:00 AM - 02:00 AM"
