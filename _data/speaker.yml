@@ -11,7 +11,11 @@ content:
         <li> (ii) engineering van der Waals heterostructures.
       </ol>
       In her work she applies her background of surface scientist to impact science and technology of 2D materials. She is the author of more than 200 peer-reviewed publications, contributed to several book chapters and holds 3 international patents. </p>"
-
+  - nome: "Camilla de Rossi"
+    id: speakerinvitati
+    uni: "European Gravitational Observatory and Advanced Virgo Auxiliary Laser System"
+    img: "CamillaDeRossi.jpg"
+    bio: "<p style='text-align:justify'>Camilla de Rossi is an experimental physicist with expertise in laser optics and gravitational wave detectors and technologist at the European Gravitational Observatory. As head of the Advanced Virgo Auxiliary Laser System, she contributes to the commissioning, control, and upgrade of the optical systems (INJ, PSL) aqnd the development of the AdV+ phase and the Einstein Telescope. She holds a PhD in Bose-Einstein condensates and has extensive experience in optical simulations, feedback systems, and the management of complex subsystems in large international collaborations.</p>"
 # content:
 # - nome: "Professor Doctor Giacomo Scalari"
 #  id: id

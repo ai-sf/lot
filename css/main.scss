@@ -631,3 +631,40 @@ table.striped > tbody > tr:nth-child(odd) {
     width: 100% !important;
     height: auto !important;
 }
+// ==========================================================================
+// 15. FIX SPEAKER PAGE (Foto più grandi e separate dal testo)
+// ==========================================================================
+
+// Usiamo la classe specifica così NON tocchiamo il resto del sito
+.speaker-list {
+    .collection-item.avatar {
+        // Aumentiamo il padding a sinistra per fare spazio alla super-foto
+        padding-left: 120px !important; 
+        min-height: 180px !important; // Assicura che il riquadro sia alto abbastanza
+        
+        // Ingrandiamo l'immagine principale (la faccia)
+        .circle {
+            position: absolute !important;
+            width: 80px !important;     // La grandezza della foto
+            height: 80px !important;
+            left: 20px !important;       // La allontana dal bordo sinistro
+            top: 20px !important;        // La allontana dall'alto
+            border-radius: 50% !important;
+            object-fit: cover !important; // Taglio perfetto, niente facce schiacciate!
+        }
+
+        // --- RESPONSIVE MOBILE ---
+        // Su schermi piccoli, mettiamo la foto in alto al centro e il testo sotto
+        @media only screen and (max-width: 600px) {
+            padding-left: 20px !important; 
+            padding-top: 170px !important; // Spazio in alto per far cadere la foto
+            text-align: center;
+            
+            .circle {
+                left: 50% !important;
+                transform: translateX(-50%) !important; // Centra orizzontalmente in modo geometrico
+                top: 20px !important;
+            }
+        }
+    }
+}

@@ -46,7 +46,7 @@ accomodation:
     
 science:
   - img: img/facilities/VIRGO.jpg
-    title: VIRGO - EGO
+    title: Adv Virgo
     descr: "The VIRGO interferometer hosted by the European Gravitational Observatory (EGO) is a gravitational wave detector consisting of a massive Michelson laser interferometer. It is part of a global collaboration with LIGO and KAGRA that recently discovered Gravitational Waves."
     site: "http://www.virgo-gw.eu"
     map: "https://www.google.es/maps/place/European+Gravitational+Observatory/@43.6313851,10.5023022,17z/data=!3m1!4b1!4m5!3m4!1s0x12d58c5d47067c71:0x50cbf460a97d724c!8m2!3d43.6313812!4d10.5044962?hl=en"
@@ -80,6 +80,12 @@ science:
     descr: "NEST, the National Enterprise for nanoScience and nanoTechnology, is an interdisciplinary research and training centre where physicists, chemists and biologists investigate scientific issues at the nanoscale. This knowledge is exploited to develop innovative nanobiotechnological tools, nanoelectronic and photonic devices and architectures."
     site: "https://www.laboratorionest.it/"
     map:  "https://maps.app.goo.gl/MXcfpqTSHnZmtNKc8"
+  
+  - img: img/facilities/arcetri.jpg
+    title: Astrophysical Observatory of Arcetri (OOA, INAF) 
+    descr: "The historic INAF research center is at the forefront of the development of advanced optical instrumentation in the visible and infrared fields, with particular attention to adaptive optics. These innovative instruments, the result of over twenty years of research, are used to reveal the secrets of the universe, from spectroscopic analysis to the mapping of cosmic light."
+    site: "https://www.arcetri.inaf.it/en/"
+    map: "https://maps.app.goo.gl/VXgucQarDKBgh7z4A"
 #  - img: img/facilities/labs_unipi.jpg
 #    title: Physics Department of the University of Pisa
 #    descr: "The Department of Physics at the University of Pisa is a renowned research and education point of reference. It hosts advanced laboratories dedicated to optics, photonics, and physics of matter. These facilities focus on cutting-edge research in quantum technologies, frontier photonics and electronics, nanomaterials, and the study of soft matter, biosystems, and complexity. The laboratories are equipped for the development of innovative devices, including lasers and detectors, and the synthesis and characterization of advanced optical materials crystals and optical fibers."
