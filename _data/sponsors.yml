@@ -26,28 +26,29 @@
     - text: "UNESCO International Day of Light (16 May)"
       img: /IDL_logo_English/IDL_logo_English/English_IDL_Logo_Color-1.jpg
       link: "https://www.lightday.org/"
-# - title: "With the support of:"
-#   format: "m3"
-#   subitems:
+
+- title: "With the support of:"
+  format: "m3"
+  subitems:
 #     - text: "International Association of Physics Students: IAPS"
 #       img: IAPS.png
 #       link: "https://iaps.info/"
 #    - text: "INFN of Florence"
 #      img: INFN_firenze.jpg
 #      link: "https://www.fi.infn.it/"
-#    - text: "INFN of Pisa"
-#      img: INFN_pisa.jpg
-#      link: "https://www.pi.infn.it/"
-#    - text: "LENS Florence"
-#      img: lens.png
-#      link: "https://lens.unifi.it/"
+  - text: "INFN of Pisa"
+    img: INFN_pisa.jpg
+    link: "https://www.pi.infn.it/"
+  - text: "LENS Florence"
+    img: lens.png
+    link: "https://lens.unifi.it/"
 
 
 - title: "In collaboration with:"
   format: "m3"
   subitems:    
     - text: "Physics Department of the University of Pisa"
-      img: dip_unipi_nuovo.jpg
+      img: UNIPI.jpg
       link: "https://www.df.unipi.it/"
 #    - text: "The University of Pisa"
 #      img: unipi.png
@@ -62,8 +63,15 @@
       img: SNS_logo.jpg
       link: https://www.sns.it/
     - text: "CNR-INO"
-      img: CNR_INO.PNG
+      img: CNR.jpg
       link: "https://www.ino.cnr.it/?page_id=15732"
+    - text: "INFN of Pisa"
+      img: INFN_pisa.jpg
+      link: "https://www.pi.infn.it/"
+    - text: "LENS Florence"
+      img: lens.png
+      link: "https://lens.unifi.it/"
+
 #    - text: "SIF Italian Society of Physics"
 #      img: logo-SIF-vettoriale-bn.svg
 #      link: "https://www.sif.it/"
@@ -71,18 +79,18 @@
 #      img: MUSEO_GALILEO.PNG
 #      link: "https://www.museogalileo.it/it/"
 
-- title: "Official sponsors:"
+- title: "Technical sponsors:"
   format: "m3"
   subitems:    
-    - text: "El.En"
+    - text: "El.En - An Italian company leading the global market in the research, development, and manufacturing of advanced laser systems and solutions for medical, industrial, and art conservation applications."
       img: elen.svg
       link: "https://elengroup.com/"
 #    - text: "EmoLED - An Italian company developing innovative medical devices and advanced research in photonics, that use blue light photobiomodulation therapy to promote skin lesion healing"
 #      img: emoled.PNG
 #      link: "https://emoled.com/"
-#    - text: "CAEN - This Italian company designs and manufactures sophisticated electronic equipment for research, supplying all the most important Nuclear Physics Laboratories in the world. It is today one of the world leading companies in the field of low/high voltage channels and data acquisition"
-#      img: CAEN.jpg
-#      link: "https://www.caen.it/"
-    - text: "Centro Stampa Faccini"
+    - text: "CAEN - This Italian company designs and manufactures sophisticated electronic equipment for research, supplying all the most important Nuclear Physics Laboratories in the world. It is today one of the world leading companies in the field of low/high voltage channels and data acquisition"
+      img: CAEN.jpg
+      link: "https://www.caen.it/"
+    - text: "Centro Stampa Faccini - A printing center is specialized in high quality printing and graphics services in different areas of visual communication: from small to large format, in various materials, up to personalized clothing."
       img: CSF_LOGO-VARIANTI-POSITIVO_page-0001.jpg
       link: "https://centrostampafaccini.it/"

@@ -1,5 +1,17 @@
 description: "We are happy to host professors, academics and other prominent figures working with light and light-based technologies. Here you will find the profiles of some of them (constantly updated) and some informations about their conferences."
 
+content:
+  - nome: "Camilla Coletti"
+    id: speakerinvitati
+    uni: "IIT and NEST"
+    img: "camilla_coletti.jpg"
+    bio: "<p style='text-align:justify'>Camilla Coletti is a tenured Senior Scientist of the Istituto Italiano di Tecnologia (IIT) and principal investigator of the research line 2D Materials Engineering. She is the coordinator of the Center for Nanotechnology Innovation of Pisa and of the Graphene Labs. Her research is currently focused on: 
+      <ol type='i' style='color: black;'> 
+        <li> (i) synthesis and integration of scalable 2D materials for electronics, photonics and quantum technologies
+        <li> (ii) engineering van der Waals heterostructures.
+      </ol>
+      In her work she applies her background of surface scientist to impact science and technology of 2D materials. She is the author of more than 200 peer-reviewed publications, contributed to several book chapters and holds 3 international patents. </p>"
+
 # content:
 # - nome: "Professor Doctor Giacomo Scalari"
 #  id: id

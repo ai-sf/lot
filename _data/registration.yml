@@ -11,12 +11,12 @@ general:
       url: "files/Media_kit.pdf"
       button: LoT26 Media Kit
 
-starting_date: "2026-03-19 12:00"
-ending_date: "2026-04-18 03:25"
+starting_date: "2026-03-25 12:00"
+ending_date: "2026-04-21 23:59"
 
 posters?: true
 
-posters: "During the event a set of poster session will take place, so everyone is invited to apply and present their current research work, wheter it is part of a thesis project (at bacherlor, master or PhD level) or is an outcome of a summer programme or personal project."
+posters: "During the event a poster session or student talk set will take place, so everyone is invited to apply and present their current research work, wheter it is part of a thesis project (at bachelor, master or PhD level) or is an outcome of a summer programme or personal project."
 
 selection:
   info: ""
@@ -25,59 +25,59 @@ selection:
     - text: "If you are not yet an AISF/IAPS member, you can join while registering for this event by filling out the form below. <br> Please note that AISF membership automatically includes IAPS membership."
       url: "http://ai-sf.it/iscrizione"
       button: Form
-    - text: "Once registration closes, the organizing committee will select participants from all applicants based on this year's selection criteria, which will be available on our website."
+    - text: "The organizing committee will select participants from all applicants based on this year's selection criteria, which are available below."
     - text: "Please note that we are currently unable to provide scholarships or bursaries to students at this time."
     - text: "You do not need a background in photonics to attend; physics students from any discipline, of any age, and in any year of study are welcome to apply."
       url: "#!"
-    - text: "You can find last year's <b>selection criteria</b> in English here."
-      url: "files/criteri_di_selezione_eng_LoT25_signed.pdf"
+    - text: "You can find here the <b>selection criteria</b> in English here."
+      url: "files/Selection_criteria_LoT26.pdf"
       button: "English PDF"
-    - text: "You can find last year's <b>selection criteria</b> in Italian here."
-      url: "files/criteri_di_selezione_ita_LoT25_signed.pdf"
+    - text: "You can find here the <b>selection criteria</b> in Italian here."
+      url: "files/Criteri_di_selezione_LoT26.pdf"
       button: "Italian PDF"
 
 price:
   info: "Please read carefully below."
   specs:
-    - text: "Once registrations are closed, the selected participants are required to confirm their presence by covering a participation fee of €100. For students from Pisa and Florence the expected participation fee is €50, and this does NOT include accommodation."
+    - text: "Once registrations are closed, the selected participants are required to confirm their presence by covering a participation fee of €120. For students from Pisa and Florence the expected participation fee is €60, and this does NOT include accommodation."
       url: "#!"
-    - text: "If the participant is not already registered to AISF or IAPS, he/she will have to add the AISF/IAPS registration fee to the price."
+    - text: "If the participant is not already registered to AISF or IAPS, they will have to add the AISF/IAPS registration fee to the price."
       url: "#!"    
     - text: "Payments will be required by bank transfer or PayPal. The receipt will be delivered on the first day of the event."
       url: "#!"    
-    - text: "<b>The price includes:</b>
-    </p><p> 
-    - accommodation for the nights from May 15th to 19th, 
-    </p><p> 
-    - personalized event gadgets,
-    </p><p> 
-    - identification badge, 
-    </p><p> 
-    - access to the various facilities and events (university, laboratories, conferences), 
-    </p><p> 
-    - round trip transfer from Pisa to VIRGO
-    </p><p> 
-    - transport from Florence to Pisa
-    </p><p>
-    - the certificate of participation, 
-    </p><p> 
-    - insurance.
-    </p><p> 
-    If additional services are added, it will be reported in this section of the site."
-      url: "#!"
-    - text: "<b>The price does NOT include</b> anything not explicitly indicated under 'the price includes'. In particular are not included travel toward Pisa and return from Florence, organization and payment of these are in charge of the participant. Meals not specified in the official schedule are not included. The organizing committee will however suggest a few places where to eat and spend some free time."
-      url: "#!"
+#    - text: "<b>The price includes:</b>
+#    </p><p> 
+#    - accommodation for the nights from May 15th to 19th, 
+#    </p><p> 
+#    - personalized event gadgets,
+#    </p><p> 
+#    - identification badge, 
+#    </p><p> 
+#    - access to the various facilities and events (university, laboratories, conferences), 
+#    </p><p> 
+#    - round trip transfer from Pisa to VIRGO
+#    </p><p> 
+#    - transport from Florence to Pisa
+#    </p><p>
+#    - the certificate of participation, 
+#    </p><p> 
+#    - insurance.
+#    </p><p> 
+#    If additional services are added, it will be reported in this section of the site."
+#      url: "#!"
+#    - text: "<b>The price does NOT include</b> anything not explicitly indicated under 'the price includes'. In particular are not included travel toward Pisa and return from Florence, organization and payment of these are in charge of the participant. Meals not specified in the official schedule are not included. The organizing committee will however suggest a few places where to eat and spend some free time."
+#      url: "#!"
 
 
-#deadlines:
-#  info: "Please read carefully below."
-#  specs:
-#    - text: "The registration period will be from the 20 of March 2026 (12:00) to the 18 of April 2026 (23:59)."
-#      url: "#!"
-#    - text: "All applicants will be emailed within a few days of the registration closing, by April 22, in order to communicate the outcome of the selection for the event. If you are selected to participate in the event, you will have time until April 25 to confirm your attendance by paying the participation fee."
-#      url: "#!"
-#    - text: "It is possible that some spots may become available if participants give up their place. Any reassignments will be communicated by April 26. If you are selected from the waiting list, you will have until April 29 to confirm your attendance by paying the participation fee."
-#      url: "#!"
+deadlines:
+  info: "Please read carefully below."
+  specs:
+    - text: "The registration period will be from the 25 of March 2026 (12:00) to the 21 of April 2026 (23:59)."
+      url: "#!"
+    - text: "All applicants will be emailed within a few days of the registration closing, by April 23, in order to communicate the outcome of the selection for the event. If you are selected to participate in the event, you will have time until April 25 to confirm your attendance by paying the participation fee."
+      url: "#!"
+    - text: "It is possible that some spots may become available if participants give up their place. Any reassignments will be communicated by April 26. If you are selected from the waiting list, you will have until April 29 to confirm your attendance by paying the participation fee."
+      url: "#!"
      
 
 terms:
