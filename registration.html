@@ -61,10 +61,24 @@ title: Registration
   {% endfor %}
 </div>
   -->
+
+{% assign today_date = 'now' | date: '%s' | plus: 0 %}
+{% assign starting_date = site.data.registration.starting_date | date: '%s' | plus: 0 %}
+{% assign ending_date = site.data.registration.ending_date | date: '%s' | plus: 0 %}
+
+{% if today_date >= starting_date and today_date <= ending_date %}
   <div class="row center">
-  <h2>Registrations are not open yet! <br>For any info on the opening date check @lot.aisf on Instagram.</h2>
+    <h2>Registrations are open! <br>For additional info on the event check @lot.aisf on Instagram.</h2>
   </div>
-</div>
+{% elsif today_date < starting_date %}
+  <div class="row center">
+    <h2>Registrations are not open yet! <br>For any info on the opening date check @lot.aisf on Instagram.</h2>
+  </div>
+{% else %}
+  <div class="row center">
+    <h2>Registrations are closed! <br>Check @lot.aisf on Instagram for future events.</h2>
+  </div>
+{% endif %} 
 
 {% if site.data.registration.posters? %}
   <div class="section">
@@ -234,7 +248,7 @@ title: Registration
 {% if today_date > starting_date %}
 <div class="col s4 m6">
 	<div class="row center">
-    <a href="https://forms.gle/VoqQL6qCSAeJGZLM8" target="_blank" id="about-button" class="btn-large waves-effect waves-light">Registration Form</a>
+    <a href="https://docs.google.com/forms/d/e/1FAIpQLSfAIOvgYE21vWay_YKZCgn4Y81-CT8DzVvn5YksCWtwAMjruA/viewform?usp=dialog" target="_blank" id="about-button" class="btn-large waves-effect waves-light">Registration Form</a>
   </div>
 </div>
 {% else %}
