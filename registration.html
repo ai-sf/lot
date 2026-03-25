@@ -68,9 +68,6 @@ title: Registration
 
 {% if today_date >= starting_date and today_date <= ending_date %}
 ---->  
-<div class="row center">
-    <h2>Registrations are open! <br>For additional info on the event check @lot.aisf on Instagram.</h2>
-</div>
 <!----
 {% elsif today_date < starting_date %}
   <div class="row center">
@@ -82,6 +79,9 @@ title: Registration
   </div>
 {% endif %} 
 --->
+<div class="row center">
+    <h2>Registrations are open! <br>For additional info on the event check @lot.aisf on Instagram.</h2>
+</div>
 {% if site.data.registration.posters? %}
   <div class="section">
     <h2>Posters and Talks</h2>
@@ -242,6 +242,11 @@ title: Registration
 </div>
 
 
+<div class="col s4 m6">
+	<div class="row center">
+    <a href="https://docs.google.com/forms/d/e/1FAIpQLSfAIOvgYE21vWay_YKZCgn4Y81-CT8DzVvn5YksCWtwAMjruA/viewform?usp=dialog" target="_blank" id="about-button" class="btn-large waves-effect waves-light">Registration Form</a>
+  </div>
+</div>
 <!---
 {% assign today_date = 'now' | date: '%s' %}
 {% assign starting_date = site.data.registration.starting_date | date: '%s' %}
@@ -249,11 +254,7 @@ title: Registration
 {% if today_date < ending_date %}
 {% if today_date > starting_date %}
 --->
-<div class="col s4 m6">
-	<div class="row center">
-    <a href="https://docs.google.com/forms/d/e/1FAIpQLSfAIOvgYE21vWay_YKZCgn4Y81-CT8DzVvn5YksCWtwAMjruA/viewform?usp=dialog" target="_blank" id="about-button" class="btn-large waves-effect waves-light">Registration Form</a>
-  </div>
-</div>
+
 <!--
 {% else %}
   <div class="row center">
