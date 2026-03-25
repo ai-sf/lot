@@ -73,7 +73,7 @@ schedule:
     short_descr: Labs visits and Conferences
     activity:
       - hour: "08:30 AM - 12:00 AM"
-        descr: "Visit to INO-CNR and NEST"
+        descr: "Visit to INO-CNR"
       - hour: "12:00 AM - 02:00 PM"
         descr: "Lunch (offered)"
       - hour: "02:00 PM - 03:00 PM"

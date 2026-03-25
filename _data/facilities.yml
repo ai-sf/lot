@@ -8,8 +8,6 @@ intro: "The scientific programme plans to show the participants a wide spectrum 
 <br>
   - The European Laboratory for Non-linear Spectroscopy (LENS)
 <br>
-  - National Enterprise for nanoScience and nanoTechnology (NEST)
-<br>
   - Astrophysical Observatory of Arcetri (OOA, INAF)
 <br>
   - The University of Pisa
@@ -77,13 +75,7 @@ science:
     descr: "The Department of Physics and Astronomy (DFA) at the University of Florence is a leading center for research and education. It covers theoretical and experimental physics and collaborates with international institutions and major scientific projects. Its research groups explore all fields of physics, from subnuclear particles to astrophysical objects, condensed matter, and photonics. During our visit, we will explore laboratories dedicated to light and its interaction with matter. Here, physicists investigate ultracold atoms, Bose-Einstein condensates, quantum states of light, quantum cryptography, and many other fascinating topics."
     site: "https://www.fisica.unifi.it/"
     map: "https://maps.app.goo.gl/fKwvGGHXt32dArFa7"
-    
-  - img: img/nest1.jpg
-    title: NEST
-    descr: "NEST, the National Enterprise for nanoScience and nanoTechnology, is an interdisciplinary research and training centre where physicists, chemists and biologists investigate scientific issues at the nanoscale. This knowledge is exploited to develop innovative nanobiotechnological tools, nanoelectronic and photonic devices and architectures."
-    site: "https://www.laboratorionest.it/"
-    map:  "https://maps.app.goo.gl/MXcfpqTSHnZmtNKc8"
-  
+      
   - img: img/facilities/arcetri.jpg
     title: Astrophysical Observatory of Arcetri (OOA, INAF) 
     descr: "The historic INAF research center is at the forefront of the development of advanced optical instrumentation in the visible and infrared fields, with particular attention to adaptive optics. These innovative instruments, the result of over twenty years of research, are used to reveal the secrets of the universe, from spectroscopic analysis to the mapping of cosmic light."
