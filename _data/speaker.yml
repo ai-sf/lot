@@ -6,7 +6,7 @@ content:
     uni: "IIT and NEST"
     img: "camilla_coletti.jpg"
     bio: "<p style='text-align:justify'>Camilla Coletti is a tenured Senior Scientist of the Istituto Italiano di Tecnologia (IIT) and principal investigator of the research line 2D Materials Engineering. She is the coordinator of the Center for Nanotechnology Innovation of Pisa and of the Graphene Labs. Her research is currently focused on: 
-      <ol type='i' style='color: black;'> 
+      <ol type='i'> 
         <li> (i) synthesis and integration of scalable 2D materials for electronics, photonics and quantum technologies
         <li> (ii) engineering van der Waals heterostructures.
       </ol>
@@ -16,6 +16,11 @@ content:
     uni: "European Gravitational Observatory and Advanced Virgo Auxiliary Laser System"
     img: "CamillaDeRossi.jpg"
     bio: "<p style='text-align:justify'>Camilla de Rossi is an experimental physicist with expertise in laser optics and gravitational wave detectors and technologist at the European Gravitational Observatory. As head of the Advanced Virgo Auxiliary Laser System, she contributes to the commissioning, control, and upgrade of the optical systems (INJ, PSL) aqnd the development of the AdV+ phase and the Einstein Telescope. She holds a PhD in Bose-Einstein condensates and has extensive experience in optical simulations, feedback systems, and the management of complex subsystems in large international collaborations.</p>"
+  - nome: "Giovanni Batignani"
+    id: speakerinvitati
+    uni: Sapienza University of Rome
+    img: "GiovanniBatignani.jpg"
+    bio: "<p style='text-align:justify'>Giovanni Batignani is an Associate Professor in the Department of Physics at Sapienza University of Rome. He earned his Ph.D. in Physical and Chemical Sciences from the University of L'Aquila in 2017, following his studies in Physics at the University of Siena (Bachelor's degree) and Sapienza University (Master's). As a member of the Femtoscopy group, his research focuses on Time-Resolved Vibrational Spectroscopy, aiming to unveil the ultrafast structural and dynamical properties of molecular systems and condensed matter. By integrating experimental and numerical approaches, Prof. Batignani develops advanced nonlinear Raman spectroscopy methods that exploit multiple light pulses to bypass the constraints imposed by the Fourier limit, enabling the investigation of matter on sub-picosecond timescales. His work has been recognized with the 2022 Raman Award for Best Junior Researcher and a 2024 ERC Starting Grant for his project on multidimensional Raman spectroscopy. </p>"
 # content:
 # - nome: "Professor Doctor Giacomo Scalari"
 #  id: id

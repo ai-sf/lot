@@ -32,11 +32,9 @@ title: Conferences
       <i>{{ item.uni }}</i>
     </span>
   	<br>
-		{% if item.bio != nihil %}
-		<p style="text-align:justify">
-      {{ item.bio }}
-    </p>
-		{% endif %}
+		{% if item.bio != nil %}
+           {{ item.bio }}
+        {% endif %}
 		<br>
 		{% if item.title != nil %}
     <p style="color:{{site.data.generic.color1}}"><b>{{item.title}}</b></p>
@@ -78,15 +76,13 @@ title: Conferences
       <i>{{ item.uni }}</i>
     </span>
   	<br>
-		{% if item.bio != nihil %}
-		<p style="text-align:justify">
-      {{ item.bio }}
-    </p>
-		{% endif %}
+		{% if item.bio != nil %}
+           {{ item.bio }}
+        {% endif %}
 		<br>
 		{% if item.title != nil %}
     <p style="color:{{site.data.generic.color1}}"><b>{{item.title}}</b></p>
-		<p style="text-align:justify">{{ item.abstract }}</p>
+		<p style="text-align:justify" class="abstract">{{ item.abstract }}</p>
 		{% endif %}
 	  
 	   	{% if item.slides != nil %}

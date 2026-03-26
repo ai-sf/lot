@@ -12018,5 +12018,9 @@ table.striped > tbody > tr:nth-child(odd) {
     top: 20px !important;
   }
 }
+.speaker-list [data-theme=dark] .speaker-list ol,
+.speaker-list [data-theme=dark] .speaker-list ol li {
+  color: #ffffff !important;
+}
 
 /*# sourceMappingURL=main.css.map */

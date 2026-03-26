@@ -652,7 +652,6 @@ table.striped > tbody > tr:nth-child(odd) {
             border-radius: 50% !important;
             object-fit: cover !important; // Taglio perfetto, niente facce schiacciate!
         }
-
         // --- RESPONSIVE MOBILE ---
         // Su schermi piccoli, mettiamo la foto in alto al centro e il testo sotto
         @media only screen and (max-width: 600px) {
@@ -666,5 +665,9 @@ table.striped > tbody > tr:nth-child(odd) {
                 top: 20px !important;
             }
         }
+    }
+    [data-theme="dark"] .speaker-list ol,
+    [data-theme="dark"] .speaker-list ol li {
+    color: #ffffff !important;
     }
 }
