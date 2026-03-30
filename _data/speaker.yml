@@ -3,7 +3,7 @@ description: "We are happy to host professors, academics and other prominent fig
 content:
   - nome: "Camilla Coletti"
     id: speakerinvitati
-    uni: "IIT and NEST"
+    uni: "Istituto Italiano di Tecnologia (IIT) and National Enterprise for nanoScience and nanoTechnology (NEST)"
     img: "camilla_coletti.jpg"
     bio: "<p style='text-align:justify'>Camilla Coletti is a tenured Senior Scientist of the Istituto Italiano di Tecnologia (IIT) and principal investigator of the research line 2D Materials Engineering. She is the coordinator of the Center for Nanotechnology Innovation of Pisa and of the Graphene Labs. Her research is currently focused on: 
       <ol type='i'> 
@@ -28,6 +28,15 @@ content:
     bio: "<p style='text-align:justify'>Dr. Giuseppe Emanuele Lio earned his Ph.D. in Physics, Chemistry, and Materials Science and Technology from the University of Calabria and the Nanotechnology Institute. He served as a research fellow at the National Institute of Optics, followed by a position as a research associate (RTDa) at the Department of Physics of the University of Florence and LENS. Subsequently, he was a Postdoctoral fellow at the Nanoscience Institute (CNR-Nano) in Pisa. Currently, he is Assistant Professor (RTT) at the Department of Physics of the University of Pisa. Throughout his career, his research in the photonics field has focused on metamaterials, thermo-plasmonics, metasurfaces for beam-steering, physical unclonable functions, and Passive Radiative Cooling.</p>"
     title: "Passive Radiative Cooling: Harnessing Light-Matter Interaction from Nano to Macro"
     abstract: "How can an infinitely small structure—one-thousandth the width of a human hair and invisible to the naked eye—help us fight climate change? The answer lies in the fascinating world of light-matter interaction. When we engineer materials at the nano- or micro-scale, we can design them to behave in unexpected ways. In this talk, we will take a journey from the the infinitely small to macroscopic applications, focusing on a revolutionary technology: Passive Radiative Cooling (PRC). We will discover how special materials, thanks to their microscopic architecture, are able to reflect sunlight and, simultaneously, radiate their own heat directly into deep space, bypassing the Earth atmosphere. The result? Surfaces that cool themselves down without consuming a single watt of electricity. A perfect blend of fundamental physics and sustainable innovation for our future."
+  
+description2: "Furthermore, during LOT26, you will have the opportunity to learn about the academic experiences of other physics students. They will also participate as speakers in the conferences and events organized during the program."
+
+content2:
+  - nome: "Dorotea Nardini"
+    id: id
+    uni: "European Laboratory for Non-Linear Spectroscopy (LENS)"
+    img: "dorotea.jpg"
+    bio: "<p style='text-align:justify'>Dorotea Nardini holds an MSc degree in Physics from the University of Florence and is a PhD student in Atomic and Molecular Photonics at the European Laboratory for Non-Linear Spectroscopy (LENS). Her research focuses on the development of a hyperspectral imaging (HSI) system for the identification and grading of brain tumors. Her work also involves the volumetric reconstruction of the biochemical microenvironment in brain cancer samples using light-sheet fluorescence microscopy (LSFM). This dual approach aims to correlate superficial spectral information with the underlying structural and molecular features of the tissue.</p>"
 # content:
 # - nome: "Professor Doctor Giacomo Scalari"
 #  id: id
