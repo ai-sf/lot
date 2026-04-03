@@ -43,7 +43,7 @@ schedule:
     short_descr: From Florence to Pisa
     activity:
       - hour: "09:30 AM - 12:30 AM"
-        descr: "TBD"
+        descr: "Visit to Galileo Museum"
       - hour: "12:30 AM - 02:00 PM"
         descr: "Free lunch"
       - hour: "02:00 PM - 04:00 PM"

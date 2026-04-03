@@ -93,8 +93,8 @@ science:
 #    site: "https://www.santannapisa.it/it"
 #    map: "https://maps.app.goo.gl/Jt8NAMdP7gKnm6p36"
     
-#  - img: img/facilities/museogalileo.jpg
-#    title: The Galileo Museum
-#    descr: "The Galileo Museum in Florence is a world-renowned institution dedicated to the history of science. It houses an extensive collection of scientific instruments from the Renaissance, including original artifacts from Galileo Galilei. During our visit, you’ll explore historical telescopes, astrolabes, and groundbreaking discoveries that shaped the evolution of modern science and scientific though."
-#    site: "https://www.museogalileo.it/it/"
-#    map: "https://maps.app.goo.gl/4fhov6DBTReKF4EDA"
+  - img: img/facilities/museogalileo.jpg
+    title: The Galileo Museum
+    descr: "The Galileo Museum in Florence is a world-renowned institution dedicated to the history of science. It houses an extensive collection of scientific instruments from the Renaissance, including original artifacts from Galileo Galilei. During our visit, you’ll explore historical telescopes, astrolabes, and groundbreaking discoveries that shaped the evolution of modern science and scientific though."
+    site: "https://www.museogalileo.it/it/"
+    map: "https://maps.app.goo.gl/4fhov6DBTReKF4EDA"
