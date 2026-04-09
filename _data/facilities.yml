@@ -8,7 +8,7 @@ intro: "The scientific programme plans to show the participants a wide spectrum 
 <br>
   - The European Laboratory for Non-linear Spectroscopy (LENS)
 <br>
-  - Astrophysical Observatory of Arcetri (OOA, INAF)
+  - Astrophysical Observatory of Arcetri (INAF OAA)
 <br>
   - The University of Pisa
 <br>
@@ -77,8 +77,8 @@ science:
     map: "https://maps.app.goo.gl/fKwvGGHXt32dArFa7"
       
   - img: img/facilities/arcetri.jpg
-    title: Astrophysical Observatory of Arcetri (OOA, INAF) 
-    descr: "The historic INAF research center is at the forefront of the development of advanced optical instrumentation in the visible and infrared fields, with particular attention to adaptive optics. These innovative instruments, the result of over twenty years of research, are used to reveal the secrets of the universe, from spectroscopic analysis to the mapping of cosmic light."
+    title: Astrophysical Observatory of Arcetri (INAF OAA) 
+    descr: "The historic INAF OAA research center is at the forefront of the development of advanced optical instrumentation in the visible and infrared fields, with particular attention to adaptive optics. These innovative instruments, the result of over twenty years of research, are used to reveal the secrets of the universe, from spectroscopic analysis to the mapping of cosmic light, across various research fields including the study of asteroids and comets, astrobiology, star formation, galaxies, observational cosmology, and high-energy astrophysics."
     site: "https://www.arcetri.inaf.it/en/"
     map: "https://maps.app.goo.gl/VXgucQarDKBgh7z4A"
 #  - img: img/facilities/labs_unipi.jpg

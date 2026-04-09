@@ -71,7 +71,12 @@
     - text: "LENS Florence"
       img: lens.png
       link: "https://lens.unifi.it/"
-
+    - text: "INAF"
+      img: INAF.png
+      link: "http://www.inaf.it/en"
+    - text: "Museo Galileo"
+      img: Museo_Galileo.png
+      link: "https://www.museogalileo.it/en/"
 #    - text: "SIF Italian Society of Physics"
 #      img: logo-SIF-vettoriale-bn.svg
 #      link: "https://www.sif.it/"
