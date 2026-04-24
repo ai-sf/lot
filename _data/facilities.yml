@@ -32,14 +32,14 @@ university:
 
 accomodation:
   - img: img/facilities/hotel.jpg
+    descr: "Accomodation from May 17th to May 19th (2 night) will be in Pisa and will be provided at the  Hotel Moderno, Via F. Corridoni, 103 - 56125 Pisa (PI)"
     title: Hotel Moderno
-    descr: "Accomodation from May 15th to May 17th (2 nights) will be in Pisa and will be provided at the Hotel Moderno, Via F. Corridoni, 103 - 56125 Pisa (PI)"
     site: "https://www.hotelmoderno.pisa.it/en/"
     map: "https://goo.gl/maps/BuixrGsC8tQ2"
    
   - img: img/facilities/firenze_ostello.jpg
     title: a&o Firenze Campo di Marte Hostel, Florence
-    descr: "Accomodation from May 17th to May 19th (2 night) will be in Florence and will be provided at the a&o Firenze Campo di Marte Hostel, Via Mannelli 119, 50132 Firenze (FI)"
+    descr: "Accomodation from May 15th to May 17th (2 nights) will be in Florence and will be provided at the a&o Firenze Campo di Marte Hostel, Via Mannelli 119, 50132 Firenze (FI)"
     site: "https://www.aohostels.com/it/firenze/firenze-campo-di-marte/"
     map: "https://maps.app.goo.gl/3f7CdQmX7ueXwKey5"
    
