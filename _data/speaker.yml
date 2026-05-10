@@ -56,7 +56,7 @@ content2:
     abstract: "Pump probe spectroscopy refers to the ensemble of experimental techniques which study the out of equilibrium temporal evolution of a sample upon a photoexcitation. When combined with vibrational spectroscopy, it enables the monitoring of molecular relaxation dynamics. Among these techniques, impulsive stimulated Raman scattering (ISRS) uses a two-pulse scheme to stimulate and read out vibrational signatures directly in time domain. Critically, it requires a full scan of the time delay between the two pulses along the entire dephasing time, which implies long acquisition times as well as extended exposure of the sample to multiple ultrashort pulses. To overcome these limitations, we introduce a large temporal delay between the different spectral components of the probe pulse, i.e. a chirp, for recording Raman vibrations without the need of scanning over the pump-probe pulse delay."
   - nome: "Nessim Louafi"
     id: id
-    uni: "Friedrich Miescher Institute for Biomedical Research, (FMI)"
+    uni: "Friedrich Miescher Institute for Biomedical Research (FMI), Basel, Switzerland"
     img: "nessim.jpg"
     bio: ""
     title: "Staying in Contact: How Microscopy Reveals the Hidden Dance of DNA"
