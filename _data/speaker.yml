@@ -31,13 +31,17 @@ content:
   - nome: "Doctor Alice Boschetti"
     id: speakerinvitati
     uni: "European Laboratory for Non-Linear Spectroscopy (LENS) and National Metrology Institute of Italy (INRiM)"
-    bio: "Alice Boschetti earned her PhD at the European Laboratory of Non-Linear Spectroscopy, where she developed an innovative method for spectral super-resolution spectroscopy using a random laser. Presently, she is a researcher at the National Metrology Institute of Italy, focusing on the development of unconventional light sources based on light-harvesting materials, as well as complex porous and scattering materials for photonics and sustainability. She participates in the APACE project as the Scientific Responsible for the INRIM unit, leading the development of the bioinspired micro-solar laser device. Together with the INRIM team, Alice will develop multilayer optical micro-cavities, leveraging advanced optical and morphological characterization techniques such as scanning electron microscopy and optical profilometry, as well as state-of-the-art fabrication methods like direct laser writing."
+    bio: "<p style='text-align: justify'> Alice Boschetti earned her PhD at the European Laboratory of Non-Linear Spectroscopy, where she developed an innovative method for spectral super-resolution spectroscopy using a random laser. Presently, she is a researcher at the National Metrology Institute of Italy, focusing on the development of unconventional light sources based on light-harvesting materials, as well as complex porous and scattering materials for photonics and sustainability. She participates in the APACE project as the Scientific Responsible for the INRIM unit, leading the development of the bioinspired micro-solar laser device. Together with the INRIM team, Alice will develop multilayer optical micro-cavities, leveraging advanced optical and morphological characterization techniques such as scanning electron microscopy and optical profilometry, as well as state-of-the-art fabrication methods like direct laser writing.</p>"
     img: "alice_boschetti.jpg"
+    title: "Soft photonics with polymeric platforms: from spectral encoding to microlasers"
+    abstract: "Compact photonic technologies increasingly rely on the combination of solution-processable materials, simple architectures, and computational methods. Within this framework, reconstructive spectroscopy and organic strong-coupling platforms offer two complementary directions for soft photonics. In reconstructive spectroscopy, spectral information is retrieved from a limited number of measurements, reducing the need for conventional dispersive components. Inkjet-printed arrays of broadband optical filters have been shown to support accurate spectral reconstruction over a wide bandwidth when combined with suitable regularization and filter-selection procedures, enabling compact and low-cost spectrometers. In parallel, supramolecular light-harvesting complexes embedded in metal-based organic microcavities enable room-temperature exciton-polariton formation with large Rabi splittings in low-Q systems. These structures represent scalable and loss-tolerant platforms for low-threshold microlasers and related polaritonic devices. Together, these results show how tailored materials, scalable fabrication, and computational design can be combined to develop miniaturized photonic platforms for spectroscopy, sensing, and light-matter control."
   - nome: "Giovanni Modugno"
     id: speakerinvitati
     uni: University of Florence
     img: "GiovanniModugno.jpg"
     bio: "<p style='text-align:justify'>Giovanni Modugno is a Full Professor of Condensed Matter Physics at the University of Florence and a leading experimental physicist specializing in ultracold quantum gases. His groundbreaking research includes the first Bose-Einstein condensation of potassium, the creation of Bose-Fermi mixtures, and the first-ever observation of the elusive 'supersolid' phase in magnetic atoms. His pioneering work in these fields earned him a prestigious ERC Starting Grant in 2007 and led to his coordination of major international projects, such as the H2020 FET 'QUIC' quantum simulation project. With over 80 highly cited publications in top-tier journals like Nature and Science, his scientific excellence is further recognized by his 2014 APS Outstanding Referee award and his membership in the Academia Europaea.</p>"
+    title: "Discovering the supersolid phase of matter with quantum gases"
+    abstract: "Supersolids are a fundamental quantum phase of matter combining properties of crystals and of superfluids. A supersolid phase was recently discovered in Bose-Einstein condensates of strongly magnetic atoms. I will discuss how a supersolid can behave as a self-induced Josephson junction array, and how it is possible to deduce from the Josephson dynamics the superfluid fraction, which is the universal property quantifying the deviation of supersolids from both crystals and superfluids."
 
 description2: "Furthermore, during LOT26, you will have the opportunity to learn about the academic experiences of other physics students. They will also participate as speakers in the conferences and events organized during the program."
 
@@ -61,6 +65,49 @@ content2:
     bio: ""
     title: "Staying in Contact: How Microscopy Reveals the Hidden Dance of DNA"
     abstract: "DNA is a long polymer chain packaged into the cell nucleus with a constrained geometry: the small size of the nucleus relative to the length of the DNA chain creates a very dense environment. The precise configuration of the DNA chain plays an important role into the activation of genes, which in turn provides the instructions for assembling proteins—the primary drivers of cellular activity. However, how the dynamical change in conformation relates to the precise activation in space and time of every gene is an open question. To tackle this problem, we employed high-resolution live-cell microscopy, enabling us to directly visualize and track the movement of DNA inside living cells in real time. We observed rare but long-lasting physical proximity events between DNA segments. These events are not random collisions due to thermal fluctuation of the DNA fiber; instead, they are driven by cohesin, a molecular complex that pulls DNA strands together into specific loops. Our data shows that only these sustained encounters—rather than brief, random meetings—are what successfully activate genes. This offers a new, unified view of how the physical dynamics of chromosomes control life at the cellular level."
+  - nome: "Krishna Nand Trivedi"
+    id: id
+    uni: ""
+    title: "From Laser Cooling to Precision Sensing with Cold Atoms Using Light"
+    abstract: "Krishna Nand Trivedi is a third-year PhD student in the field of Atomic Physics. He completed his bachelor’s and master’s studies in Physics in India before moving to Italy to pursue his PhD in the lab of Dr. Morsch. His research focuses on study of correlated dissipation in two-dimensional arrays of atoms trapped in optical tweezers. In my research, light is the main tool used to control and study atoms with very high precision. Using laser cooling techniques, we reduce the temperature of atoms from room temperature to nearly 150μK. Light is also used to probe the atomic gas and measure important properties such as its temperature. By combining carefully controlled laser fields with cold atoms, we can create highly sensitive platforms for precision measurements. These atom–light systems enable the detection of electric and magnetic fields with remarkable accuracy, opening the way to advanced sensing applications."
+  - nome: "Davide Baiocco"
+    id: id
+    uni: ""
+    title: "Guided systems for compact solid state laser sources"
+    abstract: "Davide Baiocco received his Bachelor's degree in Physics in 2020, his Master's degree in Physics in 2022, and his Ph.D. in Physics in 2026 at the University of Pisa. In his Master's and Ph.D. theses, he developed waveguide lasers based on rare-earth doped materials. He is currently a post-doc researcher at the University of Pisa, where he develops guided solid-state laser sources operating in the visible and near-infrared spectral bands. He is also working on microresonators for the mid-infrared and THz frequency regions. His research activity involves the fabrication of compact solid-state laser sources based on rare-earth-doped fluoride crystals."
+  - nome: "Gaia Di Carlo"
+    id: id
+    uni: ""
+    title: "Quantum cascade lasers in the THz spectral region"
+    abstract: "Gaia Di Carlo graduated in Condensed Matter Physics at the University of Pisa. Her thesis work involved quantum cascade lasers, both as sources and detectors, to probe the optical response of two-dimensional materials."
+  - nome: "Chiara Brugnoni"	
+    id: id
+    uni: ""
+    title: "Manipulating light with micrometric trampolines"	
+    abstract: "Chiara Brugnoni graduated in Condensed Matter Physics at the University of Pisa. I will talk about how it is possible to control the polarization of light by exploiting the optomechanical interaction between particular photonic states, known as BICs, and the vibrations of a trampoline-like suspended structure. In particular, we will understand how to excite the vibrational mode of the trampoline in order to take advantage of the ability of BICs to rotate the polarization of light."
+  - nome: "Pietro Lenzi"	
+    id: id
+    uni: ""
+    title: "Light and nanocrystals to measure temperature on the nanometer scale"	
+    abstract: "Pietro Lenzi got his bachelor degree in physics and my master degree in materials and nanotechnology from the University of Pisa. His research interests are nanotechnology and microscopy applied to life sciences. I’ll introduce the use of rare-earth-ion-doped nanocrystals as nanoscale temperature sensors for applications in fluorescence microscopy. The physical mechanisms and the main experimental characterization techniques will be discussed."
+  - nome: "Piergiorgio Laterza"	
+    id: id
+    uni: ""
+    title: "Role of light in spatial maps of ion velocity"
+    abstract: "Piergiorgio Laterza is a Master's student in Physics at the University of Pisa. His curriculum in Condensed Matter Physics has focused on optics, spectroscopy, and light-matter interactions. His project focuses on the development of a system based on Laser Induced Fluorescence (LIF) in support of the characterization of electric space propulsion systems. This work investigates the optical properties of ionized gases within the thrusters in order to obtain detailed information about the operating conditions of the system. Piergiorgio have found his dimension in the laboratory, where new challenges are faced and complex problems are solved every day. Experiments represent for him an opportunity to verify the theories learned during lectures and to develop solutions to real problems. On a personal level, he is deeply fascinated by the impact of optical technologies on various aspects of everyday life, and by how they can be used to solve complex problems with minimal invasiveness."
+  - nome: "Tommaso Risso"	
+    id: id
+    uni: ""
+    title: "Are cells playing tug-of-war?"
+    abstract: "Tommaso Risso obtained a master's degree in physics from the University of Pisa. His research interests lie in cellular biophysics, particularly in the development of experiemntal techniques based on advanced fluorescence microscopy to probe the cellular cytoskeleton and its mechanical properties."
+  - nome: "Martina	Cucinotta"
+    id: id
+    uni: ""
+    title: "Light in ATLAS hadron calorimeters"
+    abstract: "Martina Cucinotta is a PhD student in Particle Physics at the University of Siena working on the ATLAS experiment at CERN. Her research involves both Higgs boson data analysis and work on the ATLAS hadronic calorimeter, where tiny flashes of light are used to detect particles produced in high-energy collisions. In this short talk, will be discussed how light helps us make the invisible world of particles visible."
+
+
+
 # content:
 # - nome: "Professor Doctor Giacomo Scalari"
 #  id: id
