@@ -69,7 +69,8 @@ content2:
     bio: ""
     title: "Staying in Contact: How Microscopy Reveals the Hidden Dance of DNA"
     abstract: "DNA is a long polymer chain packaged into the cell nucleus with a constrained geometry: the small size of the nucleus relative to the length of the DNA chain creates a very dense environment. The precise configuration of the DNA chain plays an important role into the activation of genes, which in turn provides the instructions for assembling proteins—the primary drivers of cellular activity. However, how the dynamical change in conformation relates to the precise activation in space and time of every gene is an open question. To tackle this problem, we employed high-resolution live-cell microscopy, enabling us to directly visualize and track the movement of DNA inside living cells in real time. We observed rare but long-lasting physical proximity events between DNA segments. These events are not random collisions due to thermal fluctuation of the DNA fiber; instead, they are driven by cohesin, a molecular complex that pulls DNA strands together into specific loops. Our data shows that only these sustained encounters—rather than brief, random meetings—are what successfully activate genes. This offers a new, unified view of how the physical dynamics of chromosomes control life at the cellular level."
-description3: "Furthermore, during LoT26, you will have the opportunity to attend the talk of students belonging to the Science Café"
+
+description3: "Furthermore, during LoT26, you will have the opportunity to attend the 'Caffè Scientifico - The Role of Light in Physics Research', organized by the Department of Physics of the University of Pisa. Over a warm cup of coffee, you will be able to enjoy short outreach talks in which students from the department will share how light and optics play a role in their research"
 
 content3:
   - nome: "Krishna Nand Trivedi"

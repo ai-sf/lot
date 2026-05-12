@@ -60,7 +60,7 @@ schedule:
       - hour: "08:30 AM - 12:00 AM"
         descr: "Visit to VIRGO"
       - hour: "12:00 AM - 02:00 AM"
-        descr: "Lunch offered (Science Café)"
+        descr: "Science Café - The role of Light in Physics research"
       - hour: "03:00 PM - 05:00 PM"
         descr: "Visit to the labs of University of Pisa"
       - hour: "05:00 PM - 07:00 PM"
