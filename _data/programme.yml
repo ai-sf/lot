@@ -22,8 +22,6 @@ schedule:
         descr: "Coffe break and conferences"
       - hour: "07:00 PM - 08:00 PM"
         descr: "Free dinner"
-      - hour: "08:00 PM - ..."
-        descr: "Social event"
         
   - day: Saturday - DAY 2
     date: "16/05/2025"
@@ -32,11 +30,13 @@ schedule:
       - hour: "08:30 AM - 01:00 PM"
         descr: "Visit to the labs of the University of Florence and meeting with local PhD students"
       - hour: "01:00 PM - 02:00 PM"
-        descr: "Free lunch"
+        descr: "Lunch (offered)"
       - hour: "02:00 PM - 06:00 PM"
         descr: "Visit of Astrophysical Observatory of Arcetri"
-      - hour: "06:00 PM - ..."
-        descr: "Social dinner"
+      - hour: "06:00 PM - 08:00 PM"
+        descr: "Free dinner"
+      - hour: "08:00 PM - ..."
+        descr: "Social event"
         
   - day: Sunday - DAY 3
     date: "17/05/2025"
@@ -60,7 +60,7 @@ schedule:
       - hour: "08:30 AM - 12:00 AM"
         descr: "Visit to VIRGO"
       - hour: "12:00 AM - 02:00 AM"
-        descr: "Lunch (offered)"
+        descr: "Lunch offered (Science Café)"
       - hour: "03:00 PM - 05:00 PM"
         descr: "Visit to the labs of University of Pisa"
       - hour: "05:00 PM - 07:00 PM"

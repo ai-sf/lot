@@ -670,4 +670,8 @@ table.striped > tbody > tr:nth-child(odd) {
     [data-theme="dark"] .speaker-list ol li {
     color: #ffffff !important;
     }
+    .collection-item.caffe {
+        padding-left: 20px!important;
+        min-height: 180px !important;
+    }
 }
